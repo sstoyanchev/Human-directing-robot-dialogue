@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(toaster_0)\",\"Toggle_off(toaster_0)\",\"Pick_up(breadsliced_0)\",\"Place(breadsliced_0, plate_1)\"],\"explanation\":\"breadsliced_0 is already on toaster_0; I'll start the toaster to toast it, stop it, then pick up the slice and place it on a new plate (plate_1).\"}"

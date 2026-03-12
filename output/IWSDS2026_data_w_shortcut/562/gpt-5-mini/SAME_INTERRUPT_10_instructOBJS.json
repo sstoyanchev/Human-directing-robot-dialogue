@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateLeft)\"],\"explanation\":\"User requested a left turn; perform one left rotation.\"}"

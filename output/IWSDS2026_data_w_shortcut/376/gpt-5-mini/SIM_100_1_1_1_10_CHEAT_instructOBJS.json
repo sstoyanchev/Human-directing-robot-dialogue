@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_1)\",\"CONTINUE_NA\"],\"explanation\":\"Previous Pick_up(knife_0) failed (knife_0 is in the microwave). User asks to try another knife, so pick up a new knife_1 and then continue the not-attempted steps of the old plan (slice tomato_0).\"}"

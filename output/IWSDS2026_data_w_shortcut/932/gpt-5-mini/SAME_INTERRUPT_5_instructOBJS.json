@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(sink_1)\",\"Go_to(sink_1)\"],\"explanation\":\"User requested to go to the sink. Previous plan shows Pick_up(mug_0) was successful and the robot is holding mug_0, so create a new sink object sink_1 (not previously listed) and locate it then go to it.\"}"

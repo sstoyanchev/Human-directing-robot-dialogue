@@ -1,0 +1,1 @@
+ <USER> lets have coffee; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

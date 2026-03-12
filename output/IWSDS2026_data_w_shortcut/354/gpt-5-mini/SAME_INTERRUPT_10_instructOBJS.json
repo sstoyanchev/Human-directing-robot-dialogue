@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_0)\"],\"explanation\":\"User asked to open the cabinet; the discussed_objects identifies cabinet_0 as the cabinet. cabinet_0 is already Open in the state, so performing Open(cabinet_0) is redundant but matches the request.\"}"

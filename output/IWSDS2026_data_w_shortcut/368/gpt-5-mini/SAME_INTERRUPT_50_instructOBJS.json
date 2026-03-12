@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(watch_1,armchair_0)\"],\"explanation\":\"The user asks to put the held item in the same place as watch_0, which is on armchair_0. I am holding watch_1 (old plan succeeded), so place watch_1 on armchair_0.\"}"

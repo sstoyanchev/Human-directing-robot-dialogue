@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, sinkbasin_0)\"],\"explanation\":\"I am holding mug_0 \u2014 place it into the sink basin (use sinkbasin_0 for the sink_0 in the state).\"}"

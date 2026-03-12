@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(potato_0)\",\"Pick_up(potato_0)\"],\"explanation\":\"Old plan failed trying to pick up potato_1 (inside the cabinet). User asked for the potato on the floor, which is potato_0, so go to potato_0 and pick it up.\"}"

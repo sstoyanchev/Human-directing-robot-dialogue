@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(watch_0)\"],\"explanation\":\"User asked to get another watch; the discussed watch is watch_0 on armchair_0, and robot is empty-handed, so pick up watch_0.\"}"

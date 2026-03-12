@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\"],\"explanation\":\"User asked to move ahead -> execute Motion(MoveAhead). Previous RotateLeft succeeded and robot is not holding anything.\"}"

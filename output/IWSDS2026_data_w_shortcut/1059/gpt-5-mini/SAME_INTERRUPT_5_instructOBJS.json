@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Close(fridge_0)\",\n    \"Find(tomato_1)\"\n  ],\n  \"explanation\": \"Old plan completed; fridge_0 is open and I'm holding knife_0. User asked to close the fridge and find a tomato. Tomato not in discussed_objects, so I create tomato_1 and will search for it after closing fridge_0 (I remain holding knife_0).\"\n}"

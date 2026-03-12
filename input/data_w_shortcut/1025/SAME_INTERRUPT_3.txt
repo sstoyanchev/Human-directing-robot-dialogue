@@ -1,0 +1,5 @@
+Example 310  <USER> place the cloth in the sink; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Place(cloth_0, bathtubbasin_0)", "status": "SubgoalStatus.FAILED"}], "holding": "cloth_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(cloth_0, sinkbasin_0)"]}
+
+Example 171  <USER> its in the cabinet; STATE: {"discussed_objects": ["tomato_0  is on top of a DiningTable ; ", "knife_0  is inside a Microwave ; ", "knife_1  is inside a Cabinet ; "], "old_plan": [{"command": "Pick_up(knife_1)", "status": "SubgoalStatus.FAILED"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Open(cabinet_0)", "Pick_up(knife_1)"]}
+
+Example 272  <USER> put the knife on a countertop; STATE: {"discussed_objects": ["knife_0 is PickedUp,   ; ", "bread_0  ; ", "drawer_0  , has on top PepperShaker, DishSponge, Egg; "], "old_plan": [{"command": "Place(knife_0, drawer_0)", "status": "SubgoalStatus.FAILED"}], "holding": "knife_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(knife_0, countertop_0)"]}

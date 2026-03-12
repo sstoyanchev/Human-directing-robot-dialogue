@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(laundryhamper_0)\",\"Pick_up(laundryhamper_0)\",\"Place(laundryhamper_0, bathtub_0)\",\"Pick_up(soapbottle_0)\",\"Place(soapbottle_0, bathtub_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\"],\"explanation\":\"Empty the laundry hamper into the bathtub, add soap, then fill the tub with water to wash the clothes.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(peppershaker_1)\"],\"explanation\":\"Find(peppershaker_1) was completed in the old plan; user asked to remove it from the sink, so I will pick up peppershaker_1 from sinkbasin_0.\"}"

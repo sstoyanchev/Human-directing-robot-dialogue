@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(mug_0)\"],\"explanation\":\"Find(mug_0) is SUCCESSFUL and the user asked to go to the mug, so navigate to mug_0.\"}"

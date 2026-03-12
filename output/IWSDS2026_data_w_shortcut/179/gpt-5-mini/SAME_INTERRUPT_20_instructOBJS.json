@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_1, sinkbasin_2)\",\"Toggle_on(faucet_2)\"],\"explanation\":\"User points out the held mug (mug_1) is dirty. old_plan shows mug_1 is picked up and I'm holding it, so I will place it in a sink (sinkbasin_2) and turn on the faucet (faucet_2) to clean it.\"}"

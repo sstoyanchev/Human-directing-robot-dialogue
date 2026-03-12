@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(breadsliced_1)\",\"Place(breadsliced_1,toaster_1)\"],\"explanation\":\"User asked to pick up a slice of bread and put it in the toaster. No breadsliced or toaster IDs in discussed_objects, so I created breadsliced_1 and toaster_1 and will pick up the slice then place it in the toaster.\"}"

@@ -1,0 +1,5 @@
+Example 257  <USER> make coffee; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cup_0)", "Place(cup_0, coffeemachine_0)", "Toggle_on(coffeemachine_0)", "Toggle_off(coffeemachine_0)", "Pick_up(cup_0)", "Place(cup_0, countertop_0)"]}
+
+Example 411  <USER> make me a cup of coffee; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cup_0)", "Place(cup_0, coffeemachine_0)", "Toggle_on(coffeemachine_0)", "Toggle_off(coffeemachine_0)", "Pick_up(cup_0)", "Place(cup_0, countertop_0)"]}
+
+Example 202  <USER> pickup a potato; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(potato_0)"]}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bowl_1)\",\"Pick_up(bowl_1)\"],\"explanation\":\"Find(bowl_1) succeeded and fridge_0 is open, so I'll go to bowl_1 (on the fridge) and pick it up.\"}"

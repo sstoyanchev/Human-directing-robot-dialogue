@@ -1,0 +1,1 @@
+ <USER> use a bottle to water the plant; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

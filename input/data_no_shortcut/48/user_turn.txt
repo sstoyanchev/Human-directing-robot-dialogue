@@ -1,0 +1,1 @@
+ <USER> go to the cabinet, open it and place the potato inside; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Place(potato_0, cabinet_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": "potato_0"}

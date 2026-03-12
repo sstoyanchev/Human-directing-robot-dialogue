@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(apple_0)\",\"Go_to(apple_0)\",\"Pick_up(apple_0)\"],\"explanation\":\"No apple in discussed_objects, so introduce apple_0. To get an apple I will locate it, go to it, and pick it up.\"}"

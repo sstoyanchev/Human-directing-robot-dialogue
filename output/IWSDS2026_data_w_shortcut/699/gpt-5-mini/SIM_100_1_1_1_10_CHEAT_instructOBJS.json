@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"CONTINUE_NA\"],\"explanation\":\"User asked to pick up the mug first. mug_0 is not held and the old plan has remaining NOT_ATTEMPTED steps, so I will pick up mug_0 now and then continue executing the rest of the old plan.\"}"

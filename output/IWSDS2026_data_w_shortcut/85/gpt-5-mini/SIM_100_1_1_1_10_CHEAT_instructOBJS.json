@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(pot_0, sinkbasin_0)\",\"CONTINUE_FAILED\"],\"explanation\":\"pot_0 is picked up and filled; user asked to pour out \u2014 pour pot_0 into sinkbasin_0 and continue the old plan starting from the failed Place step.\"}"

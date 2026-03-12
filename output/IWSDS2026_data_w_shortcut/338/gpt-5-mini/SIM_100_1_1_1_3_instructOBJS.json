@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(mug_0, sinkbasin_0)\",\"Place(mug_0, coffeemachine_0)\"],\"explanation\":\"User asked to empty the object they referred to. I am holding mug_0, so I will pour its contents into sinkbasin_0 to empty it, then continue the pending step to place mug_0 on coffeemachine_0 from the old plan.\"}"

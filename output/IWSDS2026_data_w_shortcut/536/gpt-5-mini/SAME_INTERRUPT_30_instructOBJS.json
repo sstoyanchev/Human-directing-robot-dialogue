@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"Place(mug_0, coffeemachine_2)\"],\"explanation\":\"User asked to take the mug to the coffee machine. mug_0 is on countertop_0 in the state, so I will pick up mug_0. The coffee machine wasn't listed, so I reference it as coffeemachine_2 and place the mug there.\"}"

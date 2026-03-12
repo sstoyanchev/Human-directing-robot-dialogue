@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(watch_0, armchair_1)\"],\"explanation\":\"holding is watch_0 and user asked to put it on an armchair; armchair not in discussed_objects so used armchair_1 as the receptacle id.\"}"

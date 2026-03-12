@@ -1,0 +1,1 @@
+ <USER> it looks dirty, lets wash it first; STATE: {"discussed_objects": ["mug_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Place(mug_0, coffeemachine_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": "mug_0"}

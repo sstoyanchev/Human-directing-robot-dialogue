@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(pot_0)\"\n  ],\n  \"explanation\": \"The user asked to pick up the pot. pot_0 is on countertop_0 in the discussed_objects and I am not holding anything, so I will Pick_up(pot_0).\"\n}"

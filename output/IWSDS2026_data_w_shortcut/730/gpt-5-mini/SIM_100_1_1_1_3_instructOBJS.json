@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(drawer_1)\",\"Open(drawer_1)\",\"Place(knife_0,drawer_1)\",\"Close(drawer_1)\"],\"explanation\":\"I am currently holding knife_0 (from state). To put it away I'll go to a drawer (drawer_1), open it, place the knife inside, and close the drawer.\"}"

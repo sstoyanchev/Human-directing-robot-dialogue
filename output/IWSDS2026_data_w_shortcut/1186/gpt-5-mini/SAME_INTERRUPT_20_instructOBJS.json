@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\"],\"explanation\":\"User asked to move further forward, so perform another MoveAhead motion. I am currently holding knife_0.\"}"

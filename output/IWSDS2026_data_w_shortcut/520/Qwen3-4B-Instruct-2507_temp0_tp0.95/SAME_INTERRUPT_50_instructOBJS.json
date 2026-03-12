@@ -1,0 +1,1 @@
+{"intent": "Command", "plan": ["Motion(RotateLeft)"], "explanation": "The user instruction 'tune left' is interpreted as a command to rotate left. Since the robot can only perform motion commands like RotateLeft, the plan consists of a single motion action to rotate left. No objects are involved, and the state does not provide any context requiring additional steps."}

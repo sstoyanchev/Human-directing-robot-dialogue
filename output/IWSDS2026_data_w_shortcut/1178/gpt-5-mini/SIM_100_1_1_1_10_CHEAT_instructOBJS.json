@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bread_0)\",\"CONTINUE_FAILED\"],\"explanation\":\"Go to bread_0 now (user requested), then continue the old plan starting from the failed Slice(bread_0) step while holding knife_0.\"}"

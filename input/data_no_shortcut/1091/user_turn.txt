@@ -1,0 +1,1 @@
+ <USER> empty the pot; STATE: {"discussed_objects": ["pot_0 is FilledWithLiquid,  is Dirty,  is PickedUp,   ; ", "sink_0  ; "], "old_plan": [{"command": "Go_to(sink_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "pot_0"}

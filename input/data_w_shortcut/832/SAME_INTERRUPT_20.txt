@@ -1,0 +1,39 @@
+Example 241  <USER> make coffee; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cup_0)", "Place(cup_0, coffeemachine_0)", "Toggle_on(coffeemachine_0)", "Toggle_off(coffeemachine_0)", "Pick_up(cup_0)", "Place(cup_0, countertop_0)"]}
+
+Example 299  <USER> put all potatoes in a cabinet; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Open(cabinet_0)", "Pick_up(potato_0)", "Place(potato_0, cabinet_0)", "Pick_up(potato_1)", "Place(potato_1, cabinet_0)"]}
+
+Example 202  <USER> pickup a potato; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(potato_0)"]}
+
+Example 131  <USER> lets make a toast; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(knife_0)", "Slice(bread_0)", "Pick_up(breadsliced_0)", "Place(breadsliced_0, toaster_0)", "Toggle_on(toaster_0)"]}
+
+Example 52  <USER> clean a pot; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(pot_0)", "Place(pot_0, sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pour(pot_0,sinkbasin_0)", "Pick_up(pot_0)", "Place(pot_0, countertop_0)"]}
+
+Example 50  <USER> water the plant; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "make sure to turn off the water after filling the mug", "intent": "Command", "plan": ["Pick_up(mug_0)", "Place(mug_0, sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pick_up(mug_0)", "Pour(mug_0, houseplant_0)"]}
+
+Example 265  <USER> pick up a mug; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(mug_0)"]}
+
+Example 178  <USER> find a tomato; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(tomato_0)"]}
+
+Example 217  <USER> find a bottle; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(bottle_0)"]}
+
+Example 381  <USER> go and find a knife; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(knife_0)"]}
+
+Example 263  <USER> place all the potatoes in the cabinet; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(potato_0)", "Place(potato_0, cabinet_0)", "Pick_up(potato_1)", "Place(potato_1, cabinet_0)"]}
+
+Example 262  <USER> use a bottle to water the plant; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(bottle_0)", "Place(bottle_0, sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pick_up(bottle_0)", "Pour(bottle_0, houseplant_0)"]}
+
+Example 253  <USER> make coffee; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cup_0)", "Place(cup_0, coffeemachine_0)", "Toggle_on(coffeemachine_0)", "Toggle_off(coffeemachine_0)", "Pick_up(cup_0)", "Place(cup_0, countertop_0)"]}
+
+Example 243  <USER> make coffee; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(mug_0)", "Place(mug_0, coffeemachine_0)", "Toggle_on(coffeemachine_0)", "Toggle_off(coffeemachine_0)", "Pick_up(mug_0)", "Place(mug_0, countertop_0)"]}
+
+Example 199  <USER> find a potato; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(potato_0)"]}
+
+Example 162  <USER> lets get a watch; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(watch_0)"]}
+
+Example 361  <USER> find a watering can; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(wateringcan_0)"]}
+
+Example 111  <USER> lets make coffee. get a mug; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(mug_0)", "Go_to(coffeemachine_0)"]}
+
+Example 83  <USER> lets get a pot and wash it; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(pot_0)", "Place(pot_0, sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)"]}
+
+Example 232  <USER> pickup the pot; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(pot_0)"]}

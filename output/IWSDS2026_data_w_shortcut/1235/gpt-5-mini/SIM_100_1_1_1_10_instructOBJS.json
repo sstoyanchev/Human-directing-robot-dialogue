@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_1, bathtubbasin_0)\"],\"explanation\":\"holding indicates cloth_1 is picked up; user asked to put it into the bathtub, so place the held cloth into the bathtub basin (bathtubbasin_0).\"}"

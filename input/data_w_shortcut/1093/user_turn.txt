@@ -1,0 +1,1 @@
+ <USER> put the pot into the sink basin; STATE: {"discussed_objects": ["pot_0 is Dirty,  is PickedUp,   ; ", "sink_0  ; "], "old_plan": [{"command": "Pour(pot_0, sink_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "pot_0"}

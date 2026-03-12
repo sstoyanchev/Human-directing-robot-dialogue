@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pour(pot_0, sinkbasin_0)\",\n    \"Toggle_off(faucet_0)\",\n    \"Pick_up(pot_0)\",\n    \"Place(pot_0, countertop_0)\"\n  ],\n  \"explanation\": \"pot_0 is full and already in sinkbasin_0; resume the old plan by pouring its contents into sinkbasin_0, then turn off faucet_0, pick up the pot, and place it on countertop_0.\"\n}"

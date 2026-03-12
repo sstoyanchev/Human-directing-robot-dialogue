@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bread_1)\"],\"explanation\":\"User requested locating the bread. The discussed_objects list contains no bread id (only diningtable_0 mentions 'Bread' in text), so I create bread_1 and will run Find(bread_1). Old plan is finished and nothing is held.\"}"

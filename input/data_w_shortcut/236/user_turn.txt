@@ -1,0 +1,1 @@
+ <USER> turn; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

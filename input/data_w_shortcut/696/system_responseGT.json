@@ -1,0 +1,1 @@
+{"explanation": "I will move all objects out of the sink and  do all not attempted steps in the old plan", "intent": "Command", "plan": ["Pick_up(spraybottle_0)", "Place(spraybottle_0, countertop_0)", "Pick_up(peppershaker_0)", "Place(peppershaker_0, countertop_0)", "Pick_up(mug_0)", "Place(mug_0,sinkbasin_0)", "CONTINUE_NA"]}

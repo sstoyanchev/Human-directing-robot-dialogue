@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_0, countertop_1)\"],\"explanation\":\"User asked to put away the pot I'm holding (pot_0) onto a countertop. No countertop in discussed_objects, so plan uses a new countertop_1 and places pot_0 on it.\"}"

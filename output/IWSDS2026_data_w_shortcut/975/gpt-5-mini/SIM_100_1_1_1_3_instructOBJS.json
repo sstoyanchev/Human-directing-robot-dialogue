@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\"],\"explanation\":\"User asked to toggle off the toaster. toaster_0 is currently Toggled and old plan shows Go_to(toaster_0) was successful (robot is at the toaster). Robot is holding breadsliced_0 but toggling the toaster does not require freeing hands, so Toggle_off(toaster_0) will be executed.\"}"

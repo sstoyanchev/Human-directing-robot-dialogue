@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(tomato_1)\"],\"explanation\":\"User said 'pick it up' referring to the tomato we just went to (tomato_1) after Go_to(tomato_1) succeeded.\"}"

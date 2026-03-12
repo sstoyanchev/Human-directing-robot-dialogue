@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(sinkbasin_0)\",\"Pick_up(peppershaker_1)\"],\"explanation\":\"User asked to pick up the pepper shaker. Discussed objects indicate a PepperShaker is inside sinkbasin_0 but no peppershaker id exists, so I create peppershaker_1 and will go to sinkbasin_0 and pick it up. Old plan (failed pick up saltshaker_0) is ignored.\"}"

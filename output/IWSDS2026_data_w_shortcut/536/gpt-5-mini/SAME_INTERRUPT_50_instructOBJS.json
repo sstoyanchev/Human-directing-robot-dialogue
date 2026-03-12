@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"Place(mug_0, coffeemachine_2)\"],\"explanation\":\"mug_0 is on countertop_0 \u2014 user asked to move it to the coffee machine, so I'll pick up mug_0 and place it on coffeemachine_2 (newly referenced object).\"}"

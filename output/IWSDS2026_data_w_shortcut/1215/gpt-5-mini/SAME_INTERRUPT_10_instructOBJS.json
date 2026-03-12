@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Motion(RotateRight)\",\n    \"Place(cloth_0, bathtubbasin_0)\",\n    \"CONTINUE_FAILED\"\n  ],\n  \"explanation\": \"Rotate right, place the cloth I'm holding (cloth_0) into the tub (bathtubbasin_0), then continue the old plan from the failed step.\"\n}"

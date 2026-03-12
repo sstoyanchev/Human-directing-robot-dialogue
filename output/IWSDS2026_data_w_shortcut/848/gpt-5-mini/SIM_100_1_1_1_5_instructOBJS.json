@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(plate_0)\",\"Place(breadsliced_2, plate_0)\"],\"explanation\":\"Previous Place(breadsliced_2, plate_0) failed and I'm still holding breadsliced_2 \u2014 will go to plate_0 and place it there.\"}"

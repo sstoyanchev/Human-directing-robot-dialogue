@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(potato_1)\"],\"explanation\":\"User refers to the potato inside a cabinet (potato_1). Although I'm holding potato_0, I can still move\u2014so I'll go to potato_1 (inside cabinet_0).\"}"

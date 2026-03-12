@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(tomatosliced_0)\",\"Place(tomatosliced_0,bowl_1)\"],\"explanation\":\"Old plan completed and holding is empty; user asked to use a different bowl than bowl_0, so pick up the slices from bowl_0 and place them in a new bowl (bowl_1).\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0, bathtubbasin_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\"],\"explanation\":\"cloth_0 is Dirty and already picked up (holding); place it in the bathtub basin and run the faucet to wash, then turn faucet off.\"}"

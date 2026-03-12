@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_0, countertop_1)\",\"CONTINUE_NA\"],\"explanation\":\"Put the held pot_0 on a countertop. No countertop was in discussed_objects, so use countertop_1, then continue the old plan's not-attempted steps.\"}"

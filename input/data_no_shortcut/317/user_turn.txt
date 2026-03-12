@@ -1,0 +1,1 @@
+ <USER> lets wash cloths in the bathtub; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; "], "old_plan": [], "holding": "cloth_0"}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_0)\",\"Go_to(bottle_0)\"],\"explanation\":\"The user asked to go to the bottle. bottle_0 is inside cabinet_0 (discussed_objects) and I have already gone to the cabinet (old_plan shows Go_to(cabinet_0) SUCCESSFUL), so I will open the cabinet then go to the bottle.\"}"

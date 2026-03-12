@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_1, countertop_0)\",\"Pick_up(stoveburner_0)\"],\"explanation\":\"User asked for another stoveburner, so replace picking up stoveburner_1 with stoveburner_0. Keep placing the held pot_1 on countertop_0 first.\"}"

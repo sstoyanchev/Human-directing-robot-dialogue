@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bread_0)\",\"Place(bread_0,toaster_1)\"],\"explanation\":\"bread_0 is on the countertop and I'm not holding anything, so I will pick it up and place it in the toaster. No toaster is listed in the state, so I reference toaster_1 as the target.\"}"

@@ -1,0 +1,7 @@
+Example 337  <USER> find a plate; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(plate_0)"]}
+
+Example 381  <USER> go and find a knife; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(knife_0)"]}
+
+Example 92  <USER> take a knife and slice bread; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(knife_0)", "Slice(bread_0)"]}
+
+Example 0  <USER> get a pot; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(pot_0)"]}

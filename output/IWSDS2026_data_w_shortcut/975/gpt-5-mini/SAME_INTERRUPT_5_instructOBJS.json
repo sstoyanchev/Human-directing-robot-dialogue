@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\"],\"explanation\":\"toaster_0 is Toggled and Go_to(toaster_0) succeeded in the old plan, so I will Toggle_off(toaster_0). I am holding breadsliced_0 but toggling is permitted while holding an object.\"}"

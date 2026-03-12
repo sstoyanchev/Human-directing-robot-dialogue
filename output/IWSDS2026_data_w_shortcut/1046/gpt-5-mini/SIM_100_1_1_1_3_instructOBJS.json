@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bottle_0)\"],\"explanation\":\"User asked to ignore the cabinet and only find the bottle \u2014 removed Go_to(cabinet_0) and Open(cabinet_0) from the old plan and kept Find(bottle_0).\"}"

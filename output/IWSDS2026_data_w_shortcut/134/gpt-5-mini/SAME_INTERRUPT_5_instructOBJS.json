@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(apple_0, sinkbasin_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pick_up(apple_0)\",\"Place(apple_0, fridge_0)\"],\"explanation\":\"User asked to wash the apple first. I am holding apple_0, so I'll put it in the sink, run the faucet, pick it up again, then continue the old plan to place it in the fridge.\"}"

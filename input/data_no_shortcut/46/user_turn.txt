@@ -1,0 +1,1 @@
+ <USER> put it in a cabinet; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"}

@@ -1,0 +1,1 @@
+{"intent": "Command", "plan": ["Slice(tomato_0)"], "explanation": "The user requests to slice the tomato. The knife is already picked up by the robot, and the tomato is on the dining table. Since the robot is holding the knife and the tomato is in a reachable location, the only necessary action is to slice the tomato. No additional movement or preparation is needed."}

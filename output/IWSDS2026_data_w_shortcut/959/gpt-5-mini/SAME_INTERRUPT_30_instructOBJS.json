@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(plate_0)\"],\"explanation\":\"User asked to locate a plate, so I will search for one (Find(plate_0)).\"}"

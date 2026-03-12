@@ -1,0 +1,1 @@
+"{\"intent\": \"Command\", \"plan\": [\"Motion(RotateLeft)\"], \"explanation\": \"User requested a left turn, which maps to a RotateLeft motion. Previous MoveAhead step is successful; no objects involved.\"}"

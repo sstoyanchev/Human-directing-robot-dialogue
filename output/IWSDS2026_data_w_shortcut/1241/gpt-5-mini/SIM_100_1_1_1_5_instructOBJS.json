@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"User requested a right turn, so execute a RotateRight motion. (Previous Find(bathtub_1) failed.)\"}"

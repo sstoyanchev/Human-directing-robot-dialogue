@@ -1,0 +1,21 @@
+Example 596  <USER> place it on the countertop; STATE: {"discussed_objects": ["tomato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(tomato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "tomato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(tomato_0, countertop_0)"]}
+
+Example 548  <USER> Place it on the countertop; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, countertop_0)"]}
+
+Example 170  <USER> no this is a  wine glass. find a mug instead; STATE: {"discussed_objects": ["cup_0 is FilledWithLiquid,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(cup_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "cup_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(cup_0, countertop_0)", "Find(mug_0)"]}
+
+Example 199  <USER> this would not work, try a mug; STATE: {"discussed_objects": ["cup_0 is FilledWithLiquid,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(cup_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "cup_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(cup_0, countertop_0)", "Pick_up(mug_0)"]}
+
+Example 544  <USER> Place it in a cabinet; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Go_to(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, cabinet_0)"]}
+
+Example 46  <USER> put it in a cabinet; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, cabinet_0)"]}
+
+Example 343  <USER> put it in the cabinet; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, cabinet_0)"]}
+
+Example 526  <USER> Take it to the sink; STATE: {"discussed_objects": ["mug_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Go_to(sink_0)"]}
+
+Example 368  <USER> and put on the same place; STATE: {"discussed_objects": ["watch_0  is on top of a armchair_0 ; ", "armchair_0  is on top of a Floor , has on top Watch; ", "watch_1 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_1)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_1"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(watch_1, armchair_0)"]}
+
+Example 360  <USER> put on armchair; STATE: {"discussed_objects": ["watch_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(watch_0, armchair_0)"]}
+
+Example 0  <USER> take it to armchair; STATE: {"discussed_objects": ["watch_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(watch_0, armchair_0)"]}

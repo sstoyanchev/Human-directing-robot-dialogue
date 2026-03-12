@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0, diningtable_0)\",\"Pick_up(breadsliced_0)\"],\"explanation\":\"Holding knife_0 now \u2014 place it on diningtable_0 so the robot can pick up breadsliced_0 from the table.\"}"

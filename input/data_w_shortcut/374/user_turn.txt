@@ -1,0 +1,1 @@
+ <USER> pick up a knife and slice; STATE: {"discussed_objects": ["tomato_0  is on top of a DiningTable ; "], "old_plan": [{"command": "Go_to(tomato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

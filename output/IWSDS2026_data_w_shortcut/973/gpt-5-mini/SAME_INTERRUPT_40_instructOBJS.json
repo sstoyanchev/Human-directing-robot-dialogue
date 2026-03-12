@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(toaster_0)\"],\"explanation\":\"toaster_0 was located (Find succeeded) and the user asked to go there. Currently holding breadsliced_0, so I'll move to toaster_0.\"}"

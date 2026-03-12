@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bread_0)\"],\"explanation\":\"User corrects my location (not at the bread); I'll go to bread_0.\"}"

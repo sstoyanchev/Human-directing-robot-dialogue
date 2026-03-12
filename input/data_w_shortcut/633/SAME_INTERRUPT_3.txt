@@ -1,0 +1,5 @@
+Example 13  <USER> lets find something for watering; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(mug_0)"]}
+
+Example 57  <USER> turn around; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)", "Motion(RotateRight)"]}
+
+Example 187  <USER> slice bread; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(knife_0)", "Slice(bread_0)"]}

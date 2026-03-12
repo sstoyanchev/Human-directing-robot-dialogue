@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(sinkbasin_0)\"],\"explanation\":\"User asked to toggle on the sink; mapped to the discussed sink-related object sinkbasin_0, so I will Toggle_on(sinkbasin_0).\"}"

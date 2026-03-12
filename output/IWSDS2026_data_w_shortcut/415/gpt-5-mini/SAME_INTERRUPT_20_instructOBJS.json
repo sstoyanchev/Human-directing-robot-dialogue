@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(tomato_0)\",\"Pick_up(knife_0)\",\"Slice(tomato_0)\"],\"explanation\":\"User means the initial tomato (tomato_0). To slice it the robot should go to tomato_0, pick up knife_0 (on countertop_0), then slice tomato_0. Ignore the old failed microwave step.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(apple_1)\"],\"explanation\":\"User asked to pick up the apple. The state shows an apple inside sinkbasin_0 but no explicit apple id, so I assign apple_1. Nothing is held and previous plan finished, so next action is Pick_up(apple_1).\"}"

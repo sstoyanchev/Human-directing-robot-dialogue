@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"Place(mug_0, sinkbasin_0)\"],\"explanation\":\"User asked to place the mug in the sinkbasin. Mug is mug_0 (on the sink) and not held, so pick it up then place it into sinkbasin_0. Ignore the previous failed peppershaker step since this is a new instruction.\"}"

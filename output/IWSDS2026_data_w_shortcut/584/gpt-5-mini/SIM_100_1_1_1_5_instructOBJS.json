@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Open(cabinet_0)\",\n    \"Pick_up(bottle_1)\"\n  ],\n  \"explanation\": \"Open(cabinet_0) failed earlier so retry opening it, then pick up a different bottle (bottle_1). Go_to(cabinet_0) was already successful and nothing is held.\"\n}"

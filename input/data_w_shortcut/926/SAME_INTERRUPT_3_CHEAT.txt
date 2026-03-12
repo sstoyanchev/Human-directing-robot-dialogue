@@ -1,0 +1,7 @@
+Example 209  <USER> place a plate on the countertop; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(plate_0)", "Place(plate_0, countertop_0)"]}
+
+Example 263  <USER> place all the potatoes in the cabinet; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(potato_0)", "Place(potato_0, cabinet_0)", "Pick_up(potato_1)", "Place(potato_1, cabinet_0)"]}
+
+Example 299  <USER> put all potatoes in a cabinet; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Open(cabinet_0)", "Pick_up(potato_0)", "Place(potato_0, cabinet_0)", "Pick_up(potato_1)", "Place(potato_1, cabinet_0)"]}
+
+Example 0  <USER> find a mug; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(mug_0)"]}

@@ -1,0 +1,19 @@
+Example 148  <USER> lets fill a bottle; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(bottle_0)", "Go_to(sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)"]}
+
+Example 358  <USER> lets get a watch; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(watch_0)"]}
+
+Example 362  <USER> lets get a watch; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(watch_0)"]}
+
+Example 610  <USER> pickup the pot; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(pot_0)"]}
+
+Example 520  <USER> tune left; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateLeft)"]}
+
+Example 562  <USER> turn left; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateLeft)"]}
+
+Example 1083  <USER> turn right; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)"]}
+
+Example 236  <USER> turn; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)"]}
+
+Example 624  <USER> turn around; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)", "Motion(RotateRight)"]}
+
+Example 6  <USER> turn around; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)", "Motion(RotateRight)"]}

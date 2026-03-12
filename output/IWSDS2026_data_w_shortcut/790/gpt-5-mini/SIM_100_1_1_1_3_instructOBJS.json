@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pick_up(mug_0)\",\"Pour(mug_0, sinkbasin_0)\"],\"explanation\":\"Replaced final Place(mug_0, sinkbasin_0) with Pour(mug_0, sinkbasin_0) as requested; kept earlier steps. Pick_up(mug_0) precedes Pour so the robot is holding the mug.\"}"

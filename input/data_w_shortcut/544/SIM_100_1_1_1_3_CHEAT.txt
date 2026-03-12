@@ -1,0 +1,7 @@
+Example 548  <USER> Place it on the countertop; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, countertop_0)"]}
+
+Example 343  <USER> put it in the cabinet; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, cabinet_0)"]}
+
+Example 46  <USER> put it in a cabinet; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, cabinet_0)"]}
+
+Example 0  <USER> Place it in a cabinet; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Go_to(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, cabinet_0)"]}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0, sink_1)\"],\"explanation\":\"cloth_0 is currently held (old Place to bathtubbasin_0 failed); user asked to place the cloth in the sink, so place the held cloth_0 into sink_1.\"}"

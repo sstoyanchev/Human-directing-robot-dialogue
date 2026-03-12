@@ -1,0 +1,1 @@
+ <USER> go to the faucet; STATE: {"discussed_objects": ["countertop_0  , has on top Spatula, DishSponge, Apple, DishSponge, Bread, Mug, SaltShaker; ", "sink_0  ; ", "mug_0 is Dirty,   is on top of a countertop_0 ; "], "old_plan": [{"command": "Place(mug_0, countertop_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

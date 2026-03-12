@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(potato_0,cabinet_1)\"],\"explanation\":\"\u2018It\u2019 refers to potato_0 (currently held). Cabinet not in discussed_objects, so I create cabinet_1 and place the potato into it.\"}"

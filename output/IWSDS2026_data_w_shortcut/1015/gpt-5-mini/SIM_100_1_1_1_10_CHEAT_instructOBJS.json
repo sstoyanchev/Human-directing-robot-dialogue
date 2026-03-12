@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(sink_1)\"],\"explanation\":\"User requested to go to the sink. No sink ID in discussed_objects, so created sink_1. Previous motion step was successful and nothing is held.\"}"

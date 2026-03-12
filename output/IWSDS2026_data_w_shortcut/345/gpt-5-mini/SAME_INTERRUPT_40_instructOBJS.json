@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_0)\"],\"explanation\":\"Old plan failed to Place(potato_0, cabinet_0); user said 'open it' referring to cabinet_0 while I'm holding potato_0, so I will open cabinet_0.\"}"

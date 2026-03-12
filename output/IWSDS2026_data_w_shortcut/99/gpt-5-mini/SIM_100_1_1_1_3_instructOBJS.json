@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_1,countertop_0)\"],\"explanation\":\"User refers to the pot I'm holding (pot_1). Old plan shows Pick_up(pot_1) succeeded and holding is pot_1; user asked to put it back, so place it on countertop_0.\"}"

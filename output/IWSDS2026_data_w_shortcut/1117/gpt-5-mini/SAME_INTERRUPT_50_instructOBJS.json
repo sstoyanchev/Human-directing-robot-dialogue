@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(faucet_0)\"],\"explanation\":\"User requested to turn on the faucet; faucet_0 is listed in discussed_objects and the robot is free (old plan finished), so toggle_on(faucet_0).\"}"

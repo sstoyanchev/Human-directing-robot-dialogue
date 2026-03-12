@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bottle_0)\",\"Go_to(houseplant_0)\",\"Pour(bottle_0, houseplant_0)\"],\"explanation\":\"bottle_0 is marked FilledWithLiquid in the state \u2014 assuming this is water, I'll pick it up, go to houseplant_0, and pour.\"}"

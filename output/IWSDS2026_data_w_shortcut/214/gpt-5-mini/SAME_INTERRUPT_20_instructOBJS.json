@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_5)\",\"Place(mug_1, coffeemachine_5)\",\"Toggle_on(coffeemachine_5)\"],\"explanation\":\"User refers to 'it' = mug_1 (held). Coffeemachine not in discussed_objects, so create coffeemachine_5. Steps: go to coffee machine, place the mug, then turn the machine on.\"}"

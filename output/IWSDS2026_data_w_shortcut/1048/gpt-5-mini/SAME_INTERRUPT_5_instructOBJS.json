@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bottle_0)\"],\"explanation\":\"User asked to go to the bottle. Find(bottle_0) already succeeded in old_plan, so next subgoal is to go to bottle_0.\"}"

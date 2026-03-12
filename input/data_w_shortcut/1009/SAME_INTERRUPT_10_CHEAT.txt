@@ -1,0 +1,21 @@
+Example 209  <USER> place a plate on the countertop; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(plate_0)", "Place(plate_0, countertop_0)"]}
+
+Example 70  <USER> lets get a potato; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(potato_0)"]}
+
+Example 51  <USER> put all the potatoes in the cabinet; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "make sure to open the cabinet before placing a potato in it", "intent": "Command", "plan": ["Pick_up(potato_0)", "Open(cabinet_0)", "Place(potato_0, cabinet_0)", "Pick_up(potato_1)", "Place(potato_1, cabinet_0)", "Close(cabinet_0)"]}
+
+Example 178  <USER> find a tomato; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(tomato_0)"]}
+
+Example 315  <USER> find all the potatoes; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(potato_0)", "Find(potato_1)"]}
+
+Example 210  <USER> turn left; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateLeft)"]}
+
+Example 134  <USER> lets get all remote controls on a sofa; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(remotecontrol_0)", "Pick_up(remotecontrol_0)", "Place(remotecontrol_0, sofa_0)", "Find(remotecontrol_1)", "Pick_up(remotecontrol_1)", "Place(remotecontrol_1, sofa_0)"]}
+
+Example 299  <USER> put all potatoes in a cabinet; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Open(cabinet_0)", "Pick_up(potato_0)", "Place(potato_0, cabinet_0)", "Pick_up(potato_1)", "Place(potato_1, cabinet_0)"]}
+
+Example 49  <USER> make a toast and place it on a plate; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "make sure to place the knife down before picking up bread slice", "intent": "Command", "plan": ["Pick_up(knife_0)", "Slice(bread_0)", "Place(knife_0,countertop_0)", "Pick_up(breadsliced_0)", "Place(breadsliced_0, toaster_0)", "Toggle_on(toaster_0)", "Pick_up(breadsliced_0)", "Place(breadsliced_0, plate_0)"]}
+
+Example 58  <USER> turn around; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)", "Motion(RotateRight)"]}
+
+Example 0  <USER> find a watering can; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(wateringcan_0)"]}

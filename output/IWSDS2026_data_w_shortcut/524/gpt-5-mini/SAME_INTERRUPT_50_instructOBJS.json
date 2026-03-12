@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(mug_0)\",\"Pick_up(mug_0)\"],\"explanation\":\"The user refers to the mug found earlier (mug_0). Find(mug_0) succeeded and I'm not holding anything, so I will go to the mug and pick it up.\"}"

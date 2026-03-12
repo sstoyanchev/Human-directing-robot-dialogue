@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bottle_0)\"],\"explanation\":\"User requested to skip the cabinet-related steps and only find the bottle. bottle_0 is in discussed_objects, so I will run Find(bottle_0) instead of Go_to/Open(cabinet_0).\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(stool_1)\"],\"explanation\":\"User asked to go to the stool. No stool ID in discussed_objects, so create stool_1 and navigate to it; not continuing the old plan.\"}"

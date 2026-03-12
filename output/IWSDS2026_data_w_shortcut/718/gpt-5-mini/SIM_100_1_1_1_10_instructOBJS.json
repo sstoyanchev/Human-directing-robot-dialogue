@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(mug_0, sinkbasin_1)\",\n    \"Toggle_on(faucet_1)\",\n    \"Toggle_off(faucet_1)\",\n    \"Pick_up(mug_0)\"\n  ],\n  \"explanation\": \"You asked to clean the mug first. I'm holding mug_0, so I'll place it in a sinkbasin (sinkbasin_1), turn the faucet (faucet_1) on to rinse, turn it off, then pick the mug back up.\"\n}"

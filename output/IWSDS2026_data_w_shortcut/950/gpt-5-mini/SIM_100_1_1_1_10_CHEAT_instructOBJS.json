@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(coffeemachine_0)\"],\"explanation\":\"User asked to only find the coffeemachine. Drop the Place(mug_0, countertop_0) step and perform Find(coffeemachine_0) while still holding mug_0.\"}"

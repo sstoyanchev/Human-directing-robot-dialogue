@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveLeft)\"],\"explanation\":\"User requested a left movement. Old plan completed (MoveAhead _SUCCESSFUL); no objects referenced or held, so execute Motion(MoveLeft).\"}"

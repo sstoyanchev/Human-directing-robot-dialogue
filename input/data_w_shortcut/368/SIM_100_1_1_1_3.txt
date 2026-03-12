@@ -1,0 +1,5 @@
+Example 364  <USER> take it to armchair; STATE: {"discussed_objects": ["watch_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(watch_0, armchair_0)"]}
+
+Example 366  <USER> lets get another watch ; STATE: {"discussed_objects": ["watch_0  is on top of a armchair_0 ; ", "armchair_0  is on top of a Floor , has on top Watch; "], "old_plan": [{"command": "Place(watch_0, armchair_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(watch_1)"]}
+
+Example 360  <USER> put on armchair; STATE: {"discussed_objects": ["watch_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(watch_0, armchair_0)"]}

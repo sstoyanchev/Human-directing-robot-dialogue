@@ -1,0 +1,1 @@
+ <USER> open the cabinet; STATE: {"discussed_objects": ["mug_0 is FilledWithLiquid,   is on top of a Plate and inside a Cabinet ; "], "old_plan": [{"command": "Pick_up(mug_0)", "status": "SubgoalStatus.FAILED"}], "holding": ""}

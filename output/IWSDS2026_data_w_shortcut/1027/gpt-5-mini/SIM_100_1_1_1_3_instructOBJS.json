@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(faucet_1)\"\n  ],\n  \"explanation\": \"The previous plan (Place(mug_0, countertop_0)) completed successfully and I'm not holding anything. The user asked to go to the faucet; faucet is not in discussed_objects so I created faucet_1 and will execute Go_to(faucet_1).\"\n}"

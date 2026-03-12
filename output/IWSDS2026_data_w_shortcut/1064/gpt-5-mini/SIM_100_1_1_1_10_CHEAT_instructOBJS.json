@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Slice(tomato_0)\"],\"explanation\":\"User asked to only slice the tomato. knife_0 is already held and tomato_0 is on stool (a receptacle), so we can perform Slice(tomato_0) immediately and skip the old plan's pickup/place steps.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(breadsliced_0)\"],\"explanation\":\"Old plan Toggle_off(toaster_0) is SUCCESSFUL. The user asks to pick up the slice located on the toaster; breadsliced_0 is on top of toaster_0 and nothing is held, so execute Pick_up(breadsliced_0).\"}"

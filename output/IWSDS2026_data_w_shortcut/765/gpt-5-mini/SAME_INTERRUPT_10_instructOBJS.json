@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(fridge_0)\",\"CONTINUE_FAILED\"],\"explanation\":\"User asked to open the fridge. fridge_0 is already Open in the state, so attempt Open(fridge_0) (no-op) and then continue the old plan from the failed Pick_up(knife_0) to complete Slice(tomato_0).\"}"

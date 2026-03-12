@@ -1,0 +1,7 @@
+Example 58  <USER> turn around; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)", "Motion(RotateRight)"]}
+
+Example 322  <USER> find a mug; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Find(mug_0)"]}
+
+Example 390  <USER> turn right; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)"]}
+
+Example 0  <USER> tune left; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateLeft)"]}

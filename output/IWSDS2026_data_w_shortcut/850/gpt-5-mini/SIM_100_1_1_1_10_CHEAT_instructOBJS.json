@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(breadsliced_2, countertop_0)\"],\"explanation\":\"Previous attempt to place breadsliced_2 on plate_0 failed and user directed to put it on the countertop, so place the held breadsliced_2 on countertop_0.\"}"

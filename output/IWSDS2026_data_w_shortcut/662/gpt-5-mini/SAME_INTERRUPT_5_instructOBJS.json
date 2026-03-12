@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveLeft)\"],\"explanation\":\"User asked to move left \u2014 interpret as a motion command. Execute Motion(MoveLeft). (Old plan has Pick_up(cup_1) FAILED but user did not request continuing it.)\"}"

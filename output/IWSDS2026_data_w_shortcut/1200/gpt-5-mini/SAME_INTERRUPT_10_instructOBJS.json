@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_0)\",\"CONTINUE_FAILED\"],\"explanation\":\"bottle_0 is inside a cabinet; opening cabinet_0 should allow Pick_up(bottle_0) to succeed, so open it and continue the old plan from the failed Pick_up step.\"}"

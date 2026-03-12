@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(coffeemachine_0)\",\"Go_to(coffeemachine_0)\",\"Find(cup_0)\",\"Pick_up(cup_0)\",\"Place(cup_0, coffeemachine_0)\",\"Toggle_on(coffeemachine_0)\"],\"explanation\":\"User asked to make coffee. Plan locates the coffee machine and a cup, places the cup under the machine, and turns the machine on. Objects are new so suffixed with _0.\"}"

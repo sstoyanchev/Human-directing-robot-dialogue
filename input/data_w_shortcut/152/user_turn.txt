@@ -1,0 +1,1 @@
+ <USER> get the bottle from the countertop; STATE: {"discussed_objects": ["bottle_0 is FilledWithLiquid,   is inside a Cabinet ; ", "bottle_1 is FilledWithLiquid,   is on top of a CounterTop ; ", "bottle_2 is FilledWithLiquid,   is on top of a Pot and on top of a CounterTop ; "], "old_plan": [{"command": "Find(bottle_2)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

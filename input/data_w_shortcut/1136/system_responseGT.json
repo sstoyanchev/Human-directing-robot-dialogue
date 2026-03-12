@@ -1,0 +1,1 @@
+{"explanation": "pour the water from mug_0 to the sink and  do all not attempted steps in the old plan", "intent": "Command", "plan": ["Pour(mug_0, sinkbasin_0)", "CONTINUE_NA"]}

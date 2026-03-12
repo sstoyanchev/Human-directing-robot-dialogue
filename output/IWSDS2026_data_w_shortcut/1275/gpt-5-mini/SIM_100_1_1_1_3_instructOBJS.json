@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\",\"Motion(MoveAhead)\"],\"explanation\":\"User requested moving forward toward bowl_0. bowl_0 is in discussed_objects and I'm currently holding tomatosliced_0 (previous Place failed); user only asked to move, so perform two small forward motions to get closer.\"}"

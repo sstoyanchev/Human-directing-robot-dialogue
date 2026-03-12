@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0,diningtable_0)\",\"Go_to(fridge_0)\",\"Pick_up(knife_1)\",\"CONTINUE_NA\"],\"explanation\":\"Place the currently held knife down, go to the open fridge to pick up the knife inside (knife_1), then continue the remaining not-attempted step (Slice(apple_0)).\"}"

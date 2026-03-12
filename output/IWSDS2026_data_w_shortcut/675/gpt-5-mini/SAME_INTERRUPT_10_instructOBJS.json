@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(cup_1)\"],\"explanation\":\"User asked to locate another mug; cup_1 (a mug) is in the cabinet, so I will find cup_1.\"}"

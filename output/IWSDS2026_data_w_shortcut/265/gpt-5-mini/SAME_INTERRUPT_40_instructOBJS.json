@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(remotecontrol_0)\",\"Place(remotecontrol_0, coffeetable_0)\",\"Pick_up(remotecontrol_1)\",\"Place(remotecontrol_1, coffeetable_0)\"],\"explanation\":\"Collect all remotecontrols from the sofa and place them on the coffeetable (destination chosen since none specified).\"}"

@@ -1,0 +1,1 @@
+{"explanation": "I will pick up mug_0 and  do all not attempted steps in the old plan", "intent": "Command", "plan": ["Pick_up(mug_0)", "CONTINUE_NA"]}

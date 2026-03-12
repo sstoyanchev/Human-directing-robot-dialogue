@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(mug_1)\"],\"explanation\":\"mug_0 is already present on the coffeemachine; user requested another mug, so search for a different mug (mug_1).\"}"

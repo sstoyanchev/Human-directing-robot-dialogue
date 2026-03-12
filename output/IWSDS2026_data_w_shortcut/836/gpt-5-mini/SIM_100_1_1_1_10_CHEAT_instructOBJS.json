@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0,diningtable_0)\",\"CONTINUE_NA\"],\"explanation\":\"knife_0 is currently picked up; I'll place it on diningtable_0 (put it away) and then continue the remaining not-attempted steps of the old plan.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bowl_0)\",\"Pour(bowl_0, houseplant_0)\"],\"explanation\":\"bowl_0 is FilledWithLiquid and on countertop_0; houseplant_0 is on countertop_0; old_plan finished and nothing is held, so pick up the bowl and pour it into the plant.\"}"

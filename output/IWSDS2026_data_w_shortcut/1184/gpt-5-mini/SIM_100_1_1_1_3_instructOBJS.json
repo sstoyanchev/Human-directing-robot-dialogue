@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Motion(MoveAhead)\"\n  ],\n  \"explanation\": \"User requested to move forward. Previous RotateRight step was successful, so execute one MoveAhead. Robot is currently holding knife_0.\"\n}"

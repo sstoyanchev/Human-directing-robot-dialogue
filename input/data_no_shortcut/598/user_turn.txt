@@ -1,0 +1,1 @@
+ <USER> fetch a knife; STATE: {"discussed_objects": ["tomato_0  is on top of a countertop_0 ; ", "countertop_0  , has on top PaperTowelRoll, Bowl, Lettuce, Cup, Statue, Vase, Bowl, Lettuce, Lettuce, Statue, Statue, Fork, CreditCard, Pot, Tomato; "], "old_plan": [{"command": "Place(tomato_0, countertop_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

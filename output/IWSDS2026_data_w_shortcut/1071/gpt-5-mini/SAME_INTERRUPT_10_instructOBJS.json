@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bowl_1)\",\"Go_to(bowl_1)\"],\"explanation\":\"User asked to just go to an empty bowl instead of placing the tomatosliced_0. I will locate an empty bowl (bowl_1) and go to it; still holding tomatosliced_0.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0, countertop_0)\",\"Pick_up(tomato_0)\",\"Place(tomato_0, countertop_0)\",\"Pick_up(knife_0)\",\"Slice(tomato_0)\"],\"explanation\":\"User requested the knife be put away first; insert Place(knife_0, countertop_0) before original steps. Re-pick the knife before Slice because slicing requires holding a knife.\"}"

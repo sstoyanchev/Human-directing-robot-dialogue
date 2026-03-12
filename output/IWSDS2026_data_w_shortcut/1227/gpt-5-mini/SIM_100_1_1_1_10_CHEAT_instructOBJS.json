@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0, bathtub_0)\"],\"explanation\":\"cloth_0 is currently held; previous step was MoveAhead_SUCCESSFUL, so retry placing the held cloth into bathtub_0.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(diningtable_0)\",\"Find(bread_0)\"],\"explanation\":\"User asked to find the bread. Diningtable_0 contains Bread, so first go to diningtable_0 then search for bread_0.\"}"

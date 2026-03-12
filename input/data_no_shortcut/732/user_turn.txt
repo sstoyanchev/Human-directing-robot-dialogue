@@ -1,0 +1,1 @@
+ <USER> put the knife on a countertop; STATE: {"discussed_objects": ["knife_0 is PickedUp,   ; ", "bread_0  ; ", "drawer_0  , has on top PepperShaker, DishSponge, Egg; "], "old_plan": [{"command": "Place(knife_0, drawer_0)", "status": "SubgoalStatus.FAILED"}], "holding": "knife_0"}

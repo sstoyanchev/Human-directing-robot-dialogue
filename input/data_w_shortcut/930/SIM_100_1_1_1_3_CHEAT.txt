@@ -1,0 +1,7 @@
+Example 928  <USER> go to the mug; STATE: {"discussed_objects": ["mug_0 is Dirty,   is on top of a DiningTable ; "], "old_plan": [{"command": "Find(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Go_to(mug_0)"]}
+
+Example 392  <USER> pick it up; STATE: {"discussed_objects": ["tomato_0  ; ", "knife_0  is on top of a countertop_0 ; ", "knife_1  is inside a Cabinet ; ", "cabinet_0 is Open,   is on top of a Floor ; ", "microwave_0 is Open,   ; ", "countertop_0  , has on top DishSponge, Fork, Knife; ", "tomatosliced_0  is on top of a DiningTable ; ", "tomato_1  is on top of a CounterTop ; "], "old_plan": [{"command": "Go_to(tomato_1)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(tomato_1)"]}
+
+Example 524  <USER> Pick it up; STATE: {"discussed_objects": ["mug_0 is Dirty,   is on top of a DiningTable ; "], "old_plan": [{"command": "Find(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(mug_0)"]}
+
+Example 0  <USER> pick it up; STATE: {"discussed_objects": ["mug_0 is Dirty,   is on top of a DiningTable ; "], "old_plan": [{"command": "Go_to(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(mug_0)"]}

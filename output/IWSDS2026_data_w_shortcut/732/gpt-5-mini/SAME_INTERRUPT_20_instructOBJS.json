@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0, countertop_1)\"],\"explanation\":\"knife_0 is currently held; no countertop is listed in the state so I will place the knife on countertop_1.\"}"

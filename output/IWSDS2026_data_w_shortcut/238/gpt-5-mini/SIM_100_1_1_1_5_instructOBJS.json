@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_0)\"],\"explanation\":\"User requested I go to the coffee machine; replacing the previous unattempted Motion(RotateRight) with Go_to(coffeemachine_0).\"}"

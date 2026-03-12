@@ -1,0 +1,5 @@
+Example 60  <USER> and again; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(MoveBack)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(MoveBack)"]}
+
+Example 192  <USER> Take it to the sink; STATE: {"discussed_objects": ["mug_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Go_to(sink_0)"]}
+
+Example 220  <USER> fill it with water; STATE: {"discussed_objects": ["bottle_0 is FilledWithLiquid,   is inside a Cabinet ; ", "cabinet_0  , has inside Bread; ", "bottle_1 is FilledWithLiquid,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(bottle_1)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "bottle_1"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(bottle_1, sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pick_up(bottle_1)"]}

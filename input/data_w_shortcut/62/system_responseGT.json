@@ -1,0 +1,1 @@
+{"explanation": "The user asks me to go to the potato_1. I am already holding the potato_0. I will keep holding potato_0 and walk to potato_1", "intent": "Command", "plan": ["Go_to(potato_1)"]}

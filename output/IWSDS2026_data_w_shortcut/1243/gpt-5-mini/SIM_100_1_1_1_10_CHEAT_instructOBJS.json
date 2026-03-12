@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bathtub_0)\"],\"explanation\":\"User asked to go to the tub \u2014 bathtub_0 in discussed_objects corresponds to the tub. Previous motion step completed and robot is not holding anything, so execute Go_to(bathtub_0).\"}"

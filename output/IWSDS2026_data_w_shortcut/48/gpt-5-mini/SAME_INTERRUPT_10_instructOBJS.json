@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(cabinet_1)\",\"Open(cabinet_1)\",\"Place(potato_0,cabinet_1)\"],\"explanation\":\"potato_0 is PickedUp; cabinet not in discussed_objects so referenced as cabinet_1. I will go to and open the cabinet before placing the held potato inside.\"}"

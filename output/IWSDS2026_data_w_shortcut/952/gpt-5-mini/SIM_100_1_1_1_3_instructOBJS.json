@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_0)\"],\"explanation\":\"User asked to go to the coffee machine. coffeemachine_0 was already found (Find succeeded), so issue Go_to(coffeemachine_0). Holding mug_0 remains unchanged.\"}"

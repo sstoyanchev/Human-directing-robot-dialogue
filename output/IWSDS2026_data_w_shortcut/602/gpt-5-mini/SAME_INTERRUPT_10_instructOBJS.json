@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Close(fridge_0)\"],\"explanation\":\"fridge_0 is Open and the previous Go_to(fridge_0) was successful (robot is at the fridge); just close fridge_0 while holding knife_0.\"}"

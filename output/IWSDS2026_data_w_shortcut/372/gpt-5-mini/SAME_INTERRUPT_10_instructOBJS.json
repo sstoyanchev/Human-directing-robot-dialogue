@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(tomato_0)\"],\"explanation\":\"'It' refers to tomato_0 from the pending old_plan (Pick_up(tomato_0)); execute Go_to(tomato_0).\"}"

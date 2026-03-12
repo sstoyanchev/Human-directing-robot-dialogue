@@ -1,0 +1,1 @@
+ <USER> Open the cabinet; STATE: {"discussed_objects": ["potato_0  is on top of a countertop_0 ; ", "countertop_0  , has on top PaperTowelRoll, Cup, Cup, Spatula, Bread, Sink, Fork, Plate, Potato, SoapBottle, Microwave; ", "potato_1  is inside a Cabinet ; "], "old_plan": [{"command": "Pick_up(potato_1)", "status": "SubgoalStatus.FAILED"}], "holding": ""}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(breadsliced_1)\"],\"explanation\":\"User corrects which slice to pick up: instead of breadsliced_0 (on the plate/diningtable), pick up breadsliced_1 (the slice on the countertop). Old plan's Pick_up target is replaced accordingly.\"}"

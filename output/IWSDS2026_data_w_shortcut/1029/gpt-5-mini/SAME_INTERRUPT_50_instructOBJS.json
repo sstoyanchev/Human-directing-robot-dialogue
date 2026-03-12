@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(faucet_0)\"],\"explanation\":\"User asked to turn off the faucet; faucet_0 is Toggled and Go_to(faucet_0) succeeded, so toggle it off.\"}"

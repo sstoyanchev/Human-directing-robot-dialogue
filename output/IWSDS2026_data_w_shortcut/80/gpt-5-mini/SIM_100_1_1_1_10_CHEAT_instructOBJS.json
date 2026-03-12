@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Close(cabinet_0)\",\"Close(cabinet_1)\",\"Close(cabinet_2)\",\"Close(cabinet_3)\",\"Close(cabinet_4)\"],\"explanation\":\"All five cabinets (cabinet_0 through cabinet_4) are open; close each one.\"}"

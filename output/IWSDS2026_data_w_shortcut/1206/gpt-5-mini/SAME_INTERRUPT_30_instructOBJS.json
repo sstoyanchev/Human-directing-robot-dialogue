@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cloth_0)\",\"Place(cloth_0,bathtubbasin_0)\"],\"explanation\":\"Do the requested first step: pick up the cloth currently referenced (cloth_0) and place it into the bathtub basin (bathtubbasin_0). This overrides the old plan order so the clothes go into the bathtub first.\"}"

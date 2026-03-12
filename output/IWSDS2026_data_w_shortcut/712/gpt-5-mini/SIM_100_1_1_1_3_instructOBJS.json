@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(potato_0)\",\"Place(potato_0,cabinet_0)\",\"Pick_up(potato_1)\",\"Place(potato_1,cabinet_0)\",\"Pick_up(potato_2)\",\"Place(potato_2,cabinet_0)\"],\"explanation\":\"No discussed_objects or holding; create potato_0\u20132 and cabinet_0 and place each potato into the cabinet.\"}"

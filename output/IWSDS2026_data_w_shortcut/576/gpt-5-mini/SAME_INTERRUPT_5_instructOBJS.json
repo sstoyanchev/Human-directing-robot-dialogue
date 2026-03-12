@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(plate_2)\",\"Go_to(plate_2)\",\"Pick_up(plate_2)\",\"Go_to(countertop_1)\",\"Place(plate_2,countertop_1)\"],\"explanation\":\"plate_0 is dirty on countertop_1 and no other plate listed; will find a different plate (plate_2), pick it up, and bring it to countertop_1.\"}"

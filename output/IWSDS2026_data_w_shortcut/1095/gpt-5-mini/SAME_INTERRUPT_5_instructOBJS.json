@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_0, sink_0)\"],\"explanation\":\"pot_0 is currently held and previous Place(pot_0, sinkbasin_0) failed; user asked to put down the pot, so placing it on sink_0 instead.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"Interpreted 'turn right' as a single right rotation; execute one RotateRight motion.\"}"

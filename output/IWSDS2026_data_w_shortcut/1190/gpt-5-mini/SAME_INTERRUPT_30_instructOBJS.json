@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveRight)\"],\"explanation\":\"Interpreting 'step right' as a single MoveRight motion; continue holding knife_0.\"}"

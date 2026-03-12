@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(mug_2)\",\"Pick_up(mug_2)\"],\"explanation\":\"Both mug_0 and mug_1 are filled/dirty, so I will locate a different (clean) mug (mug_2) and pick it up.\"}"

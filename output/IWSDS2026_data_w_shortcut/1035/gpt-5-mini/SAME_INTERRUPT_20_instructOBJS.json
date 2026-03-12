@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bottle_1)\",\"Go_to(bottle_1)\",\"Pick_up(bottle_1)\"],\"explanation\":\"No bottle is listed in discussed_objects, so create bottle_1 and plan to locate it, go to it, and pick it up.\"}"

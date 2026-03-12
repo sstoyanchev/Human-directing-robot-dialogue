@@ -1,0 +1,7 @@
+Example 532  <USER> clean the mug; STATE: {"discussed_objects": ["mug_0 is Dirty,   is on top of a sinkbasin_1 ; ", "sink_0  ; ", "sinkbasin_1  , has inside Cup, Mug; "], "old_plan": [{"command": "Place(mug_0, sinkbasin_1)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Toggle_on(faucet_0)", "Pick_up(mug_0)", "Pour(mug_0, sinkbasin_1)", "Place(mug_0, countertop_0)"]}
+
+Example 1023  <USER> put the mug into the sink; STATE: {"discussed_objects": ["countertop_0  , has on top Spatula, DishSponge, DishSponge, Apple, Bread, SaltShaker; ", "sink_0  ; ", "mug_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Pour(mug_0, sink_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(mug_0, sink_0)"]}
+
+Example 528  <USER> clean the mug; STATE: {"discussed_objects": ["mug_0 is Dirty,  is PickedUp,   ; ", "sink_0  ; "], "old_plan": [{"command": "Go_to(sink_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(mug_0, sink_0)", "Toggle_on(faucet_0)", "Pick_up(mug_0)"]}
+
+Example 0  <USER> place the mug into the sink; STATE: {"discussed_objects": ["mug_0 is Dirty,  is PickedUp,   ; ", "sink_0  ; "], "old_plan": [{"command": "Go_to(sink_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(mug_0, sink_0)"]}

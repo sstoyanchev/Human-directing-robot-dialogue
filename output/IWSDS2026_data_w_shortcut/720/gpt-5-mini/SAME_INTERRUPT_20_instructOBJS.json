@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(mug_0, sinkbasin_0)\"],\"explanation\":\"mug_0 is PickedUp and FilledWithLiquid and sinkbasin_0 is available, so pour mug_0 into sinkbasin_0.\"}"

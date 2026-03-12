@@ -1,0 +1,1 @@
+ <USER> this would not work, try a mug; STATE: {"discussed_objects": ["cup_0 is FilledWithLiquid,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(cup_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "cup_0"}

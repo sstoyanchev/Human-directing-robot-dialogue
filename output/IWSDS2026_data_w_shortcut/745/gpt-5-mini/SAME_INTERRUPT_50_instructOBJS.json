@@ -1,0 +1,1 @@
+"{\"explanation\":\"There is a mug on countertop_0 in the state, so the user wants me to pick up that mug.\",\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\"]}"

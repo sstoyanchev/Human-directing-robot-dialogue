@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(tomatosliced_0, bowl_0)\"\n  ],\n  \"explanation\": \"User confirmed. I am holding tomatosliced_0 and the old plan's Place(tomatosliced_0, bowl_0) was not attempted, so I will place the tomato slice into bowl_0.\"\n}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(houseplant_0)\",\"Pour(bottle_0, houseplant_0)\"],\"explanation\":\"bottle_0 is already FilledWithLiquid and held, so skip placing in sink and turning on faucet; proceed to go to houseplant_0 and pour.\"}"

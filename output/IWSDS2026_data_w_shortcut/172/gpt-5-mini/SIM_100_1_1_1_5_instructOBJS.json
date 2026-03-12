@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\"],\"explanation\":\"The prior step found mug_0 and the user said 'get it' referring to that mug, so I will pick up mug_0.\"}"

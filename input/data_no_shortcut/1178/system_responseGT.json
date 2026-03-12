@@ -1,0 +1,1 @@
+{"explanation": "Get closer to bread and perform steps of the old plan starting with failed", "intent": "Command", "plan": ["Go_to(bread_0)", "Slice(bread_0)", "Pick_up(breadsliced_1)", "Place(breadsliced_1, toaster_0)", "Toggle_on(toaster_0)"]}

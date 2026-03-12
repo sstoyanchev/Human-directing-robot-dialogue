@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bread_0)\",\"Pick_up(bread_0)\",\"Place(bread_0,countertop_0)\",\"Find(knife_0)\",\"Pick_up(knife_0)\",\"Slice(bread_0)\"],\"explanation\":\"To slice bread it must be on a receptacle and I must hold a knife. I will locate and place the bread on the countertop, then get the knife and slice the bread.\"}"

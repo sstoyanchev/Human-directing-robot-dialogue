@@ -1,0 +1,1 @@
+ <USER> lets get a watch; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

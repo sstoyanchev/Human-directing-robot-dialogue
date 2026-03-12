@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_0)\",\"Go_to(sinkbasin_0)\",\"Pour(pot_0, sinkbasin_0)\",\"Place(pot_0, countertop_0)\"],\"explanation\":\"pot_0 is filled and dirty on countertop_0; to clear it I will pick it up, go to the sink basin, pour out its contents, and return it to the countertop. Old plan steps are all successful, so starting this new sequence.\"}"

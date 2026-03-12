@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"User requested a turn with no direction specified \u2014 defaulting to a 90\u00b0 right rotation.\"}"

@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(mug_1)\"\n  ],\n  \"explanation\": \"Pick up the mug from countertop_0. The countertop lists a Mug but no ID, so I refer to it as mug_1.\"\n}"

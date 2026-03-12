@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(pot_0, sinkbasin_0)\",\"CONTINUE_FAILED\"],\"explanation\":\"Perform the pour of pot_0 into sinkbasin_0 (the previous Pour failed) and then continue the old plan from the failed step (Toggle_off(faucet_0), Pick_up(pot_0), Place(pot_0, countertop_0)).\"}"

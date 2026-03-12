@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(stoveburner_2)\",\"Place(pot_1, stoveburner_2)\",\"Toggle_on(stoveburner_2)\"],\"explanation\":\"Holding pot_1 (old Place failed). To use the stove, move to the stoveburner, place the held pot on it, then turn the burner on.\"}"

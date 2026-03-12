@@ -1,0 +1,1 @@
+{"explanation": "remove Open(cabinet_0) from the plan", "intent": "Command", "plan": ["Pick_up(bottle_0)"]}

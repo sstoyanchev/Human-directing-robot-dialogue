@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\",\"CONTINUE_FAILED\"],\"explanation\":\"Rotate right, then continue the old plan starting from the failed Place(cloth_0, bathtubbasin_0) to put the cloth into the tub.\"}"

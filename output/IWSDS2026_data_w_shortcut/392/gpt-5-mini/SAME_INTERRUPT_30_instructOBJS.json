@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(tomato_1)\"],\"explanation\":\"Referring to the object I just went to (Go_to(tomato_1) was successful), so 'it' = tomato_1.\"}"

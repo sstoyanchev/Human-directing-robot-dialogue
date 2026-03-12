@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(apple_0)\"],\"explanation\":\"The sinkbasin_0 contains the apple and I'm not holding anything, so I will pick up apple_0.\"}"

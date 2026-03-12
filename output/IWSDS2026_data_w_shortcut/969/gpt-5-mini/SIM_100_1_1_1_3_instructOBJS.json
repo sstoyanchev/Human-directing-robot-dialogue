@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(diningtable_0)\",\"Pick_up(breadsliced_1)\"],\"explanation\":\"User asked to pick up a slice of bread. diningtable_0 contains bread and I have no item in hand. No breadsliced object exists in the state, so I create breadsliced_1 on diningtable_0 and will go there then pick it up. Old plan step succeeded.\"}"

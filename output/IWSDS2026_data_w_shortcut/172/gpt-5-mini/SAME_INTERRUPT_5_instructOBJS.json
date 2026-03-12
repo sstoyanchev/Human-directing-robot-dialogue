@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\"],\"explanation\":\"User's 'it' refers to the previously discussed mug_0; Find(mug_0) succeeded, so next action is to pick it up.\"}"

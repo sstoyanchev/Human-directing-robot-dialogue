@@ -1,0 +1,1 @@
+{"explanation": "skip turning off the toaster; perform all not-attempted steps", "intent": "Command", "plan": ["Place(breadsliced_0, toaster_0)", "Toggle_on(toaster_0)"]}

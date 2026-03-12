@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveBack)\"],\"explanation\":\"User requested to move back; previous rotations completed, so execute a MoveBack motion.\"}"

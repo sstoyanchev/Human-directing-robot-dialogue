@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(pot_0)\",\"Pick_up(pot_0)\"],\"explanation\":\"User asked to pick up the dirty pot; I will locate the pot and then pick it up (using pot_0 as the referenced object).\"}"

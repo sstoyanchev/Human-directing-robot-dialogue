@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Slice(tomato_0)\"],\"explanation\":\"The fridge was closed (old plan finished). I am holding knife_0 and tomato_0 is already on countertop_0, so I can slice it now.\"}"

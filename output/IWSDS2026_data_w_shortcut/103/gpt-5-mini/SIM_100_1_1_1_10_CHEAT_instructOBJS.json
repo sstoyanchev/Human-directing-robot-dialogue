@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_1, stoveburner_2)\",\"Toggle_on(stoveknob_3)\"],\"explanation\":\"holding pot_1 and previous Place to countertop failed \u2014 I'll place the pot on the stove burner and turn the stoveknob on to use the stove.\"}"

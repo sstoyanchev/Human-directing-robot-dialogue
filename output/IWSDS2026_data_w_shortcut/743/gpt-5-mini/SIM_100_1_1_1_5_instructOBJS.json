@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_0, countertop_1)\"],\"explanation\":\"pot_0 is currently PickedUp/held and the user asked to put it on a countertop instead of the sink; place pot_0 on a countertop (new id countertop_1) and stop the previous plan.\"}"

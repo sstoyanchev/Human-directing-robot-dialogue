@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(houseplant_0)\",\"Pour(mug_0, houseplant_0)\"],\"explanation\":\"mug_0 is filled with water and user asked to pour it into the plant, so I'll go to houseplant_0 and pour the mug instead of washing it (replacing the previous wash steps).\"}"

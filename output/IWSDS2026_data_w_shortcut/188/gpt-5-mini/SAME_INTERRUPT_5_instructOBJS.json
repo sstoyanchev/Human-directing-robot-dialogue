@@ -1,0 +1,1 @@
+"{\"intent\":\"Social\",\"plan\":[],\"explanation\":\"User states that mug_0 is dirty. This is informational (no explicit command). Current state: holding mug_0 and at coffeemachine_0 per old_plan; awaiting further instruction to clean or place the mug.\"}"

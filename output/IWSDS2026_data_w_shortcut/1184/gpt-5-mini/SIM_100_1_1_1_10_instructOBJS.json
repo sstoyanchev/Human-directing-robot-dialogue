@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\"],\"explanation\":\"User requested to move forward, which maps to Motion(MoveAhead). Previous rotation step is complete; holding remains knife_0.\"}"

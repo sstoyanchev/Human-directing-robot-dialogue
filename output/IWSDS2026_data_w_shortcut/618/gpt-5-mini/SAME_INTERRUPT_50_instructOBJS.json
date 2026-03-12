@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(pot_0, sinkbasin_0)\",\"CONTINUE_FAILED\"],\"explanation\":\"The old plan's Pour(pot_0, sinkbasin_0) failed; pot_0 is in sinkbasin_0 and faucet_0 is on. Retry pouring to empty the pot and continue the remaining steps of the old plan.\"}"

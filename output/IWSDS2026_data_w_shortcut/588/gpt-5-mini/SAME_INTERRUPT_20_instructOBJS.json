@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(bottle_1,countertop_2)\"\n  ],\n  \"explanation\": \"You are holding bottle_1; you asked to place it on the countertop. No countertop ID was listed, so I created countertop_2 and will place bottle_1 there.\"\n}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(mug_0,houseplant_1)\"],\"explanation\":\"User refers to the mug I'm holding (mug_0) and asks to pour into the plant; houseplant is not listed so I target a new houseplant_1 and pour the mug into it.\"}"

@@ -1,0 +1,1 @@
+ <USER> fill it up; STATE: {"discussed_objects": ["pot_0 is Dirty,  is PickedUp,   ; ", "sinkbasin_0  , has inside Apple, Mug, CounterTop, PepperShaker; "], "old_plan": [{"command": "Pour(pot_0, sinkbasin_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "pot_0"}

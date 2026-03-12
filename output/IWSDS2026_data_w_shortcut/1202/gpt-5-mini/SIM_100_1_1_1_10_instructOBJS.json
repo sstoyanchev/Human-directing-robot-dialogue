@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(bottle_0, houseplant_1)\"],\"explanation\":\"You are holding bottle_0 (FilledWithLiquid); user asked to water the plant. houseplant_1 is a new referenced object (not in discussed_objects), so pour bottle_0 into houseplant_1.\"}"

@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(armchair_1)\",\n    \"Place(watch_0, armchair_1)\"\n  ],\n  \"explanation\": \"You asked to take the held watch to the armchair. watch_0 is currently held (Pick_up succeeded), so I'll go to armchair_1 and place watch_0 on it.\"\n}"

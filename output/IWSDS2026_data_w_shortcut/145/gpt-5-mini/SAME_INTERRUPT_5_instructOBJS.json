@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(houseplant_1)\",\"Pour(mug_0)\"],\"explanation\":\"mug_0 is picked up and filled (per state). User asked to pour into the plant; no plant id in discussed_objects, so I add houseplant_1. I will go to the plant then pour the held mug.\"}"

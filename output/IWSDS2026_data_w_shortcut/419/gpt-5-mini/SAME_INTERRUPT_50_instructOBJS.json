@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(fridge_0)\",\"Open(fridge_0)\",\"Pick_up(bowl_1)\",\"Place(bowl_1,countertop_0)\",\"Pick_up(tomatosliced_0)\",\"Place(tomatosliced_0,bowl_1)\"],\"explanation\":\"User asked to try the other bowl (the bowl in the fridge). I will get that bowl, put it on the countertop, then put the sliced tomato into it.\"}"

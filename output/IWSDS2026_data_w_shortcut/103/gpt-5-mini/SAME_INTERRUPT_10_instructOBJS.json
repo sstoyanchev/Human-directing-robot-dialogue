@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_1, stoveburner_2)\",\"Toggle_on(stoveknob_2)\"],\"explanation\":\"You're holding pot_1 (previous Place failed). To use the stove I'll place the pot on stoveburner_2 and turn on the stoveknob_2.\"}"

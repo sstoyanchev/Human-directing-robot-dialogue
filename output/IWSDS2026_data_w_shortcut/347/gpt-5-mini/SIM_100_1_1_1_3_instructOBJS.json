@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(potato_1)\"],\"explanation\":\"User asked to get another potato. No object is held. potato_0 exists, so create potato_1 as the additional potato and pick it up.\"}"

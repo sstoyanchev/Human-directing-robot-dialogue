@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_0)\"],\"explanation\":\"User asked to pick up a knife; no objects are held and no disambiguation needed, so pick up knife_0.\"}"

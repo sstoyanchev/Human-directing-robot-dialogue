@@ -1,0 +1,1 @@
+{"intent": "Command", "plan": ["Pick_up(tomato_0)", "Place(tomato_0, countertop_0)"], "explanation": "The user instructs to put 'it' on the countertop. In the state, 'tomato_0' is on top of a stool and is not currently being held. Since the robot is not holding the tomato, it must first pick it up. After picking it up, it will place it on the countertop_0 as requested."}

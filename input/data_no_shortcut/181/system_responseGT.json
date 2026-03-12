@@ -1,0 +1,1 @@
+{"explanation": "the user refers to the mug I am holding. I will empty it.", "intent": "Command", "plan": ["Pour(mug_1,sinkbasin_0)"]}

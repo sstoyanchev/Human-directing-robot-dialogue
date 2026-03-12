@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(potato_2)\",\"Place(potato_2, cabinet_0)\"],\"explanation\":\"cabinet_0 is already Open (per discussed_objects) and old_plan completed. potatoes potato_0 and potato_1 exist, so \\\"another potato\\\" is a new potato_2 \u2014 pick it up and place it in cabinet_0.\"}"

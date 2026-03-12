@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bowl_0)\",\"Place(tomatosliced_0,bowl_0)\"],\"explanation\":\"User corrected previous plan (which would place the slice on the countertop then go to the bowl). They want the slice taken to the bowl. Robot is holding tomatosliced_0, so go to bowl_0 then place the slice in it.\"}"

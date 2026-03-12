@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bottle_0)\"],\"explanation\":\"User requested to go to the bottle; bottle_0 is listed in the state (inside cabinet_0) and the robot is not holding anything, so navigate to bottle_0.\"}"

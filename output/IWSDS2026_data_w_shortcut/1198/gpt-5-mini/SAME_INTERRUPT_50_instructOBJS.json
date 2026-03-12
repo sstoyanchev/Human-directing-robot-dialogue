@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bottle_0)\",\"Go_to(houseplant_0)\",\"Pour(bottle_0, houseplant_0)\"],\"explanation\":\"bottle_0 is already FilledWithLiquid per state, so I will pick it up and pour it on houseplant_0 as requested.\"}"

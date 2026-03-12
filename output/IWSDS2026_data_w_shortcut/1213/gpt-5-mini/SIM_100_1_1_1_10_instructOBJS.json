@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cloth_0)\",\"Place(cloth_0, bathtubbasin_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pick_up(cloth_0)\",\"Place(cloth_0, countertop_0)\"],\"explanation\":\"Put the cloth in the bathtub basin, run the faucet to wash/rinse, then stop the water and remove the cloth to place on the countertop.\"}"

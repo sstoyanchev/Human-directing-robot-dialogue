@@ -1,0 +1,1 @@
+{"intent": "Command", "plan": ["Motion(RotateRight)"], "explanation": "The user's instruction is to turn right. This is a direct motion command, and based on the current state, the robot is not holding any object and is not performing any other task. The motion command 'RotateRight' is valid and should be executed as a standalone action to fulfill the user's request."}

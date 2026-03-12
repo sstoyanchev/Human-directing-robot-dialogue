@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_0)\"],\"explanation\":\"The mug (mug_0) is inside a cabinet, and the prior attempt to pick it up failed \u2014 opening the cabinet first will allow access to the mug.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(watch_0)\",\"Pick_up(watch_0)\"],\"explanation\":\"Locate a watch and pick it up.\"}"

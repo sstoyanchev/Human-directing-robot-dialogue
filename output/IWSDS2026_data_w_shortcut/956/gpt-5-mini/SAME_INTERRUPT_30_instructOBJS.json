@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(coffeemachine_0)\"],\"explanation\":\"The prior step placed mug_0 on coffeemachine_0 (successful). The pronoun \\\"it\\\" refers to the coffeemachine, so toggle_on(coffeemachine_0).\"}"

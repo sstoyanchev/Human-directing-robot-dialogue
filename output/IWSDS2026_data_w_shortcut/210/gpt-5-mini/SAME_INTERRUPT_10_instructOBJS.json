@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_1,countertop_0)\"],\"explanation\":\"User says the held mug is not clean; I will put the held mug down on the countertop so it can be cleaned.\"}"

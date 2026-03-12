@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_0,sinkbasin_0)\",\"Toggle_on(faucet_1)\",\"Toggle_off(faucet_1)\",\"Pick_up(pot_0)\"],\"explanation\":\"I am holding pot_0; to fill it I will place it in sinkbasin_0, turn on faucet (faucet_1) to fill, then turn it off and pick the pot back up.\"}"

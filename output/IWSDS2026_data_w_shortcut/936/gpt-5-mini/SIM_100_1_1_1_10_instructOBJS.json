@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, sink_1)\"],\"explanation\":\"User asked to place the held mug in the other sink; mug_0 is PickedUp and the other sink is represented as sink_1.\"}"

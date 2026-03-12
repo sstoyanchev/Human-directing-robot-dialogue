@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(breadsliced_1, toaster_0)\"],\"explanation\":\"I am holding breadsliced_1 (per state); user asked to put it into the toaster (toaster_0).\"}"

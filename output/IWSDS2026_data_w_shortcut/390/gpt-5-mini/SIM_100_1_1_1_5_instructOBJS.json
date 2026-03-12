@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(tomato_1)\"\n  ],\n  \"explanation\": \"User asked to go to a new/different tomato. tomato_0 was already visited (old plan successful), so I will go to a new tomato object tomato_1.\"\n}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, coffeemachine_0)\"],\"explanation\":\"The user says 'it' referring to the held mug (mug_0). The previous Place failed (receptacle misspelled), so place mug_0 on coffeemachine_0.\"}"

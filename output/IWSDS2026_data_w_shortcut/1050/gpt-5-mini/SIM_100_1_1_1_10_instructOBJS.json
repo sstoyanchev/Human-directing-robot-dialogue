@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateLeft)\"],\"explanation\":\"Old plan finished (Go_to(bottle_0) SUCCESSFUL). User requested to turn left, so rotate left once.\"}"

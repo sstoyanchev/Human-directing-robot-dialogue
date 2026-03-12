@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(potato_0, cabinet_1)\"],\"explanation\":\"potato_0 is currently held (Pick_up succeeded); user asked to put it in a cabinet. No cabinet ID in discussed_objects, so create cabinet_1 as the target receptacle.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(apple_2)\",\"Pick_up(apple_2)\"],\"explanation\":\"No apple in discussed_objects so created apple_2. Old plan finished and holding is empty, so first locate (Find) the apple then pick it up.\"}"

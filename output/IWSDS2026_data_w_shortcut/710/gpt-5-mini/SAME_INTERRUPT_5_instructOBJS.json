@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(potato_0)\",\"Pick_up(potato_0)\",\"Place(potato_0,cabinet_0)\"],\"explanation\":\"Locate a potato, pick it up, and place it in cabinet_0. Repeat this sequence for each additional potato (potato_1, potato_2, ...) until none remain.\"}"

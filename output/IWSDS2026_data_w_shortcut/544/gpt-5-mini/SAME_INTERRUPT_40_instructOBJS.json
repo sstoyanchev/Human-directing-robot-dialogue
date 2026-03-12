@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(potato_0,cabinet_1)\"],\"explanation\":\"User refers to the potato I'm holding (potato_0). Place it into a cabinet; no cabinet listed in the state so I create cabinet_1 as the receptacle.\"}"

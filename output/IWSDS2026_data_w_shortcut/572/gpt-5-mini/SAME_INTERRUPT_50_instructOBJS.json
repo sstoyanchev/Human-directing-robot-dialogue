@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(plate_0, countertop_0)\",\"Pick_up(plate_1)\",\"CONTINUE_NA\"],\"explanation\":\"I'm holding plate_0, so I'll place it on countertop_0, pick up another plate (plate_1), and then continue the not-attempted steps of the old plan.\"}"

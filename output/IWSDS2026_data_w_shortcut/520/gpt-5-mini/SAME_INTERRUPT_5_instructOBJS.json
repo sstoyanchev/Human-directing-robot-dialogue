@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateLeft)\"],\"explanation\":\"Interpreted 'tune left' as 'turn left' -> rotate left once.\"}"

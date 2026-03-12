@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, coffeemachine_0)\"],\"explanation\":\"Previous Place failed (used wrong object id); I'll place the mug I'm holding onto coffeemachine_0.\"}"

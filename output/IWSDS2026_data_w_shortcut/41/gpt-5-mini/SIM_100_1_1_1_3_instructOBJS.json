@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(coffeemachine_0)\"],\"explanation\":\"User said 'turn it on' referring to the coffeemachine_0 in discussed_objects; previous plan finished, so toggle_on coffeemachine_0.\"}"

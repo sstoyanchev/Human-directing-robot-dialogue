@@ -1,0 +1,1 @@
+"{\"intent\": \"Command\", \"plan\": [\"Pick_up(peppershaker_1)\"], \"explanation\": \"The pepper shaker is listed as inside sinkbasin_0 but has no id, so I assign peppershaker_1 and will pick it up.\"}"

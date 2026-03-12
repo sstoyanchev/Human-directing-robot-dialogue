@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_2)\"],\"explanation\":\"cabinet_0 and cabinet_1 are already open; user asked to try another cabinet, so I will open cabinet_2.\"}"

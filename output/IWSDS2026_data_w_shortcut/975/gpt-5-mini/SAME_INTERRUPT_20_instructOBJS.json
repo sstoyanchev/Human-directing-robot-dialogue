@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\"],\"explanation\":\"User asked to turn off toaster_0. I have already moved to toaster_0 (old plan success); holding breadsliced_0 does not prevent toggling it off.\"}"

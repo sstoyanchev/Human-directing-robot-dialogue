@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(faucet_0)\"],\"explanation\":\"User requested faucet on; faucet_0 is listed in state and old plan is complete, so toggle on faucet_0.\"}"

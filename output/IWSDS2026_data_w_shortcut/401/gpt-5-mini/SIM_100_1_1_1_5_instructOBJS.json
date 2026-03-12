@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(knife_1)\",\"Pick_up(knife_1)\",\"Slice(tomato_0)\"],\"explanation\":\"Tomato_0 is already placed on countertop_0 (a receptacle) per old_plan; robot is not holding anything, so it must locate and pick up a knife (knife_1) before slicing tomato_0.\"}"

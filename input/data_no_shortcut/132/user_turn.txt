@@ -1,0 +1,1 @@
+ <USER> put the apple in the fridge; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

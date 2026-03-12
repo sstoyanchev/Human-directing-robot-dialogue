@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0, bathtubbasin_1)\",\"Toggle_on(faucet_0)\",\"Pick_up(cloth_0)\",\"Place(cloth_0, countertop_0)\"],\"explanation\":\"Replace placing the cloth in the sink with placing it in the bathtub basin (new id bathtubbasin_1) and then perform the remaining wash steps from the old plan.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\",\"Pick_up(breadsliced_0)\",\"Place(breadsliced_0, plate_0)\"],\"explanation\":\"User 'it' refers to the bread slice (breadsliced_0) on the toaster; turn the toaster off, pick up the slice, and place it on a plate (plate_0).\"}"

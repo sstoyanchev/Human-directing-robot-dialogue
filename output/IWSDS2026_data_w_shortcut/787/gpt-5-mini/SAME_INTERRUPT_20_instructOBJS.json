@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"Place(mug_0,sinkbasin_0)\"],\"explanation\":\"User asked to place the mug in the sinkbasin. mug_0 is on the sink, so pick it up then place it in sinkbasin_0. This executes instead of continuing the previous failed peppershaker_0 step.\"}"

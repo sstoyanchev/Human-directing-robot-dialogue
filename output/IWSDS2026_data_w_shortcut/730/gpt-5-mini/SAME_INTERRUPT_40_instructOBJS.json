@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0,drawer_1)\"],\"explanation\":\"You're holding knife_0; 'put the knife away' means store it\u2014placing it in a nearby drawer. No drawer was in the discussed_objects, so I used a new receptacle id drawer_1.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\"],\"explanation\":\"User refers to the previously found mug_0 (on the DiningTable); perform Pick_up(mug_0).\"}"

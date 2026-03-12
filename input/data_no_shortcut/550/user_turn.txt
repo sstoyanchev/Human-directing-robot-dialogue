@@ -1,0 +1,1 @@
+ <USER> pickup another potato; STATE: {"discussed_objects": ["potato_0  is on top of a countertop_0 ; ", "countertop_0  , has on top PaperTowelRoll, Cup, Cup, Spatula, Bread, Sink, Fork, Plate, SoapBottle, Microwave, Potato; "], "old_plan": [{"command": "Place(potato_0, countertop_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(breadsliced_1, countertop_0)\"],\"explanation\":\"You asked to put the slice of bread on the countertop. I'm holding breadsliced_1 (previous Place to toaster_0 failed), so I'll place breadsliced_1 on countertop_0.\"}"

@@ -1,0 +1,1 @@
+{"explanation": "I just opened cabinet_0 but the user indicates that the bottle I am looking for is in cabinet1. I will close cabinet_0, open cabinet_1 instead and  do all not attempted steps in the old plan", "intent": "Command", "plan": ["Close(cabinet_0)", "Open(cabinet_1)", "CONTINUE_NA"]}

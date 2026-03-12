@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(toaster_0)\"],\"explanation\":\"User asked to go to the toaster. toaster_0 is in the scene and I'm currently holding breadsliced_0, so I'll move to toaster_0.\"}"

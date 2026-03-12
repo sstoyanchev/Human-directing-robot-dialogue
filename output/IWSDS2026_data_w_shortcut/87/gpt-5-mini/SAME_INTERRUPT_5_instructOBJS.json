@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_0,countertop_1)\"],\"explanation\":\"Interpreted 'pit' as 'put'. pot_0 is currently held (holding). Countertop not in discussed_objects so created countertop_1 as the target receptacle; place the held pot on it.\"}"

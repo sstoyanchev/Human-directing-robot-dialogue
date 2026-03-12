@@ -1,0 +1,1 @@
+ <USER> turn around; STATE: {"discussed_objects": ["countertop_0  , has on top Spatula, DishSponge, Mug, Apple, DishSponge, Bread, SaltShaker; ", "sink_0  ; ", "mug_0 is Dirty,   is on top of a countertop_0 ; ", "faucet_0  is on top of a CounterTop ; "], "old_plan": [{"command": "Toggle_off(faucet_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

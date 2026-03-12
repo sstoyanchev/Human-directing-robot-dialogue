@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(mug_0)\",\n    \"Place(mug_0, coffeemachine_0)\",\n    \"Toggle_on(coffeemachine_0)\",\n    \"Toggle_off(coffeemachine_0)\",\n    \"Pick_up(mug_0)\",\n    \"Place(mug_0, countertop_0)\"\n  ],\n  \"explanation\": \"User requested using a mug instead of the cup in the old plan, so replaced cup_0 actions with mug_0.\"\n}"

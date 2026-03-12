@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(peppershaker_1)\",\"Pick_up(peppershaker_1)\",\"Place(peppershaker_1, countertop_0)\"],\"explanation\":\"Find(peppershaker_1) was successful; user asked to remove the pepper shaker from the sink, so I will go to it, pick it up, and place it on the countertop.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(faucet_1)\"],\"explanation\":\"User asked to go to the faucet. No faucet id in discussed_objects, so I reference a new faucet as faucet_1 and will go to it.\"}"

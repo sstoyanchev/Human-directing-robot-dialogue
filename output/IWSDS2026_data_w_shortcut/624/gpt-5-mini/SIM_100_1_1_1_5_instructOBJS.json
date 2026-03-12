@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\",\"Motion(RotateRight)\"],\"explanation\":\"Interpreting 'turn around' as two 90\u00b0 right rotations to face opposite direction.\"}"

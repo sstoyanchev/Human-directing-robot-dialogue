@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cloth_0)\",\"Place(cloth_0,sinkbasin_0)\",\"Pick_up(cloth_1)\",\"Place(cloth_1,sinkbasin_0)\"],\"explanation\":\"cloth_2 was already placed; user asks to put the other clothes (cloth_0 and cloth_1, which are on the sink) into sinkbasin_0.\"}"

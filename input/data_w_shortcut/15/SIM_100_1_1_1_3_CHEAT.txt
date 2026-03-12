@@ -1,0 +1,7 @@
+Example 564  <USER> slice the bread; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(RotateLeft)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(knife_0)", "Slice(bread_0)"]}
+
+Example 1085  <USER> turn around; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(RotateRight)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)"]}
+
+Example 13  <USER> move back; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(RotateRight)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Motion(RotateRight)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(MoveBack)"]}
+
+Example 0  <USER> and again; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(MoveBack)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(MoveBack)"]}

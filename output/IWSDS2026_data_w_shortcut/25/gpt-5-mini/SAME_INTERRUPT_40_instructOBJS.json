@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0, diningtable_0)\",\"Pick_up(bowl_0)\",\"Place(bowl_0, diningtable_0)\"],\"explanation\":\"Replace countertop_0 with diningtable_0 for the remaining steps of the old plan and perform steps starting with the failed Place(knife_0,...).\"}"

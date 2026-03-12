@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(bottle_1,houseplant_3)\"],\"explanation\":\"User corrected target to the plant. I am holding bottle_1, so replace Pour(bottle_1,sinkbasin_0) with Pour(bottle_1,houseplant_3) (houseplant_3 created as a new discussed object).\"}"

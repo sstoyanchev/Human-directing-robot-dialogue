@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(mug_0, sinkbasin_0)\",\"Toggle_off(faucet_0)\",\"CONTINUE_NA\"],\"explanation\":\"You want the mug emptied and the water turned off. I'm holding mug_0 (filled), so I'll pour it into sinkbasin_0, then toggle_off faucet_0, then continue the remaining not-attempted steps of the old plan.\"}"

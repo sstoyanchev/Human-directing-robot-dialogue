@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(pot_0, sink_0)\"\n  ],\n  \"explanation\": \"User asked to put the held pot into the sink basin. pot_0 is currently held and sink_0 is the discussed sink, so Place(pot_0, sink_0) will execute the request.\"\n}"

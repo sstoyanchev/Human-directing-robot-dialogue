@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(remotecontrol_0)\",\"Place(remotecontrol_0,sofa_0)\",\"Pick_up(remotecontrol_1)\",\"Place(remotecontrol_1,sofa_0)\"],\"explanation\":\"Move all remotecontrol objects to the sofa; using new IDs remotecontrol_0 and remotecontrol_1 to represent the remotes.\"}"

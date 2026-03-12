@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_0)\",\"Slice(bread_0)\"],\"explanation\":\"Previous motion finished and I'm not holding anything. To slice the bread I will pick up a knife (knife_0) then slice the bread (bread_0).\"}"

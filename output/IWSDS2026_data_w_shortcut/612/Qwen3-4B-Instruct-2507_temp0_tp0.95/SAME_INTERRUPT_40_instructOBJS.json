@@ -1,0 +1,1 @@
+{"intent": "Command", "plan": ["Pour(pot_0, sinkbasin_0)"], "explanation": "The user instructs to clean the pot in the sink. The pot is currently being held by the robot. To clean it, the robot must pour the liquid from the pot into the sink basin. This action directly fulfills the instruction of cleaning the pot in the sink."}

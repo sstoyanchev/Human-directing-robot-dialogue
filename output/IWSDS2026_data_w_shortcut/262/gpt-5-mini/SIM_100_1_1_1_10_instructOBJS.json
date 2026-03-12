@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\",\"Pick_up(breadsliced_0)\",\"Place(breadsliced_0,plate_1)\"],\"explanation\":\"\u2018It\u2019 refers to breadsliced_0 on the toaster_0, which is currently on; I'll turn off toaster_0, pick up breadsliced_0, and place it on the plate on the dining table (created as plate_1).\"}"

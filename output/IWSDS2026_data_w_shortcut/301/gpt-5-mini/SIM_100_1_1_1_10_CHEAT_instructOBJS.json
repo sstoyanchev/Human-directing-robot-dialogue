@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Close(cabinet_0)\",\"Open(cabinet_1)\",\"CONTINUE_NA\"],\"explanation\":\"User says the bottle is in a different cabinet. I will close cabinet_0, open cabinet_1, and then continue the remaining steps of the old plan.\"}"

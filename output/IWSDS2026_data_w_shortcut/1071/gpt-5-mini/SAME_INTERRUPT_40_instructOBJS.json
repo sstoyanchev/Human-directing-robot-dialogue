@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bowl_0)\"],\"explanation\":\"User requested to only go to an empty bowl. Replacing the previous place/pick plan with Go_to(bowl_0); I remain holding tomatosliced_0.\"}"

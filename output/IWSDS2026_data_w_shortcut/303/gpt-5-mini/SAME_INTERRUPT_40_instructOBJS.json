@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(bottle_0, countertop_0)\"],\"explanation\":\"houseplant_0 is already FilledWithLiquid, so I will not pour. I'll put the bottle I'm holding down on the countertop.\"}"

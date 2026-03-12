@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(houseplant_1)\",\"Pour(bottle_0, houseplant_1)\"],\"explanation\":\"The user means the bottle I'm holding (bottle_0). I'll go to the plant (newly referenced as houseplant_1) and pour the bottle on it.\"}"

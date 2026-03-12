@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_0)\"],\"explanation\":\"Find(coffeemachine_0) succeeded and the user requested moving to it; holding mug_0 does not prevent motion.\"}"

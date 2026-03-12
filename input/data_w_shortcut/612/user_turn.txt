@@ -1,0 +1,1 @@
+ <USER> clean it in the sink; STATE: {"discussed_objects": ["pot_0 is FilledWithLiquid,  is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(pot_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "pot_0"}

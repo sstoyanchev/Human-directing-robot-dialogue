@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\"],\"explanation\":\"User asked to turn off the toaster. discussed_objects includes toaster_0 which is currently Toggled and the previous Toggle_on(toaster_0) step succeeded, so issue Toggle_off(toaster_0).\"}"

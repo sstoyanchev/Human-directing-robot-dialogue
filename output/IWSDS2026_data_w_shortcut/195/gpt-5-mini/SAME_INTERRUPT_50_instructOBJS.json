@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\"],\"explanation\":\"mug_0 is not marked Dirty (mug_1 is Dirty), so pick up mug_0 instead of the old plan to pick up mug_1.\"}"

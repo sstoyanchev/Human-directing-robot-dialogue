@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(breadsliced_0)\",\"Place(breadsliced_0,plate_1)\"],\"explanation\":\"breadsliced_0 (toast) is on countertop_1/toaster_0 so pick it up and place it on plate_1 (plate_0 is dirty, so I chose plate_1).\"}"

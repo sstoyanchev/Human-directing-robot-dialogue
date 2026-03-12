@@ -1,0 +1,1 @@
+{"explanation": "open the cabinet_0 and perfor the old plan from the failed step", "intent": "Command", "plan": ["Open(cabinet_0)", "Pick_up(bottle_0)", "Go_to(sinkbasin_0)", "Place(bottle_0, sinkbasin_0)", "Toggle_on(faucet_0)", "Pick_up(bottle_0)", "Go_to(houseplant_0)", "Pour(bottle_0, houseplant_0)"]}

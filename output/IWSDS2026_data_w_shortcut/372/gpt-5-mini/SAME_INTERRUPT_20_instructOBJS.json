@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(tomato_0)\"],\"explanation\":\"\u2018It\u2019 refers to tomato_0 from the previous plan \u2014 ignore pickup and just go to it.\"}"

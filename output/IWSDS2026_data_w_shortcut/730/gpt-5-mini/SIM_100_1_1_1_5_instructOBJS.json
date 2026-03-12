@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(drawer_1)\",\"Open(drawer_1)\",\"Place(knife_0,drawer_1)\",\"Close(drawer_1)\"],\"explanation\":\"I am holding knife_0 and the user asked to put it away. drawer_1 is a new receptacle I created; I'll go to and open the drawer, place the knife inside, and close it.\"}"

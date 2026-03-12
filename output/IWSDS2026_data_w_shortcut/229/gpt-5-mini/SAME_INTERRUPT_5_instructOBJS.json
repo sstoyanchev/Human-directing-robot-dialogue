@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cup_0)\",\"Place(cup_0, coffeemachine_0)\",\"Toggle_on(coffeemachine_0)\",\"Toggle_off(coffeemachine_0)\",\"Pick_up(cup_0)\",\"Place(cup_0, countertop_0)\"],\"explanation\":\"User requested coffee; plan fills a cup using the coffeemachine, starts and stops it, then returns the filled cup to the countertop.\"}"

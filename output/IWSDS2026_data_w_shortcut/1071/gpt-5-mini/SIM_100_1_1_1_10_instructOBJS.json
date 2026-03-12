@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bowl_1)\",\"Go_to(bowl_1)\"],\"explanation\":\"User asked to only go to an empty bowl \u2014 cancel the previous Place(tomatosliced_0, countertop_0) / Pick_up(bowl_0) plan. I will locate an empty bowl (Find(bowl_1)) and go to it (Go_to(bowl_1)). Note: still holding tomatosliced_0.\"}"

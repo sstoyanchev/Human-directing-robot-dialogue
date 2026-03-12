@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0,sink_0)\",\"Toggle_on(faucet_1)\",\"Toggle_off(faucet_1)\"],\"explanation\":\"I am already at the sink and holding mug_0 (old plan succeeded). To clean it I will place the mug in sink_0, turn the faucet on to rinse, then turn it off.\"}"

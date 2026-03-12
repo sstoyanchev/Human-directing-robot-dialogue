@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(cloth_0)\",\"Pick_up(cloth_0)\",\"Place(cloth_0, sink_2)\"],\"explanation\":\"cloth_0 (on countertop_0) selected to fetch; sink not in discussed_objects so created sink_2 as the receptacle; go to the cloth, pick it up, and place it in sink_2.\"}"

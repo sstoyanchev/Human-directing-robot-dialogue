@@ -1,0 +1,1 @@
+{"explanation": "just put the pot on the countertop. Do not turn on the faucet because the pot will not be in the sink. Forget the old plan", "intent": "Command", "plan": ["Place(pot_0, countertop_0)"]}

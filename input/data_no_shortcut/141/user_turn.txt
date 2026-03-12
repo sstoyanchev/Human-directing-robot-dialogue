@@ -1,0 +1,1 @@
+ <USER> lets find something for watering; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

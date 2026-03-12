@@ -1,0 +1,1 @@
+{"explanation": "Put the mug in a different sink and perform not-attempted steps of the plan.", "intent": "Command", "plan": ["Place(mug_0, sinkbasin_1)", "CONTINUE_NA"]}

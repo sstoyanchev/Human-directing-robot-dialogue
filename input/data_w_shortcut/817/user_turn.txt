@@ -1,0 +1,1 @@
+ <USER> clean all clothes in the bathtub; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

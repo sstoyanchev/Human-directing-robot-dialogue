@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, sink_0)\"],\"explanation\":\"You are holding mug_0 and the prior Pour(mug_0, sink_0) succeeded; I will place the held mug_0 into sink_0.\"}"

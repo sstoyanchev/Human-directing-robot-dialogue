@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cloth_0)\",\"Place(cloth_0, bathtubbasin_0)\",\"Pick_up(cloth_1)\",\"Place(cloth_1, bathtubbasin_0)\",\"Pick_up(cloth_2)\",\"Place(cloth_2, bathtubbasin_0)\"],\"explanation\":\"Ignore old plan and first place all clothes into the bathtubbasin by picking up each cloth and placing it into bathtubbasin_0.\"}"

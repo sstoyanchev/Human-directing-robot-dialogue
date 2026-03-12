@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(saltshaker_1)\"],\"explanation\":\"The countertop contains a saltshaker but no explicit id, so I assign saltshaker_1. You're not holding anything, so I will pick it up.\"}"

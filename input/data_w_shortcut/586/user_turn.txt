@@ -1,0 +1,1 @@
+ <USER> fill it with water; STATE: {"discussed_objects": ["bottle_0 is FilledWithLiquid,   is inside a Cabinet ; ", "cabinet_0  , has inside Bread; ", "bottle_1 is FilledWithLiquid,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(bottle_1)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "bottle_1"}

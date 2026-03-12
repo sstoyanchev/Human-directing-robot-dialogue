@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(potato_1)\"],\"explanation\":\"User requested to go to the potato inside the cabinet (potato_1). Do not change holding (potato_0) or other plan steps; only navigate to potato_1.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, sinkbasin_1)\",\"Toggle_on(faucet_1)\",\"Pick_up(mug_0)\"],\"explanation\":\"mug_0 is Dirty and currently PickedUp. To clean it I will place it in a sink basin, turn on the faucet to rinse, then pick it up. sinkbasin_1 and faucet_1 are new references (not in discussed_objects).\"}"

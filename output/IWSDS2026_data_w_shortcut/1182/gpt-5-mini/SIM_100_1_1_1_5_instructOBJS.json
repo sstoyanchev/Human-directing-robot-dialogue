@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"User requested to turn right. Execute a RotateRight motion. Current old_plan is complete and knife_0 is held but does not affect this command.\"}"

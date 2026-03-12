@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(bottle_1, houseplant_3)\"],\"explanation\":\"User corrected target to the plant. bottle_1 is currently held, so replace Pour(bottle_1, sinkbasin_0) with Pour(bottle_1, houseplant_3) (new object id houseplant_3).\"}"

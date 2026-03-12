@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveBack)\"],\"explanation\":\"User said 'and again' to repeat the previous action. The last successful step was Motion(MoveBack), so repeat it.\"}"

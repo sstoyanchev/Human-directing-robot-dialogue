@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(saltshaker_1)\",\"Place(saltshaker_1,countertop_0)\",\"CONTINUE_NA\"],\"explanation\":\"SaltShaker is in sinkbasin_0; I'll move the salt shaker to countertop_0 so it's not in the sink, then continue the remaining steps of the old plan (pick up apple_0 and place it in fridge_0).\"}"

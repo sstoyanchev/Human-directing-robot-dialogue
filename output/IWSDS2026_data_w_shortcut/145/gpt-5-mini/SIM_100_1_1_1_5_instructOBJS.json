@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(houseplant_1)\",\"Pour(mug_0, houseplant_1)\"],\"explanation\":\"mug_0 is already picked up and filled, so move to the plant (new id houseplant_1) and pour the mug into it.\"}"

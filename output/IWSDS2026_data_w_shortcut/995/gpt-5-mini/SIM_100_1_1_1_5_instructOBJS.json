@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(toaster_0)\",\"Go_to(toaster_0)\"],\"explanation\":\"User asked to go to the toaster. toaster_0 is listed in discussed_objects and I am not holding anything; old plan completed, so I will locate the toaster then navigate to it.\"}"

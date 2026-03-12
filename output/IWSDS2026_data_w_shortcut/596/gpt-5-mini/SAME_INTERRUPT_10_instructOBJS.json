@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(tomato_0, countertop_1)\"],\"explanation\":\"I am holding tomato_0 (Pick_up succeeded), so place it on the referenced countertop. Countertop wasn't in discussed_objects, so I used a new id countertop_1.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_1)\"],\"explanation\":\"User requests picking up a different pot. pot_0 is already in discussed_objects and was handled by the old plan, so create a new pot identifier pot_1 and pick it up.\"}"

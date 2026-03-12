@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, countertop_0)\",\"Pick_up(pot_0)\",\"Pour(pot_0, sinkbasin_0)\"],\"explanation\":\"I'm holding mug_0, so I'll place it on countertop_0, pick up pot_0, and pour its contents into sinkbasin_0 to empty it.\"}"

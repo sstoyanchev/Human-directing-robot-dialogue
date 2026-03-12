@@ -1,0 +1,1 @@
+"{\"intent\":\"Question\",\"plan\":[],\"explanation\":\"Utterance '#' is ambiguous. No clear command or request. Current old_plan has two Motion(RotateRight) steps NOT_ATTEMPTED and I'm not holding anything. Please clarify whether to execute the pending rotations, cancel them, or give a different command.\"}"

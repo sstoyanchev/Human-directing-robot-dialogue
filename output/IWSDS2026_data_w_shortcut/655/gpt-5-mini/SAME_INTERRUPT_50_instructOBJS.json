@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\",\"CONTINUE_FAILED\"],\"explanation\":\"move forward and continue the old plan from the failed step\"}"

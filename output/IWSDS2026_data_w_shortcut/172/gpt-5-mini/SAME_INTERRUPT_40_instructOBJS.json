@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\"],\"explanation\":\"'It' refers to the mug found by the previous Find(mug_0); will pick up mug_0.\"}"

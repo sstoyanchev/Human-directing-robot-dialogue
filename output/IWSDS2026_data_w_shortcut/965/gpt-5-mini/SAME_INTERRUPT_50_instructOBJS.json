@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bread_1)\",\"Go_to(bread_1)\",\"Slice(bread_1)\"],\"explanation\":\"Knife_0 is already held. No bread in discussed_objects, so create bread_1; locate and go to the bread, then slice it while holding the knife.\"}"

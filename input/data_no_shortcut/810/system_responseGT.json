@@ -1,0 +1,1 @@
+{"explanation": "replace bottle_0 with bowl_0 in the old plan and perform all steps starting from failed ", "intent": "Command", "plan": ["Pick_up(bowl_0)", "Place(bowl_0, sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pick_up(bowl_0)", "Pour(bowl_0, houseplant_0)"]}

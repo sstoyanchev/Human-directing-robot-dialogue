@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Close(cabinet_0)\",\n    \"Open(cabinet_1)\"\n  ],\n  \"explanation\": \"cabinet_0 is currently open, so I will close it then open another cabinet (cabinet_1).\"\n}"

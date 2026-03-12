@@ -1,0 +1,1 @@
+ <USER> and put on the same place; STATE: {"discussed_objects": ["watch_0  is on top of a armchair_0 ; ", "armchair_0  is on top of a Floor , has on top Watch; ", "watch_1 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_1)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_1"}

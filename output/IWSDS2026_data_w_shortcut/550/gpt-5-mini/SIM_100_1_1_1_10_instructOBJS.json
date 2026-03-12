@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Find(potato_1)\",\n    \"Go_to(potato_1)\",\n    \"Pick_up(potato_1)\"\n  ],\n  \"explanation\": \"potato_0 is already on the countertop and holding is empty; user asked for another potato, so I will locate a different potato (potato_1), go to it, and pick it up.\"\n}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bottle_0)\",\"Place(bottle_0, sinkbasin_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pick_up(bottle_0)\",\"Place(bottle_0, countertop_0)\"],\"explanation\":\"To fill the bottle, pick it up, put it under the sink faucet, turn water on then off, then return the filled bottle to the countertop.\"}"

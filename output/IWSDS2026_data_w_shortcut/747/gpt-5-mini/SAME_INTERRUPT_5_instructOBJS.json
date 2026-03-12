@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(countertop_0)\",\n    \"Pour(mug_0)\"\n  ],\n  \"explanation\": \"I am already holding mug_0; the plant is on countertop_0, so I'll go there and pour the mug to water it.\"\n}"

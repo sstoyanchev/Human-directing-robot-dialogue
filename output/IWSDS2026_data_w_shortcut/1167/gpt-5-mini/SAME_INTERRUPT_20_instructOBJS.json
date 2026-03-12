@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\",\"Pick_up(breadsliced_0)\"],\"explanation\":\"toaster_0 is currently Toggled on (old plan toggled it); I will toggle it off and then pick up breadsliced_0 that is on top of toaster_0 as requested.\"}"

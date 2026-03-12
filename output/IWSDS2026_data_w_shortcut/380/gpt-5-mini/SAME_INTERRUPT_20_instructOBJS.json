@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(microwave_2)\",\"Open(microwave_2)\",\"Pick_up(knife_0)\"],\"explanation\":\"User asked for one from the microwave; knife_0 is inside the microwave, so I will go to and open the microwave and pick up knife_0 (instead of picking knife_1 from the cabinet).\"}"

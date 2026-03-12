@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(potato_0,cabinet_0)\"],\"explanation\":\"cabinet_1 was already tried/open; user asked to try another cabinet so I will place the held potato_0 into the open cabinet_0.\"}"

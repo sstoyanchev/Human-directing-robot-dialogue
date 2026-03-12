@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(potato_0)\",\"Find(potato_1)\",\"Find(potato_2)\"],\"explanation\":\"No potatoes are in discussed_objects; plan issues multiple Find actions (placeholders potato_0..potato_2) to locate all potatoes in the environment.\"}"

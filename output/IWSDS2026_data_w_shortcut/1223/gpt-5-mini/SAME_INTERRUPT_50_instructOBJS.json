@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\"],\"explanation\":\"User asked to move forward \u2014 perform one MoveAhead motion. Holding cloth_0 remains unchanged; no placement requested.\"}"

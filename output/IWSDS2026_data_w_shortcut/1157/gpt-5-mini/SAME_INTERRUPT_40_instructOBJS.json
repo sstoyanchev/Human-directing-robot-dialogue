@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\",\"Pick_up(breadsliced_0)\",\"Place(breadsliced_0, plate_0)\"],\"explanation\":\"The toaster is currently toggled on and the user asked to turn it off first; I will toggle_off(toaster_0) and then do the remaining not-attempted steps (pick up the sliced bread and place it on plate_0).\"}"

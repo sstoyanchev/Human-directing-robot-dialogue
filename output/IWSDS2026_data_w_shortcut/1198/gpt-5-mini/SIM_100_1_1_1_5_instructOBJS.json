@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(bottle_0)\",\n    \"Go_to(houseplant_0)\",\n    \"Pour(bottle_0, houseplant_0)\"\n  ],\n  \"explanation\": \"State shows bottle_0 is FilledWithLiquid, so proceed to pick it up, go to the houseplant, and pour.\"\n}"

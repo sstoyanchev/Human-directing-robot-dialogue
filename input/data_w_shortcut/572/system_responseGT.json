@@ -1,0 +1,1 @@
+{"explanation": "put away plate_0, get another plate (plate_1) and perform all not-attempted steps of the plan replacing plate_0 with plate_1", "intent": "Command", "plan": ["Place(plate_0, countertop_0)", "Pick_up(plate_1)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pick_up(plate_1)", "Place(plate_1, countertop_0)"]}

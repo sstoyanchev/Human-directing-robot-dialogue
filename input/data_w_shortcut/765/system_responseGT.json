@@ -1,0 +1,1 @@
+{"explanation": "open the fridge to get the knife and continue the old plan from the failed step", "intent": "Command", "plan": ["Open(fridge_0)", "CONTINUE_FAILED"]}

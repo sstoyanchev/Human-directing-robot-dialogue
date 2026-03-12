@@ -1,0 +1,1 @@
+{"intent": "Command", "plan": ["Motion(RotateRight)"], "explanation": "The user's command 'turn' is ambiguous without specifying a direction. In the absence of context, the default interpretation is to turn right, as it is a common default in such commands when direction is not specified. Therefore, the robot performs a right turn to comply with the instruction."}

@@ -1,0 +1,1 @@
+ <USER> put down the pot; STATE: {"discussed_objects": ["pot_0 is Dirty,  is PickedUp,   ; ", "sink_0  ; ", "sinkbasin_0  , has inside Mug, Apple, PepperShaker, CounterTop; "], "old_plan": [{"command": "Place(pot_0, sinkbasin_0)", "status": "SubgoalStatus.FAILED"}], "holding": "pot_0"}

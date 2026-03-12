@@ -1,0 +1,1 @@
+{"explanation": "the user refers to plate_1 which I just moved", "intent": "Command", "plan": ["Pick_up(breadsliced_0)", "Place(breadsliced_0,plate_1)"]}

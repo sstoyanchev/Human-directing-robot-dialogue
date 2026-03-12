@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(faucet_0)\",\"Pick_up(cloth_0)\",\"Place(cloth_0, bathtub_0)\",\"Pick_up(cloth_1)\",\"Place(cloth_1, bathtub_0)\",\"Pick_up(cloth_2)\",\"Place(cloth_2, bathtub_0)\"],\"explanation\":\"Turn off faucet_0 (currently toggled on) then remove cloth_0, cloth_1, cloth_2 from sinkbasin_0 and place them into bathtub_0.\"}"

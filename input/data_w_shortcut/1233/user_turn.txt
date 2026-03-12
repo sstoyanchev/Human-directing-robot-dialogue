@@ -1,0 +1,1 @@
+ <USER> place the cloth on the counter top and pick up another one; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; ", "bathtub_0  is on top of a Floor ; ", "countertop_0  is on top of a Footstool , has on top Cloth, Cloth, SoapBottle, TissueBox; "], "old_plan": [{"command": "Go_to(countertop_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "cloth_0"}

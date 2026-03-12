@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(breadsliced_2, plate_0)\"],\"explanation\":\"Previous Place(breadsliced_2, plate_0) failed and I am still holding breadsliced_2, so I will try placing breadsliced_2 on plate_0 again.\"}"

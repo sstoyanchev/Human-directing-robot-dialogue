@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(potato_0, countertop_0)\"],\"explanation\":\"holding potato_0 (picked up) per state, so place it on countertop_0 as requested.\"}"

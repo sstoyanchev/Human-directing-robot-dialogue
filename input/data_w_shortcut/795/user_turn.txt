@@ -1,0 +1,1 @@
+ <USER> put all potatoes in a cabinet; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

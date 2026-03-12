@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\",\"CONTINUE_FAILED\"],\"explanation\":\"Move forward to approach the cabinet (Motion(MoveAhead)) and then continue the old plan from the failed Pick_up(cup_1) step.\"}"

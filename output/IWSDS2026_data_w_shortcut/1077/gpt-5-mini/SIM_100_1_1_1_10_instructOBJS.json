@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bowl_1)\"],\"explanation\":\"User instructed not to put down tomatosliced_0, so removed the Place(tomatosliced_0, countertop_0) step from the old plan and will proceed to Find(bowl_1) while still holding tomatosliced_0.\"}"

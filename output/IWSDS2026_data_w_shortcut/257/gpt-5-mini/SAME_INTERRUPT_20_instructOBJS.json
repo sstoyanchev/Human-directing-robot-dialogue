@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bread_0)\",\"Place(bread_0, toaster_0)\",\"Toggle_on(toaster_0)\",\"Toggle_off(toaster_0)\",\"Pick_up(bread_0)\",\"Place(bread_0, countertop_0)\"],\"explanation\":\"Toast bread by placing a bread slice in the toaster, turning it on then off, then putting the toasted bread on the countertop.\"}"

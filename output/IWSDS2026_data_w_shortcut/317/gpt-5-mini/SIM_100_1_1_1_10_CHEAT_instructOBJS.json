@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0, bathtub_0)\",\"Pick_up(cloth_1)\",\"Place(cloth_1, bathtub_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\"],\"explanation\":\"cloth_0 is already held so put it in the bathtub, get another cloth (cloth_1) and place it too, then run and stop the faucet to wash them.\"}"

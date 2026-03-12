@@ -1,0 +1,1 @@
+{"intent": "Command", "plan": ["Pour(mug_0, sinkbasin_0)", "Place(mug_0, sinkbasin_0)"], "explanation": "The user wants the mug to be emptied into the sinkbasin. The mug is already picked up, so I first pour the liquid from the mug into the sinkbasin. After pouring, I place the now-empty mug back into the sinkbasin to complete the action."}

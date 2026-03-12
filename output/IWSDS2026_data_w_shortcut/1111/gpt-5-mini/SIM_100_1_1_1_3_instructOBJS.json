@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(peppershaker_0, countertop_0)\"],\"explanation\":\"User asked to put the held object down. State shows holding = peppershaker_0 and countertop_0 exists, so place peppershaker_0 on countertop_0.\"}"

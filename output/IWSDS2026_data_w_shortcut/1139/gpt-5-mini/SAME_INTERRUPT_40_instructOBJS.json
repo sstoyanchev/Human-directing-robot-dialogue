@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_0)\",\"Place(mug_0, coffeemachine_0)\",\"Toggle_on(coffeemachine_0)\",\"Toggle_off(coffeemachine_0)\"],\"explanation\":\"User instructed not to place the mug down and to take it straight to the coffee machine. I am holding mug_0, so I will go to coffeemachine_0, place the mug there, and operate it.\"}"

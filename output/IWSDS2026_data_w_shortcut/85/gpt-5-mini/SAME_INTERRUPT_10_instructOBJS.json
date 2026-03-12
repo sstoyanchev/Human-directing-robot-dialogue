@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(pot_0,sinkbasin_0)\"],\"explanation\":\"pot_0 is PickedUp and FilledWithLiquid; user asked to pour out, so pour its contents into sinkbasin_0 rather than retrying the failed Place step.\"}"

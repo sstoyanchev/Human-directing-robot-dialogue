@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(tomato_0)\",\n    \"Pick_up(knife_0)\",\n    \"Slice(tomato_0)\"\n  ],\n  \"explanation\": \"User cancels the old microwave-based plan. They want the initial tomato (tomato_0). Tomato_0 is on countertop_0 (a receptacle) and knife_0 is on the same countertop, so go to tomato_0, pick up knife_0, and slice tomato_0.\"\n}"

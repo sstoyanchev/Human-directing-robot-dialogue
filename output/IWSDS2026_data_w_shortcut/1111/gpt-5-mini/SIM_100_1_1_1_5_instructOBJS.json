@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(peppershaker_0, countertop_0)\"],\"explanation\":\"User asked to put the item on the counter. The robot is holding peppershaker_0, so place peppershaker_0 on countertop_0.\"}"

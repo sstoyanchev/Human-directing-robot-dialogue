@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_1,sinkbasin_5)\",\"Toggle_on(faucet_5)\",\"Toggle_off(faucet_5)\",\"Pick_up(mug_1)\",\"Place(mug_1,countertop_0)\"],\"explanation\":\"User indicates the held mug_1 is dirty. I will put it in a sink (sinkbasin_5), run the faucet (faucet_5) to clean it, then return the mug to countertop_0.\"}"

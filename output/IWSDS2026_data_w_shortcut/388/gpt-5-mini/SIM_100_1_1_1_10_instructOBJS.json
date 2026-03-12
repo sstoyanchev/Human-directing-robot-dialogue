@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(tomato_0)\"],\"explanation\":\"User said 'go to it' \u2014 the referent is the tomato in the state (tomato_0). Old plan targeted tomato_1 which is not in discussed_objects, so replace with Go_to(tomato_0).\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(apple_0)\",\"Open(fridge_0)\",\"Place(apple_0, fridge_0)\",\"Close(fridge_0)\"],\"explanation\":\"Pick up the apple, open the fridge to place it inside, then close the fridge.\"}"

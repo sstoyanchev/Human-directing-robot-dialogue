@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Slice(tomato_0)\"],\"explanation\":\"User requested to slice the tomato. Preconditions met: knife_0 is held and tomato_0 is on countertop_0 (a receptacle), so perform Slice(tomato_0).\"}"

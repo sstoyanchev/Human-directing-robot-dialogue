@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(potato_1)\"],\"explanation\":\"User asked to find another potato \u2014 potato_1 is a different potato listed in the state, so I will find potato_1.\"}"

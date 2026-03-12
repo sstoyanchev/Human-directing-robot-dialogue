@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(saltshaker_0)\",\"Place(saltshaker_0, countertop_0)\",\"CONTINUE_NA\"],\"explanation\":\"Remove the salt shaker from sinkbasin_0 (salt shouldn't be in the sink) and then continue the not-attempted steps in the old plan.\"}"

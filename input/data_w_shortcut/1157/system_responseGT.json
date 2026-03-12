@@ -1,0 +1,1 @@
+{"explanation": "Turn off the toster and  do all not attempted steps in the old plan", "intent": "Command", "plan": ["Toggle_off(toaster_0)", "CONTINUE_NA"]}

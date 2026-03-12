@@ -1,0 +1,1 @@
+ <USER> Place(newspaper_0,coffeetable_0_; STATE: {"discussed_objects": ["newspaper_0 is PickedUp,   ; ", "coffeetable_0  is on top of a Floor , has on top Statue, Statue, CreditCard, Statue; "], "old_plan": [{"command": "Place(coffeetable_0)", "status": "SubgoalStatus.FAILED"}], "holding": "newspaper_0"}

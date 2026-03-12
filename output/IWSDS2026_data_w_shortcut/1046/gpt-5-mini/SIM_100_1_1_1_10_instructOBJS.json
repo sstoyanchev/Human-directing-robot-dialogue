@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bottle_0)\"],\"explanation\":\"Ignore the old Go_to/Open cabinet steps per user request; just locate bottle_0.\"}"

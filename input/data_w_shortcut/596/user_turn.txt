@@ -1,0 +1,1 @@
+ <USER> place it on the countertop; STATE: {"discussed_objects": ["tomato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(tomato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "tomato_0"}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_0)\",\"Slice(bread_0)\",\"Pick_up(breadsliced_0)\",\"Place(breadsliced_0, toaster_0)\",\"Toggle_on(toaster_0)\"],\"explanation\":\"Slice the bread then place a slice in the toaster and turn it on to make toast.\"}"

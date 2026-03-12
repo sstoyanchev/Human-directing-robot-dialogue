@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(watch_0,armchair_1)\"],\"explanation\":\"I am holding watch_0, so I'll place it on an armchair. The armchair wasn't in the state, so I reference it as armchair_1.\"}"

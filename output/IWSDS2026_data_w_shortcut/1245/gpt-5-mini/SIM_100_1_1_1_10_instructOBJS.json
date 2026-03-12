@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"User requested to turn right -> perform a right rotation. Previous Go_to(bathtub_0) was successful; no object held.\"}"

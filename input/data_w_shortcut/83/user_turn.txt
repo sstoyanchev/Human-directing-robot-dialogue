@@ -1,0 +1,1 @@
+ <USER> lets get a pot and wash it; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

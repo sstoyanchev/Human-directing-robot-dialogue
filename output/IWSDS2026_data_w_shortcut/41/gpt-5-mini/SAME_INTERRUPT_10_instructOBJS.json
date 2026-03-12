@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(coffeemachine_0)\"],\"explanation\":\"User refers to the coffeemachine_0 (mug already placed on it per old_plan which finished); execute Toggle_on(coffeemachine_0).\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(newspaper_0,coffeetable_0)\"],\"explanation\":\"Old plan failed (tried to Place(coffeetable_0)). User requests placing newspaper_0 on coffeetable_0; I am holding newspaper_0, so Place(newspaper_0,coffeetable_0) is appropriate.\"}"

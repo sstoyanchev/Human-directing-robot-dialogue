@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(bowl_1)\",\n    \"Place(bowl_1, sinkbasin_0)\",\n    \"Toggle_on(faucet_0)\",\n    \"Toggle_off(faucet_0)\",\n    \"Pick_up(bowl_1)\",\n    \"Pour(bowl_1, houseplant_0)\"\n  ],\n  \"explanation\": \"Replace bottle_0 with a new bowl (bowl_1) in the old plan and execute all steps starting from the failed step.\"\n}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cup_0)\",\"Go_to(sinkbasin_0)\",\"Place(cup_0,sinkbasin_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pick_up(cup_0)\",\"Place(cup_0,countertop_0)\"],\"explanation\":\"Pick up the cup, place it in the sink under the faucet, run water to fill, then return the filled cup to the countertop.\"}"

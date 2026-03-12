@@ -1,0 +1,1 @@
+ <USER> place the mug on the machine; STATE: {"discussed_objects": ["mug_0 is PickedUp,   ; ", "sink_0  ; ", "sinkbasin_0  , has inside Cup; ", "faucet_0  is on top of a CounterTop ; ", "coffeemachine_0  is on top of a CounterTop ; "], "old_plan": [{"command": "Go_to(coffeemachine_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"}

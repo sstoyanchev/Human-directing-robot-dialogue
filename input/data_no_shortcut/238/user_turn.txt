@@ -1,0 +1,1 @@
+ <USER> go to the coffee machine; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(RotateRight)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": ""}

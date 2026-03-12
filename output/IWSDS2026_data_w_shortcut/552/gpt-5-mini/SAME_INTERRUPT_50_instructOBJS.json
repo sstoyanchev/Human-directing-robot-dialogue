@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_0)\"],\"explanation\":\"Pick_up(potato_1) failed because potato_1 is inside a cabinet; user asked to open the cabinet, so open cabinet_0 first.\"}"

@@ -1,0 +1,1 @@
+ <USER> go to the sink; STATE: {"discussed_objects": ["countertop_0  , has on top DishSponge, Spatula, Apple, DishSponge, Bread, SaltShaker; "], "old_plan": [{"command": "Motion(RotateRight)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

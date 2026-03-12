@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(cup_0, countertop_0)\",\n    \"Pick_up(cup_1)\",\n    \"Pour(cup_1, pot_0)\"\n  ],\n  \"explanation\": \"You want the cup from the sink instead of the one I'm holding. I'll place the current cup_0 on countertop_0, pick up the sink cup (cup_1), and then pour that cup into pot_0 (follow the old plan's pour step).\"\n}"

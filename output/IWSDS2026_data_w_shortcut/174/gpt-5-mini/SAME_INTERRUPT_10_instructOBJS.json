@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(cabinet_1)\",\"Open(cabinet_1)\",\"Pick_up(mug_0)\"],\"explanation\":\"Pick_up(mug_0) failed because mug_0 is inside a closed cabinet; created cabinet_1 for the referenced cabinet and will go to and open it before picking up mug_0.\"}"

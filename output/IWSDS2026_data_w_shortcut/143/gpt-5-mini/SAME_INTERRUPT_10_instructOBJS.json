@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_1)\"],\"explanation\":\"mug_0 is inside a cabinet, so I will open the cabinet (Open(cabinet_1)).\"}"

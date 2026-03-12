@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(plate_0)\",\"Place(knife_0,countertop_0)\",\"Pick_up(bread_0)\"],\"explanation\":\"Old plan's Go_to(bread_0) was reported incorrect. The bread is on plate_0 (on the dining table). I will go to the plate, set down the held knife on the countertop so hands are free, then pick up the bread.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bathtub_0)\",\"Place(cloth_1,bathtub_0)\"],\"explanation\":\"User asked to put 'it' into the bathtub. State shows I am holding cloth_1 and bathtub_0 exists, so I will go to bathtub_0 and place cloth_1 into it.\"}"

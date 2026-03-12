@@ -1,0 +1,1 @@
+ <USER> its already filled so pour into the plant; STATE: {"discussed_objects": ["mug_0 is FilledWithLiquid,  is PickedUp,   ; ", "cabinet_0 is Open,   , has inside Plate, Spoon, Spoon; "], "old_plan": [{"command": "Open(cabinet_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Pick_up(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"}

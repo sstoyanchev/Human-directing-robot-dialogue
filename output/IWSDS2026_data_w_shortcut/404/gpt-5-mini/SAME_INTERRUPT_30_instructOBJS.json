@@ -1,0 +1,1 @@
+"{\"intent\":\"Question\",\"plan\":[],\"explanation\":\"Input 'oobjects' is unclear. Do you mean 'objects' (want a list of discussed_objects) or are you modifying the current plan (Go_to(fridge_0), Open(fridge_0), Pick_up(knife_0), Slice(tomato_0))? Please clarify.\"}"

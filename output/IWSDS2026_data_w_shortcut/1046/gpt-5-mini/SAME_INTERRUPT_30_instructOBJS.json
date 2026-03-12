@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bottle_0)\"],\"explanation\":\"User asked to ignore cabinet-related steps and just locate bottle_0, so replace old plan with a single Find(bottle_0) action.\"}"

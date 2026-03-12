@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(potato_1)\"],\"explanation\":\"User asked to find another potato. potato_1 is available (on top of cabinet_4), old plan finished, and I'm not holding anything, so I will find potato_1.\"}"

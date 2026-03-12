@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_0)\",\"Pick_up(potato_0)\",\"Place(potato_0,cabinet_0)\",\"Pick_up(potato_1)\",\"Place(potato_1,cabinet_0)\"],\"explanation\":\"User instructed to open the cupboard (cabinet_0). Inserted Open(cabinet_0) before placing the potatoes from the existing plan so the cabinet is open when placing items.\"}"

@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(potato_0)\",\n    \"Place(potato_0,cabinet_0)\",\n    \"Pick_up(potato_1)\",\n    \"Place(potato_1,cabinet_0)\",\n    \"Pick_up(potato_2)\",\n    \"Place(potato_2,cabinet_0)\"\n  ],\n  \"explanation\": \"Move all potatoes into the cabinet by picking up each potato and placing it in the cabinet.\"\n}"

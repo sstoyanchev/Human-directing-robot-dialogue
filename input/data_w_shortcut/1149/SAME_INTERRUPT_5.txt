@@ -1,0 +1,9 @@
+Example 24  <USER> lets get the objects out of the sink; STATE: {"discussed_objects": ["coffeemachine_0 is Toggled,   is on top of a CounterTop ; ", "mug_0 is Dirty,   is on top of a Sink ; ", "sinkbasin_0  , has inside SprayBottle, PepperShaker; "], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "take all objects that are in the sink out, placing them on the countertop", "intent": "Command", "plan": ["Pick_up(spraybottle_0)", "Place(spraybottle_0, countertop_0)", "Pick_up(peppershaker_0)", "Place(peppershaker_0, countertop_0)"]}
+
+Example 155  <USER> lets get a potato; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(potato_0)"]}
+
+Example 57  <USER> turn around; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)", "Motion(RotateRight)"]}
+
+Example 111  <USER> lets make coffee. get a mug; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(mug_0)", "Go_to(coffeemachine_0)"]}
+
+Example 29  <USER> lets wash cloths in the bathtub; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; "], "old_plan": [], "holding": "cloth_0"} <ASSISTANT>{"explanation": "I will put both cloths in the bathtub and turn on the water", "intent": "Command", "plan": ["Place(cloth_0, bathtub_0)", "Pick_up(cloth_1)", "Place(cloth_1, bathtub_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)"]}

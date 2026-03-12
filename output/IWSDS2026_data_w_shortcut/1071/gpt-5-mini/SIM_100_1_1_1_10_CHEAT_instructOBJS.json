@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bowl_0)\"],\"explanation\":\"User cancelled placing the tomato slice and picking up a bowl; they asked to just go to an empty bowl, so replace the old Place/Pick_up steps with Go_to(bowl_0).\"}"

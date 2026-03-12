@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bowl_1)\",\"Place(bowl_1, sinkbasin_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pick_up(bowl_1)\",\"Pour(bowl_1, houseplant_0)\"],\"explanation\":\"Replace bottle_0 with a new bowl (bowl_1) and carry out the remaining steps of the old plan to fill the bowl and pour into the houseplant.\"}"

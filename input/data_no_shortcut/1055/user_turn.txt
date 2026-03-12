@@ -1,0 +1,1 @@
+ <USER> go and find a knife; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(diningtable_0)\",\"Find(bread_0)\",\"Pick_up(bread_0)\"],\"explanation\":\"breadsliced_0 was placed in the toaster (old plan successful) and I'm not holding anything; the diningtable_0 has extra bread (bread_0), so go there, locate a slice, and pick it up.\"}"

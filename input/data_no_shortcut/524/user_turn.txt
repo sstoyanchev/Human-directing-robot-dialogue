@@ -1,0 +1,1 @@
+ <USER> Pick it up; STATE: {"discussed_objects": ["mug_0 is Dirty,   is on top of a DiningTable ; "], "old_plan": [{"command": "Find(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

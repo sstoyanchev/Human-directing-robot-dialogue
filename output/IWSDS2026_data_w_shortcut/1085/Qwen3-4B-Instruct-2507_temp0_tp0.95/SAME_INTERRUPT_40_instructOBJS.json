@@ -1,0 +1,1 @@
+{"intent": "Command", "plan": ["Motion(RotateLeft)"], "explanation": "The user instructed to 'turn around' after a previous rotation to the right. Turning around implies reversing the direction, so the robot should perform a left rotation to face the opposite direction from its current orientation. This is a direct motion command based on the context of prior movement."}

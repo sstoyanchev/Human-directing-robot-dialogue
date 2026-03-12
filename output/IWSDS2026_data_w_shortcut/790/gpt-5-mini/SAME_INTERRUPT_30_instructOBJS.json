@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pick_up(mug_0)\",\"Pour(mug_0,sinkbasin_0)\"],\"explanation\":\"User requested replacing Place(mug_0, sinkbasin_0) with Pour(mug_0, sinkbasin_0); kept the other planned steps unchanged.\"}"

@@ -1,0 +1,7 @@
+Example 362  <USER> go to the countertop; STATE: {"discussed_objects": [], "old_plan": [{"command": "Find(wateringcan_0)", "status": "SubgoalStatus.FAILED"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Go_to(countertop_0)"]}
+
+Example 369  <USER> put down the mug; STATE: {"discussed_objects": ["countertop_0  , has on top Spatula, DishSponge, Apple, DishSponge, Bread, SaltShaker; ", "sink_0  ; ", "mug_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Place(mug_0, sink_0)", "status": "SubgoalStatus.FAILED"}], "holding": "mug_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(mug_0, countertop_0)"]}
+
+Example 327  <USER> place it in the other sink; STATE: {"discussed_objects": ["mug_0 is Dirty,  is PickedUp,   ; ", "sink_0  ; "], "old_plan": [{"command": "Place(mug_0, sink_0)", "status": "SubgoalStatus.FAILED"}], "holding": "mug_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(mug_0, sink_1)"]}
+
+Example 0  <USER> place the cloth in the sink; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Place(cloth_0, bathtubbasin_0)", "status": "SubgoalStatus.FAILED"}], "holding": "cloth_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(cloth_0, sinkbasin_0)"]}

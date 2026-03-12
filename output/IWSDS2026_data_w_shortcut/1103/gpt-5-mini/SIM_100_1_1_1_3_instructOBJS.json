@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(sinkbasin_0)\",\n    \"Pick_up(mug_1)\"\n  ],\n  \"explanation\": \"The user asked to pick up the mug located in sinkbasin_0. The discussed mug is referenced in the sinkbasin entry, so I assign it mug_1 and will go to the sinkbasin and pick it up. Holding is empty so pickup is allowed.\"\n}"

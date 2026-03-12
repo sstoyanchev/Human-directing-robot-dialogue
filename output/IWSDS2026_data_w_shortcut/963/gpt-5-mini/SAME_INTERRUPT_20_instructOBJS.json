@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(knife_1)\",\"Go_to(knife_1)\",\"Pick_up(knife_1)\"],\"explanation\":\"No knife ID was listed in the state, so I created knife_1 and will locate it, go to it on the table, and pick it up.\"}"

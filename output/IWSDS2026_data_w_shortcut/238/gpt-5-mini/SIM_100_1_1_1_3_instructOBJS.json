@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_0)\"],\"explanation\":\"User requested to go to the coffee machine. Old plan's RotateRight was not attempted; replace with a direct Go_to(coffeemachine_0). coffeemachine_0 is a new discussed object id.\"}"

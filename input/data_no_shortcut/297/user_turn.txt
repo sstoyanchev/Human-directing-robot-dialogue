@@ -1,0 +1,1 @@
+ <USER> use a water bottle to water the plant; STATE: {"discussed_objects": ["mug_0 is Dirty,  is PickedUp,   ; ", "houseplant_0 is FilledWithLiquid,   is on top of a CounterTop ; "], "old_plan": [{"command": "Pour(mug_0, houseplant_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"}

@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(potato_2)\",\n    \"Place(potato_2, cabinet_0)\"\n  ],\n  \"explanation\": \"cabinet_0 is already open; user wants 'another potato' so pick up a new potato (potato_2) and place it in cabinet_0. No object is currently held.\"\n}"

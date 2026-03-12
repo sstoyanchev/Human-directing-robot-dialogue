@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"User utterance 'turn' interpreted as a rotation command; default to a single right 90\u00b0 rotation (Motion(RotateRight)).\"}"

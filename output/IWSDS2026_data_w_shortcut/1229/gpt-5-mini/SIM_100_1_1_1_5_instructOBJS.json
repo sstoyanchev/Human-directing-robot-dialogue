@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0, bathtubbasin_0)\",\"Find(cloth_1)\",\"Pick_up(cloth_1)\"],\"explanation\":\"Previous attempt to place cloth_0 into bathtub_0 failed. User asked to put the held cloth down and get another cloth, so place cloth_0 in the bathtub basin, then find and pick up a different cloth (cloth_1).\"}"

@@ -1,0 +1,1 @@
+{"explanation": "Pick up another knife and continue the non-attempted steps of the old plan", "intent": "Command", "plan": ["Pick_up(knife_1)", "CONTINUE_NA"]}

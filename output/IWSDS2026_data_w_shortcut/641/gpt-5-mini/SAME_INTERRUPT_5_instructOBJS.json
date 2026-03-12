@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(spraybottle_1)\",\"Place(spraybottle_1, countertop_0)\",\"Pick_up(peppershaker_2)\",\"Place(peppershaker_2, countertop_0)\",\"CONTINUE_NA\"],\"explanation\":\"Clear the sink by removing the spray bottle and pepper shaker to the countertop, then continue the remaining not-attempted steps of the old plan.\"}"

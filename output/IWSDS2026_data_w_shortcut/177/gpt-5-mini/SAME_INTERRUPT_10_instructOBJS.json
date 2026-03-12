@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(cabinet_0)\",\"Pick_up(mug_0)\"],\"explanation\":\"User asked for another mug instead of the planned cup_0. mug_0 is inside cabinet_0 (which is open), so go to the cabinet and pick up mug_0; this replaces the old Pick_up(cup_0) step.\"}"

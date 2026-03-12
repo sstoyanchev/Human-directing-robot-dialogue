@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(breadsliced_0)\",\"Place(breadsliced_0, plate_1)\"],\"explanation\":\"User requests moving the toasted slice. breadsliced_0 is the cooked slice on toaster_0. No plate listed in discussed_objects, so I introduce plate_1. Old plan finished and robot is not holding anything, so pick up the slice then place it on plate_1.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_0)\"],\"explanation\":\"User requested going to the coffee machine. No coffee machine is listed in state, so I reference coffeemachine_0 and replace the previous RotateRight step with Go_to(coffeemachine_0).\"}"

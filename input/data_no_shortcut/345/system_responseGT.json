@@ -1,0 +1,1 @@
+{"explanation": "open the cabinet and place the potato in it", "intent": "Command", "plan": ["Open(Cabinet_0)", "Place(potato_0,cabinet_0)"]}

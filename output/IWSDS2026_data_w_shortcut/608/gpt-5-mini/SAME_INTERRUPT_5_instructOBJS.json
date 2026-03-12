@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Find(bowl_1)\",\n    \"Pick_up(tomatosliced_0)\",\n    \"Place(tomatosliced_0, bowl_1)\"\n  ],\n  \"explanation\": \"User asked to use a different bowl. tomatosliced_0 was placed in bowl_0, so I'll find another bowl (bowl_1), pick up the tomatosliced, and place it into bowl_1.\"\n}"

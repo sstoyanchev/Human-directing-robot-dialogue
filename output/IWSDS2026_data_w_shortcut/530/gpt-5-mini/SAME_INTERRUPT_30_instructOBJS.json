@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, sink_1)\",\"CONTINUE_NA\"],\"explanation\":\"Place the mug I'm holding into a different sink (sink_1) instead of sink_0 and then continue the not-attempted steps of the old plan.\"}"

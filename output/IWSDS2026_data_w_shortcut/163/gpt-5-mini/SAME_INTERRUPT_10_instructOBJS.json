@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(sink_1)\",\"Pour(pot_0)\"],\"explanation\":\"pot_0 is currently held; user asked to pour into the sink. sink_1 created as the referenced sink, so go to sink_1 then pour pot_0.\"}"

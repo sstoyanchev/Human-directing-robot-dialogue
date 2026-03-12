@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bottle_0)\"],\"explanation\":\"bottle_0 is in cabinet_0 and I've already gone to the cabinet, so I'll navigate to the bottle (bottle_0).\"}"

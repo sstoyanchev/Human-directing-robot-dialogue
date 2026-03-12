@@ -1,0 +1,11 @@
+Example 965  <USER> slice the bread; STATE: {"discussed_objects": ["plate_0  is on top of a DiningTable ; ", "knife_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(knife_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "knife_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Slice(bread_0)"]}
+
+Example 374  <USER> pick up a knife and slice; STATE: {"discussed_objects": ["tomato_0  is on top of a DiningTable ; "], "old_plan": [{"command": "Go_to(tomato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(knife_0)", "Slice(tomato_0)"]}
+
+Example 963  <USER> pick up the knife that is on the table; STATE: {"discussed_objects": ["plate_0  is on top of a DiningTable ; "], "old_plan": [{"command": "Go_to(plate_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(knife_0)"]}
+
+Example 730  <USER> put the knife away; STATE: {"discussed_objects": ["knife_0 is PickedUp,   ; ", "bread_0  ; "], "old_plan": [{"command": "Find(knife_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Pick_up(knife_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Slice(bread_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "knife_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(knife_0, drawer_0)"]}
+
+Example 1066  <USER> put down the knife; STATE: {"discussed_objects": ["knife_0 is PickedUp,   ; ", "fridge_0  is on top of a Floor , has inside Book, PepperShaker, Mug, SaltShaker, Bowl, CreditCard, Fork, Fork, Plate, Knife, SaltShaker; ", "countertop_0  , has on top PaperTowelRoll, Bowl, Lettuce, Cup, Statue, Vase, Bowl, Lettuce, Lettuce, Statue, Statue, Fork, CreditCard, Pot; ", "tomato_0  ; "], "old_plan": [{"command": "Slice(tomato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "knife_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(knife_0, countertop_0)"]}
+
+Example 0  <USER> put down the knife; STATE: {"discussed_objects": ["plate_0  is on top of a DiningTable ; ", "knife_0 is PickedUp,   ; ", "bread_0  ; "], "old_plan": [{"command": "Slice(bread_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "knife_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(knife_0, diningtable_0)"]}

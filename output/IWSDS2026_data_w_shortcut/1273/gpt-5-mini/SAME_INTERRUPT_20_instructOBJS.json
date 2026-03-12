@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bowl_0)\",\"Place(tomatosliced_0,bowl_0)\"],\"explanation\":\"tomatosliced_0 is currently PickedUp; user asked to take the slice to bowl_0, so go to the bowl and place the slice in it (overriding the previous countertop placement).\"}"

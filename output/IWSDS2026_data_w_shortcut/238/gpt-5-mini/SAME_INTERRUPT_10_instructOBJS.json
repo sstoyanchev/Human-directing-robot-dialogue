@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_0)\"],\"explanation\":\"User requested I go to the coffee machine. No coffeemachine was in discussed_objects, so I reference coffeemachine_0 and replace the previous RotateRight motion with Go_to(coffeemachine_0).\"}"

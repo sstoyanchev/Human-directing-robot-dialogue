@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\",\"CONTINUE_NA\"],\"explanation\":\"User asked to toggle off the toaster first. The old plan has two NOT_ATTEMPTED steps (Pick_up(breadsliced_0), Place(breadsliced_0, plate_0)), so insert Toggle_off(toaster_0) before continuing the remaining steps.\"}"

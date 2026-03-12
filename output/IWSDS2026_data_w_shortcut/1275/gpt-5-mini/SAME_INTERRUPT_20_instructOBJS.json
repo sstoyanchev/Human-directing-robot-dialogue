@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\",\"Motion(MoveAhead)\",\"Motion(MoveAhead)\",\"Place(tomatosliced_0, bowl_0)\"],\"explanation\":\"Previous Place(tomatosliced_0, bowl_0) failed\u2014user asked to move closer, so move forward a few steps then retry placing the tomatosliced into bowl_0.\"}"

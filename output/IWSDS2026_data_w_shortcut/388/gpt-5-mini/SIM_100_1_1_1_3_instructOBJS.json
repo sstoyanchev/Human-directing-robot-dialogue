@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(tomato_1)\"],\"explanation\":\"User said 'just go to it' referring to the object in the current old plan (tomato_1), so replace the pending Pick_up with Go_to(tomato_1).\"}"

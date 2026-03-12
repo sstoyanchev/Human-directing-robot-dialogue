@@ -1,0 +1,1 @@
+ <USER> put the knife away; STATE: {"discussed_objects": ["knife_0 is PickedUp,   ; ", "bread_0  ; "], "old_plan": [{"command": "Find(knife_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Pick_up(knife_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Slice(bread_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "knife_0"}

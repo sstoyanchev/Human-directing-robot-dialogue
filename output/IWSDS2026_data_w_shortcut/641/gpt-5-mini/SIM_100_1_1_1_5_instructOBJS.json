@@ -1,0 +1,1 @@
+"{\"intent\": \"Command\", \"plan\": [\"Pick_up(spraybottle_0)\", \"Place(spraybottle_0, countertop_1)\", \"Pick_up(peppershaker_0)\", \"Place(peppershaker_0, countertop_1)\", \"CONTINUE_NA\"], \"explanation\": \"Empty sinkbasin_0 by moving its contents (spraybottle and peppershaker) to an available countertop, then continue the remaining not-attempted steps of the old plan.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveLeft)\"],\"explanation\":\"User requested to move left. Previous MoveLeft succeeded, but user repeated the command, so execute Motion(MoveLeft) again.\"}"

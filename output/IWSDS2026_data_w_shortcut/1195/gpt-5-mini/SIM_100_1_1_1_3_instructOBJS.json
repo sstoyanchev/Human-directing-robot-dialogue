@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bottle_0)\"],\"explanation\":\"User requested to locate a bottle; no objects discussed or held, so start by finding bottle_0.\"}"

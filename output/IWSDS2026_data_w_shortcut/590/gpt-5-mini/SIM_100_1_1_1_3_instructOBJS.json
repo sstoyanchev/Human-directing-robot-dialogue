@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(bottle_1)\",\n    \"Pour(bottle_1, mug_0)\"\n  ],\n  \"explanation\": \"bottle_1 is filled and on the countertop (old plan finished, not holding anything), so pick it up and pour its water into mug_0.\"\n}"

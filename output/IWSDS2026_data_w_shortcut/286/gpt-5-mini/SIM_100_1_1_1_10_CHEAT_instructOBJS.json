@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(breadsliced_0, toaster_0)\",\"Toggle_on(toaster_0)\"],\"explanation\":\"toaster is already off \u2014 skip the failed Toggle_off and perform the remaining not-attempted steps\"}"

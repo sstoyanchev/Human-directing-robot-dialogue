@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_1)\"],\"explanation\":\"User asked for another pot. discussed_objects shows pot_1 is on stoveburner_1 and holding is empty, so pick up pot_1.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(diningtable_0)\",\"Pick_up(bread_0)\"],\"explanation\":\"User requested picking up a slice of bread. bread_0 is on diningtable_0 per the state and the robot is not holding anything, so go to the table then pick up bread_0.\"}"

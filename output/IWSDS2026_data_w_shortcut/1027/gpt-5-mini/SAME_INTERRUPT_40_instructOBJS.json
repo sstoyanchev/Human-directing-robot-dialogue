@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(faucet_1)\"],\"explanation\":\"No faucet ID in discussed_objects, so I create faucet_1 and will go to it.\"}"

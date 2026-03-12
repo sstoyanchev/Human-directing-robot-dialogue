@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\",\"Place(cloth_0, bathtubbasin_0)\"],\"explanation\":\"User asked to turn right and put the cloth into the tub. I am holding cloth_0 and the prior Place(cloth_0, bathtubbasin_0) failed, so I'll rotate right then place cloth_0 into bathtubbasin_0.\"}"

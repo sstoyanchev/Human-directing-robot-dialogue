@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Find(mug_0)\",\n    \"Go_to(mug_0)\",\n    \"Pick_up(mug_0)\",\n    \"Go_to(coffeemachine_0)\",\n    \"Place(mug_0,coffeemachine_0)\"\n  ],\n  \"explanation\": \"old plan unattempted. User asked to get a mug and put it in the coffee machine, so I will locate and pick up a mug then move to and place it in coffeemachine_0.\"\n}"

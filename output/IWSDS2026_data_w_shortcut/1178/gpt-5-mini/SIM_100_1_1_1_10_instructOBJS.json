@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bread_0)\",\"Slice(bread_0)\",\"Pick_up(breadsliced_1)\",\"Place(breadsliced_1,toaster_0)\",\"Toggle_on(toaster_0)\"],\"explanation\":\"The slice step previously failed likely due to not being at the bread. Go to bread_0, retry Slice(bread_0), then continue the remaining not-attempted steps of the old plan.\"}"

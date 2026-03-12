@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(wateringcan_0)\"],\"explanation\":\"User asked to find an item for watering; no objects in state or active plan, so I will search for a watering can (wateringcan_0).\"}"

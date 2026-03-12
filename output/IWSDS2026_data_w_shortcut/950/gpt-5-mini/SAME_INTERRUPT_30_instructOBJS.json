@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(coffeemachine_0)\"],\"explanation\":\"Ignore the Place(mug_0, countertop_0) step \u2014 user only wants to find the coffeemachine. I am holding mug_0 but can still perform Find(coffeemachine_0).\"}"

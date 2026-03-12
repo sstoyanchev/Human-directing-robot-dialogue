@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(toaster_0)\"],\"explanation\":\"User requested navigation to the toaster. toaster_0 is listed in discussed_objects and no step is in progress (old_plan finished, holding is empty), so execute Go_to(toaster_0).\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"Place(mug_0, coffeemachine_2)\"],\"explanation\":\"mug_0 is on countertop_0 and not held; user wants it moved to a coffee machine (no coffeemachine in discussed_objects), so create coffeemachine_2 and pick up the mug then place it at coffeemachine_2.\"}"

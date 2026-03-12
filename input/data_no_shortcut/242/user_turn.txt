@@ -1,0 +1,1 @@
+ <USER> lets get the objects out of the sink; STATE: {"discussed_objects": ["coffeemachine_0 is Toggled,   is on top of a CounterTop ; ", "mug_0 is Dirty,   is on top of a Sink ; ", "sinkbasin_0  , has inside SprayBottle, PepperShaker; "], "old_plan": [], "holding": ""}

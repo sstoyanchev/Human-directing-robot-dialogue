@@ -1,0 +1,1 @@
+ <USER> put the cloth into the bathtub and then do the same for the other clothes; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; ", "bathtub_0  is on top of a Floor ; "], "old_plan": [{"command": "Find(bathtub_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "cloth_0"}

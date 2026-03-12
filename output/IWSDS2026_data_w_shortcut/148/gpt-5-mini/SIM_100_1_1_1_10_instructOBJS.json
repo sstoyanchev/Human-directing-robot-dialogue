@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bottle_0)\",\"Place(bottle_0, sinkbasin_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pick_up(bottle_0)\"],\"explanation\":\"User asked to fill a bottle. No discussed objects exist, so use bottle_0; place it in the sink, run the faucet, stop it, then pick up the filled bottle.\"}"

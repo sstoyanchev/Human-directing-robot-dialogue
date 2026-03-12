@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_1)\",\"CONTINUE_FAILED\"],\"explanation\":\"Pick up a new pot (pot_1) because Pick_up(cup_0) failed; then continue the old plan from the failed step so subsequent steps use pot_1 (e.g., Place(pot_1, sinkbasin_0), Toggle_on(faucet_0)).\"}"

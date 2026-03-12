@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(peppershaker_1)\",\"Place(peppershaker_1,countertop_0)\"],\"explanation\":\"peppershaker_1 is on top of sinkbasin_0 per state; I'll pick it up and put it on countertop_0 to get it out of the sink.\"}"

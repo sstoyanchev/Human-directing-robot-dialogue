@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_1)\"],\"explanation\":\"User asked to fetch a knife. No knife is in discussed_objects, so create knife_1 and pick it up.\"}"

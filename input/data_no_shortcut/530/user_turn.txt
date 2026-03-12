@@ -1,0 +1,1 @@
+ <USER> Put it in another sink; STATE: {"discussed_objects": ["mug_0 is Dirty,  is PickedUp,   ; ", "sink_0  ; "], "old_plan": [{"command": "Place(mug_0, sink_0)", "status": "SubgoalStatus.FAILED"}, {"command": "Toggle_on(faucet_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}, {"command": "Pick_up(mug_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": "mug_0"}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(sink_1)\"],\"explanation\":\"User asked to go to the sink. Currently holding mug_0; the sink is not in discussed_objects so I refer to it as sink_1 and will move to it.\"}"

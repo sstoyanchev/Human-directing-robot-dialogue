@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(cabinet_1)\",\n    \"Open(cabinet_1)\",\n    \"Place(potato_0,cabinet_1)\"\n  ],\n  \"explanation\": \"Ignored old plan. 'cabinet' not in discussed_objects, so I refer to cabinet_1. I am holding potato_0, so I'll go to cabinet_1, open it, and place potato_0 inside.\"\n}"

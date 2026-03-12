@@ -1,0 +1,5 @@
+Example 1019  <USER> go to the sink; STATE: {"discussed_objects": ["countertop_0  , has on top Spatula, DishSponge, DishSponge, Apple, Bread, SaltShaker; ", "sink_0  ; ", "mug_0 is FilledWithLiquid,  is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Go_to(sink_0)"]}
+
+Example 163  <USER> pour it into the sink ; STATE: {"discussed_objects": ["pot_0 is FilledWithLiquid,  is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(pot_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "pot_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pour(pot_0, sinkbasin_0)"]}
+
+Example 932  <USER> go to the sink; STATE: {"discussed_objects": ["mug_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(mug_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "mug_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Go_to(sink_0)"]}

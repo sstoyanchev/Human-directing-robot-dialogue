@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bottle_0)\"],\"explanation\":\"User forbids opening the cabinet. Cancel the Open(cabinet_0) step from the old plan and instead search for the bottle without opening the cabinet.\"}"

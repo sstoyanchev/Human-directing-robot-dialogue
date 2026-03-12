@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(fridge_0)\",\"Place(apple_0, fridge_0)\"],\"explanation\":\"Place failed because the fridge was closed; I will open the fridge then place the held apple inside.\"}"

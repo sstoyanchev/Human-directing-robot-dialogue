@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0, bathtub_0)\"],\"explanation\":\"cloth_0 is currently PickedUp (holding) and bathtub_0 matches the tub basin mentioned, so place the cloth into bathtub_0.\"}"

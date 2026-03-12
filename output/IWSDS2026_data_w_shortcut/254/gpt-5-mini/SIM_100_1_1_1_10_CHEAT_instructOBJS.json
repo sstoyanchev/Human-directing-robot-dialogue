@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pencil_0)\",\"Place(pencil_0, desk_0)\",\"Pick_up(pencil_1)\",\"Place(pencil_1, desk_0)\",\"Pick_up(pencil_2)\",\"Place(pencil_2, desk_0)\"],\"explanation\":\"\"}"

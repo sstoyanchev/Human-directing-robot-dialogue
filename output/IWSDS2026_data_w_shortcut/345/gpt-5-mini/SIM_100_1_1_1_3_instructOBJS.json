@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_0)\"],\"explanation\":\"'It' refers to cabinet_0 from discussed_objects. Holding potato_0 and previous Place(potato_0, cabinet_0) failed, so open the cabinet first.\"}"

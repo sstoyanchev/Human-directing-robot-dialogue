@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(bottle_0)\",\n    \"Go_to(houseplant_0)\",\n    \"Pour(bottle_0)\"\n  ],\n  \"explanation\": \"User asked to water the plant with a bottle \u2014 pick up the bottle, go to the houseplant, and pour.\" \n}"

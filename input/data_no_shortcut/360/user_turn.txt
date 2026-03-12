@@ -1,0 +1,1 @@
+ <USER> put on armchair; STATE: {"discussed_objects": ["watch_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_0"}

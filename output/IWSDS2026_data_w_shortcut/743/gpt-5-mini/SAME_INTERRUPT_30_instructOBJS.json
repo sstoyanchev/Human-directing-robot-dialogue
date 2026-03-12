@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_0, countertop_0)\",\"CONTINUE_NA\"],\"explanation\":\"User wants pot_0 (which I'm holding) placed on a countertop instead of the sink; replace the failed Place(pot_0,sinkbasin_0) with Place(pot_0,countertop_0) and continue the remaining not-attempted steps of the old plan.\"}"

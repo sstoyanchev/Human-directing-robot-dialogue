@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Slice(apple_0)\"],\"explanation\":\"User said \\\"slice it\\\"; most likely referent is apple_0 on diningtable_0. I am holding knife_1 and apple_0 is on a receptacle, so perform Slice(apple_0).\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(potato_2)\",\"Pick_up(potato_2)\",\"Open(cabinet_0)\",\"Place(potato_2,cabinet_0)\",\"Close(cabinet_0)\"],\"explanation\":\"Old plan finished; need a new potato (potato_2) not in discussed_objects and cabinet_0 must be opened before placing.\"}"

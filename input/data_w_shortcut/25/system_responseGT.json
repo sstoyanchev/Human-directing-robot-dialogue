@@ -1,0 +1,1 @@
+{"explanation": "Switch to using dining table instead of the countertop for placing the objects. Do the not attempted steps from the old plan.", "intent": "Command", "plan": ["Place(knife_0, diningtable_0)", "CONTINUE_NA"]}

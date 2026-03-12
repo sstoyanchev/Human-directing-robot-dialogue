@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(pot_0)\",\"Pick_up(pot_0)\"],\"explanation\":\"No discussed objects match 'dirty pot', so I introduce pot_0 and will locate it then pick it up. Old plan finished (RotateRight succeeded).\"}"

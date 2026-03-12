@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cloth_0)\",\"Place(cloth_0,sinkbasin_1)\",\"Toggle_on(faucet_1)\",\"Toggle_off(faucet_1)\"],\"explanation\":\"Find(cloth_0) succeeded per old_plan; will pick up the found cloth_0, place it in a sinkbasin (sinkbasin_1) and run faucet (faucet_1) to wash, then turn it off.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0,countertop_0)\",\"Pick_up(tomatosliced_0)\",\"Place(tomatosliced_0,bowl_1)\"],\"explanation\":\"I am holding the knife, so I first place it on the countertop, then pick up the sliced tomato (tomatosliced_0) and place it into a bowl. No bowl ID was listed, so I refer to the bowl on the countertop as bowl_1.\"}"

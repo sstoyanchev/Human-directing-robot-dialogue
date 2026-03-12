@@ -1,0 +1,1 @@
+ <USER> turn off the faucet; STATE: {"discussed_objects": ["pot_0 is Dirty,   is on top of a CounterTop ; ", "sink_0  ; ", "sinkbasin_0  , has inside Apple, Mug, CounterTop, PepperShaker; "], "old_plan": [{"command": "Place(pot_0, sink_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

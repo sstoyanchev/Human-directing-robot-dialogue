@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(sinkbasin_0)\",\"Pick_up(peppershaker_1)\"],\"explanation\":\"State shows a pepper shaker inside sinkbasin_0 and I'm not holding anything, so I'll go to the sink basin and pick up the pepper shaker (using a new id peppershaker_1).\"}"

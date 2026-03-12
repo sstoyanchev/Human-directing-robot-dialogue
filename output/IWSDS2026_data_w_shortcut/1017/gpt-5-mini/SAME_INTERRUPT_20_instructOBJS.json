@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_1)\"],\"explanation\":\"No mug in discussed_objects, so create new object mug_1 and pick it up. Previous Go_to(sink_0) was successful.\"}"

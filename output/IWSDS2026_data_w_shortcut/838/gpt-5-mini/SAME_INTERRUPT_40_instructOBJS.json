@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bread_1)\"],\"explanation\":\"Diningtable_0 was described as having Bread on it, so I will search for the bread (assigned id bread_1).\"}"

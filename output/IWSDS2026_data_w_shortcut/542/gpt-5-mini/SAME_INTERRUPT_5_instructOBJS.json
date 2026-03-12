@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(potato_0)\",\n    \"Pick_up(potato_0)\"\n  ],\n  \"explanation\": \"Find(potato_0) is successful; user asked to go and pick it up, so navigate to potato_0 and pick it up.\"\n}"

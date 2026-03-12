@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(plate_1)\",\n    \"Place(plate_1,countertop_0)\"\n  ],\n  \"explanation\": \"plate_0 on countertop_0 is dirty; there is another plate on diningtable_0 (use plate_1). I'll pick that plate and bring it to countertop_0. Old plan finished.\"\n}"

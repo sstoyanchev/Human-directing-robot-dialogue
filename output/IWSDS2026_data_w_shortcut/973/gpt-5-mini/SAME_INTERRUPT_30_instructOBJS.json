@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(toaster_0)\"],\"explanation\":\"toaster_0 was found (Find successful); I'll go to toaster_0 while holding breadsliced_0.\"}"

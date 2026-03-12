@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Close(cabinet_0)\"],\"explanation\":\"cabinet_0 is currently open per state and the user requested to close the cabinet, so close cabinet_0.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"CONTINUE_NA\"],\"explanation\":\"User asked to pick up the mug first. I will pick up mug_0 (currently on the sink) and then continue the remaining not-attempted steps of the old plan.\"}"

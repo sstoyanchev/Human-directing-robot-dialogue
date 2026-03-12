@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(faucet_3)\"],\"explanation\":\"Interpreting \\\"toggle on the sink\\\" as turning on the faucet. No faucet in discussed_objects, so I created faucet_3. Previous plan finished and I'm not holding anything, so I will Toggle_on(faucet_3).\"}"

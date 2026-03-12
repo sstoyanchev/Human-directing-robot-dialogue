@@ -1,0 +1,11 @@
+Example 28  <USER> proceed with toasting the slice; STATE: {"discussed_objects": ["knife_0  is on top of a diningtable_0 ; ", "bread_0  ; ", "breadsliced_0  is on top of a toaster_0 ; ", "diningtable_0  is on top of a Floor , has on top Bread, Bread, Bread, Bread, Bread, Bread, Pot, Fork, Mug, Tomato, Bowl, Knife, Egg, Plate, ButterKnife, Cup, Potato; ", "toaster_0  is on top of a CounterTop , has on top Bread; "], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "the bread is inside the toaster. I will turn the toaster on and off", "intent": "Command", "plan": ["Toggle_on(toaster_0)", "Toggle_off(toaster_0)", "Pick_up(breadslice_0)", "Place(breadslice_0,plate_0)"]}
+
+Example 111  <USER> lets make coffee. get a mug; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(mug_0)", "Go_to(coffeemachine_0)"]}
+
+Example 262  <USER> use a bottle to water the plant; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(bottle_0)", "Place(bottle_0, sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pick_up(bottle_0)", "Pour(bottle_0, houseplant_0)"]}
+
+Example 114  <USER> We are going to make coffee today. Get a cup; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cup_0)"]}
+
+Example 446  <USER> use the bathtub to clean all the clothes; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cloth_0)", "Place(cloth_0, bathtubbasin_0)", "Toggle_on(faucet_0)", "Pick_up(cloth_1)", "Place(cloth_1, bathtubbasin_0)", "Pick_up(cloth_2)", "Place(cloth_2, bathtubbasin_0)", "Toggle_off(faucet_0)"]}
+
+Example 0  <USER> clean all clothes in the bathtub; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cloth_0)", "Place(cloth_0, bathtubbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pick_up(cloth_0)", "Place(cloth_0, countertop_0)"]}

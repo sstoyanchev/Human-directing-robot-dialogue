@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(coffeemachine_0)\"],\"explanation\":\"Remove Place(mug_0, countertop_0) from the old plan and only execute Find(coffeemachine_0); keep holding mug_0.\"}"

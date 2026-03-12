@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\"],\"explanation\":\"User requested to move forward. Execute a MoveAhead motion. Previous plan step RotateRight was successful; holding knife_0 does not prevent moving.\"}"

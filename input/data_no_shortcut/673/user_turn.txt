@@ -1,0 +1,1 @@
+ <USER> move left; STATE: {"discussed_objects": ["cup_0 is FilledWithLiquid,   is on top of a countertop_0 ; ", "countertop_0  , has on top Spatula, Cup, Toaster; ", "cup_1 is Dirty,   is inside a Cabinet ; "], "old_plan": [{"command": "Motion(MoveAhead)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

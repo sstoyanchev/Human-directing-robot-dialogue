@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(tomatosliced_0)\",\"Place(tomatosliced_0, bowl_1)\"],\"explanation\":\"bowl_0 is dirty/filled per state; user asked for another bowl, so pick up tomatosliced_0 from countertop and place it in a different bowl (bowl_1) on the countertop.\"}"

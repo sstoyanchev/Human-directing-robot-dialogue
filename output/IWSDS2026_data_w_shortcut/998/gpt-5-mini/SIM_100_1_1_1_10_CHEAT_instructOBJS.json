@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(breadsliced_1)\"\n  ],\n  \"explanation\": \"User corrected target to the other slice on the countertop (breadsliced_1) instead of breadsliced_0.\"\n}"

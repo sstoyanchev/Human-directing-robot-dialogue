@@ -1,0 +1,1 @@
+ <USER> just go to it; STATE: {"discussed_objects": [], "old_plan": [{"command": "Pick_up(tomato_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": ""}

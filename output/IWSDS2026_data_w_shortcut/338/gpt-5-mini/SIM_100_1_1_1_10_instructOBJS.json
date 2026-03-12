@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(mug_0, sinkbasin_0)\",\"CONTINUE_NA\"],\"explanation\":\"User asked to empty the mug first \u2014 I will pour mug_0 into sinkbasin_0, then continue the remaining steps of the old plan (e.g. place on coffeemachine_0).\"}"

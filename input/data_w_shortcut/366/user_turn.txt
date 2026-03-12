@@ -1,0 +1,1 @@
+ <USER> lets get another watch ; STATE: {"discussed_objects": ["watch_0  is on top of a armchair_0 ; ", "armchair_0  is on top of a Floor , has on top Watch; "], "old_plan": [{"command": "Place(watch_0, armchair_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

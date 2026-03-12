@@ -1,0 +1,5 @@
+Example 179  <USER> go to it; STATE: {"discussed_objects": ["tomato_0  is on top of a Stool ; "], "old_plan": [{"command": "Find(tomato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Go_to(tomato_0)"]}
+
+Example 392  <USER> pick up the dirty pot; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(RotateRight)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(pot_0)"]}
+
+Example 363  <USER> turn to the right; STATE: {"discussed_objects": ["countertop_0  , has on top DishSponge, Spatula, Apple, DishSponge, Bread, SaltShaker; "], "old_plan": [{"command": "Go_to(countertop_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)"]}

@@ -1,0 +1,1 @@
+{"explanation": "Put the potato on a countertop and continue the plan starting with the failed step", "intent": "Command", "plan": ["Place(potato_0, countertop_0)", "CONTINUE_FAILED"]}

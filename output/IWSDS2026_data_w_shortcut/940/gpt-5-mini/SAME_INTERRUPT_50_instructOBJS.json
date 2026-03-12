@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(faucet_1)\"],\"explanation\":\"User asked to turn on the faucet. No faucet ID in discussed_objects, so reference a new faucet as faucet_1 and toggle it on.\"}"

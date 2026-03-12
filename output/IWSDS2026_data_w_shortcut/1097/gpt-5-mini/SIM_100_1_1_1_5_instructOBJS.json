@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Toggle_off(faucet_1)\"\n  ],\n  \"explanation\": \"User requested turning off the faucet. No faucet ID in discussed_objects, so created faucet_1. Old plan finished and robot is not holding anything, so directly toggle off faucet_1.\"\n}"

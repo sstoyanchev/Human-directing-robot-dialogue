@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateLeft)\"],\"explanation\":\"User asked to turn left \u2014 execute a RotateLeft motion. Old plan completed successfully and holding knife_0 does not prevent rotation.\"}"

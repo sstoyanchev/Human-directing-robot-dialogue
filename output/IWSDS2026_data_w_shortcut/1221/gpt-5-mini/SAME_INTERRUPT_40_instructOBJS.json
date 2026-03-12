@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0, bathtub_0)\"],\"explanation\":\"cloth_0 is PickedUp per state; user asked to put it in the tub basin, so place the held cloth into the bathtub (bathtub_0).\"}"

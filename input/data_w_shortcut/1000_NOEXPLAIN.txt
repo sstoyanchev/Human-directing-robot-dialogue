@@ -1,0 +1,1 @@
+sed s/"explanation": ".*"// /rmt/main/Staff/sveta/projects/robot-dialogue/teachEmbAI/experiment/nlu_ablation/input/v2/1000

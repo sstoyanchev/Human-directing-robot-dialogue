@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bottle_0)\"],\"explanation\":\"User forbids opening cabinet_0, so remove Open(cabinet_0) from the old plan and attempt to pick up bottle_0 directly.\"}"

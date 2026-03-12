@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(toaster_1)\"],\"explanation\":\"User asked to locate a toaster. No toaster is in discussed_objects, so I'll search for toaster_1. I am currently holding breadsliced_0 but finding doesn't require placing it.\"}"

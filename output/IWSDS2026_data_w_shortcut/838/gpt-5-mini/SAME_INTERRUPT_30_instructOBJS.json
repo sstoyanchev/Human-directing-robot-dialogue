@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bread_1)\"],\"explanation\":\"Diningtable_0 has a Bread but no bread object id in state; create bread_1 and locate it. Old plan finished and nothing is held.\"}"

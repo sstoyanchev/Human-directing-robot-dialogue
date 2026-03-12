@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(toaster_0)\",\"Pick_up(breadsliced_0)\",\"Go_to(plate_1)\",\"Place(breadsliced_0,plate_1)\"],\"explanation\":\"breadsliced_0 is on toaster_0 per state; the plate referred to is plate_1 on the diningtable_0. Plan: go to the toaster, pick up the bread slice, go to plate_1, and place the slice on it.\"}"

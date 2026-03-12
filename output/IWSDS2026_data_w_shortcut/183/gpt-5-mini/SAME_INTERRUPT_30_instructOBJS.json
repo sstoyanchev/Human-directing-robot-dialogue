@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_2)\",\"Place(mug_1, coffeemachine_2)\",\"Toggle_on(coffeemachine_2)\"],\"explanation\":\"I am holding mug_1. No coffeemachine is listed in the state, so I reference a new coffeemachine_2. I will go to it, place the mug, and turn it on.\"}"

@@ -1,0 +1,9 @@
+Example 46  <USER> put it in a cabinet; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, cabinet_0)"]}
+
+Example 343  <USER> put it in the cabinet; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, cabinet_0)"]}
+
+Example 761  <USER> place it on the countertop; STATE: {"discussed_objects": ["knife_0  is on top of a fridge_0 ; ", "fridge_0 is Open,   is on top of a Floor , has inside Book, PepperShaker, Mug, SaltShaker, Bowl, CreditCard, Fork, Fork, Plate, Knife, Knife, SaltShaker; ", "tomato_0 is PickedUp,   ; ", "stool_0  is on top of a Floor , has on top PaperTowelRoll, Cup, Spoon, Spatula, Vase, WineBottle; "], "old_plan": [{"command": "Pick_up(tomato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "tomato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(tomato_0, countertop_0)"]}
+
+Example 399  <USER> put it on the countertop; STATE: {"discussed_objects": ["tomato_0  is on top of a Stool ; "], "old_plan": [{"command": "Go_to(tomato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(tomato_0)", "Place(tomato_0, countertop_0)"]}
+
+Example 548  <USER> Place it on the countertop; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(potato_0, countertop_0)"]}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, sink_0)\"],\"explanation\":\"holding mug_0 and already at sink_0, so place mug_0 into sink_0.\"}"

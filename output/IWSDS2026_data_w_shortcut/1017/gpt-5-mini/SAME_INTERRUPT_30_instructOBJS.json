@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\"],\"explanation\":\"No mug ID in discussed_objects, so create mug_0 as the referred object and pick it up.\"}"

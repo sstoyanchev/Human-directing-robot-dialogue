@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Toggle_off(toaster_0)\",\n    \"Toggle_on(toaster_0)\"\n  ],\n  \"explanation\": \"User requested turning the toaster off then on. toaster_0 is currently toggled, so execute Toggle_off(toaster_0) then Toggle_on(toaster_0).\"\n}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(fridge_1)\",\"Open(fridge_1)\",\"Pick_up(knife_0)\"],\"explanation\":\"Find(knife_0) already succeeded. The knife is inside a fridge but no fridge ID was provided, so I created fridge_1. To pick up the knife I will go to the fridge, open it, then pick up knife_0.\"}"

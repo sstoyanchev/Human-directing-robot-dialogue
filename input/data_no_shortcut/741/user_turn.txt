@@ -1,0 +1,1 @@
+ <USER> ok use a pot instead; STATE: {"discussed_objects": ["cup_0 is FilledWithLiquid,   is inside a Fridge ; "], "old_plan": [{"command": "Pick_up(cup_0)", "status": "SubgoalStatus.FAILED"}, {"command": "Place(cup_0, sinkbasin_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}, {"command": "Toggle_on(faucet_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": ""}

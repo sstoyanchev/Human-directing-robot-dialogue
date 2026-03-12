@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_0)\",\"Pour(pot_0, sinkbasin_0)\",\"Toggle_off(faucet_0)\",\"Place(pot_0, countertop_0)\"],\"explanation\":\"Previous Pour(pot_0, sinkbasin_0) failed. To empty the pot I'll pick up pot_0, pour its contents into sinkbasin_0, turn off faucet_0, then place pot_0 on countertop_0 to finish the plan.\"}"

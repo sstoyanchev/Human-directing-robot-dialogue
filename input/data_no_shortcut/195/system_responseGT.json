@@ -1,0 +1,1 @@
+{"explanation": "mug_0 and mug_1 are already filled with liquid. Lets get a new mug", "intent": "Command", "plan": ["Pick_up(mug_2)"]}

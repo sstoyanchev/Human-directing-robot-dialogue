@@ -1,0 +1,11 @@
+Example 83  <USER> lets get a pot and wash it; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(pot_0)", "Place(pot_0, sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)"]}
+
+Example 306  <USER> we will clean cloths; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cloth_0)", "Place(cloth_0, sinkbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pick_up(cloth_0)", "Place(cloth_0, countertop_0)"]}
+
+Example 242  <USER> lets get the objects out of the sink; STATE: {"discussed_objects": ["coffeemachine_0 is Toggled,   is on top of a CounterTop ; ", "mug_0 is Dirty,   is on top of a Sink ; ", "sinkbasin_0  , has inside SprayBottle, PepperShaker; "], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "take all objects that are in the sink out, placing them on the countertop", "intent": "Command", "plan": ["Pick_up(spraybottle_0)", "Place(spraybottle_0, countertop_0)", "Pick_up(peppershaker_0)", "Place(peppershaker_0, countertop_0)"]}
+
+Example 1213  <USER> use the bathtub to clean all the clothes; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cloth_0)", "Place(cloth_0, bathtubbasin_0)", "Toggle_on(faucet_0)", "Pick_up(cloth_1)", "Place(cloth_1, bathtubbasin_0)", "Pick_up(cloth_2)", "Place(cloth_2, bathtubbasin_0)", "Toggle_off(faucet_0)"]}
+
+Example 817  <USER> clean all clothes in the bathtub; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(cloth_0)", "Place(cloth_0, bathtubbasin_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)", "Pick_up(cloth_0)", "Place(cloth_0, countertop_0)"]}
+
+Example 0  <USER> lets wash cloths in the bathtub; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; "], "old_plan": [], "holding": "cloth_0"} <ASSISTANT>{"explanation": "I will put both cloths in the bathtub and turn on the water", "intent": "Command", "plan": ["Place(cloth_0, bathtub_0)", "Pick_up(cloth_1)", "Place(cloth_1, bathtub_0)", "Toggle_on(faucet_0)", "Toggle_off(faucet_0)"]}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\"],\"explanation\":\"Old plan Go_to(toaster_0) succeeded. toaster_0 is currently toggled on; I'm holding breadsliced_0 but toggling off doesn't require freeing my hands, so I will Toggle_off(toaster_0).\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, coffeemachine_1)\"],\"explanation\":\"mug_0 is currently held (holding=mug_0), so place it onto a coffee machine. coffeemachine_1 is a new reference for the coffee machine.\"}"

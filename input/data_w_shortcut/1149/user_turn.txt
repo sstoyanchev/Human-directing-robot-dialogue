@@ -1,0 +1,1 @@
+ <USER> make me a plate of toast; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

@@ -1,0 +1,1 @@
+ <USER> pick up the mug; STATE: {"discussed_objects": ["countertop_0  , has on top Spatula, DishSponge, DishSponge, Apple, Bread, SaltShaker; ", "sink_0  ; "], "old_plan": [{"command": "Go_to(sink_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

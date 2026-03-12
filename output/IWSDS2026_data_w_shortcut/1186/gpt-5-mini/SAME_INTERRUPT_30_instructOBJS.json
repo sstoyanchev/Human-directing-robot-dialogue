@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\"],\"explanation\":\"User asked to move further forward. Previous Motion(MoveAhead) was successful, so execute another MoveAhead.\"}"

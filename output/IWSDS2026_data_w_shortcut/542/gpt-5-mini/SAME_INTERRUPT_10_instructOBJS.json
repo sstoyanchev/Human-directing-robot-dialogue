@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(potato_0)\",\"Pick_up(potato_0)\"],\"explanation\":\"Old plan found potato_0 (SubgoalStatus.SUCCESSFUL) and robot is not holding anything, so execute Go_to(potato_0) then Pick_up(potato_0).\"}"

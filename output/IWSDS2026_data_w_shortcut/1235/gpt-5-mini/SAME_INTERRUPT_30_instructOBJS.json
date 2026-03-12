@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_1, bathtub_0)\"],\"explanation\":\"old_plan shows Pick_up(cloth_1) was successful and holding=cloth_1, so the user requests placing the held cloth into bathtub_0.\"}"

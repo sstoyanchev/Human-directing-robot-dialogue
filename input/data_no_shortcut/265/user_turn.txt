@@ -1,0 +1,1 @@
+ <USER> lets get all remote controls on a sofa; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

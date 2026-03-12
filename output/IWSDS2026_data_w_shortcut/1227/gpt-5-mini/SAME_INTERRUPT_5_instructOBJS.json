@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bathtub_0)\",\"Place(cloth_0, bathtub_0)\"],\"explanation\":\"cloth_0 is currently held (holding=cloth_0) and user requests placing it into the tub; after moving to the tub, place the held cloth into bathtub_0.\"}"

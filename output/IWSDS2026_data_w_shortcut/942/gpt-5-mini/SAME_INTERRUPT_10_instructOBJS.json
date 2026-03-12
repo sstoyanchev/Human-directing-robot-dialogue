@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(faucet_0)\"],\"explanation\":\"'It' refers to faucet_0 (currently toggled on); toggle it off.\"}"

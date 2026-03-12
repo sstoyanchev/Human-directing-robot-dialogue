@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_1)\",\"Slice(tomato_0)\"],\"explanation\":\"I'll pick up a knife (knife_1) and then slice tomato_0, which is already on the dining table so it can be sliced while I hold the knife.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bread_0)\",\"Place(bread_0,toaster_0)\",\"Toggle_on(toaster_0)\",\"Toggle_off(toaster_0)\",\"Pick_up(bread_0)\",\"Place(bread_0,plate_0)\"],\"explanation\":\"Interpreted 'make a toast' as toasting bread. No discussed objects, so created bread_0, toaster_0, plate_0. Old plan empty.\"}"

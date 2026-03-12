@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_2)\"],\"explanation\":\"User asked to try another cabinet. cabinet_1 was already opened, so attempt to open a different cabinet (cabinet_2). Holding potato_0 is unchanged.\"}"

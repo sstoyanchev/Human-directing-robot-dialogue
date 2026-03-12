@@ -1,0 +1,1 @@
+ <USER> go and pickup; STATE: {"discussed_objects": ["potato_0  is on top of a DiningTable ; "], "old_plan": [{"command": "Find(potato_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

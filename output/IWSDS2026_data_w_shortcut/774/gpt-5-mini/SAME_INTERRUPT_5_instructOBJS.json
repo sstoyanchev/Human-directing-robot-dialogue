@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_0)\",\"Pour(pot_0, sinkbasin_0)\"],\"explanation\":\"pot_0 is currently in sinkbasin_0 and I'm not holding anything (old plan placed it); I'll pick up the pot_0 then pour its water into sinkbasin_0.\"}"

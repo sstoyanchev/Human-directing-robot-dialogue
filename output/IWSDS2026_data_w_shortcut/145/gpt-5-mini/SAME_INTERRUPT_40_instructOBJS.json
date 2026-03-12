@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(mug_0, houseplant_1)\"],\"explanation\":\"You are holding mug_0 which is FilledWithLiquid; user asked to pour into the plant. No plant in discussed_objects, so create houseplant_1 as the target receptacle and pour the mug into it.\"}"

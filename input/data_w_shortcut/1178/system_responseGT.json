@@ -1,0 +1,1 @@
+{"explanation": "Get closer to bread and perform steps of the old plan starting with failed", "intent": "Command", "plan": ["Go_to(bread_0)", "CONTINUE_FAILED"]}

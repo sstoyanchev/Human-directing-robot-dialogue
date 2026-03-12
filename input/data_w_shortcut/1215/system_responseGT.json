@@ -1,0 +1,1 @@
+{"explanation": "turn right and continue the plan from the failed step", "intent": "Command", "plan": ["Motion(RotateRight)", "CONTINUE_FAILED"]}

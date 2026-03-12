@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"Place(mug_0, sinkbasin_0)\"],\"explanation\":\"The mug (mug_0) is on the sink, so I will pick it up then place it into sinkbasin_0. I am executing this new command rather than continuing the old plan.\"}"

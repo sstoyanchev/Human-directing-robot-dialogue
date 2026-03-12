@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bathtub_0)\"],\"explanation\":\"Remove Place(cloth_0, countertop_0) so I keep holding cloth_0 while I search for the bathtub.\"}"

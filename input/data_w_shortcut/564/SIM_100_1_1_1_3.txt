@@ -1,0 +1,5 @@
+Example 1085  <USER> turn around; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(RotateRight)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(RotateRight)"]}
+
+Example 13  <USER> move back; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(RotateRight)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Motion(RotateRight)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Motion(MoveBack)"]}
+
+Example 1087  <USER> pick up the dirty pot; STATE: {"discussed_objects": [], "old_plan": [{"command": "Motion(RotateRight)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(pot_0)"]}

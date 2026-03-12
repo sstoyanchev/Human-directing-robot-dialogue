@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(cloth_0, bathtubbasin_0)\"\n  ],\n  \"explanation\": \"cloth_0 is currently held; placing it into the tub basin of bathtub_0 (represented as bathtubbasin_0).\"\n}"

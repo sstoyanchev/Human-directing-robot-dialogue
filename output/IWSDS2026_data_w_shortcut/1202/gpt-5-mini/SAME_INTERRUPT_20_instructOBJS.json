@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(houseplant_1)\",\"Go_to(houseplant_1)\",\"Pour(bottle_0, houseplant_1)\"],\"explanation\":\"User refers to the bottle I'm holding (bottle_0). No plant is in discussed_objects, so I create houseplant_1, locate it, go to it, and pour the bottle on it to water it.\"}"

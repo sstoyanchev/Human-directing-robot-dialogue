@@ -1,0 +1,1 @@
+{"explanation": "move the salt shaker to the countertop and do all not attempted steps in the old plan", "intent": "Command", "plan": ["Pick_up(saltshaker_0)", "Place(saltshaker_0, countertop_0)", "Pick_up(apple_0)", "Place(apple_0, fridge_0)"]}

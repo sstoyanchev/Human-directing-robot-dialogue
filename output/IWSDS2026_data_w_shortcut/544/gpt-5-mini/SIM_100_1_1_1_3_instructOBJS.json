@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(potato_0, cabinet_0)\"],\"explanation\":\"User asked to place the object in a cabinet. The robot is currently holding potato_0 (old plan steps succeeded), so place potato_0 into cabinet_0.\"}"

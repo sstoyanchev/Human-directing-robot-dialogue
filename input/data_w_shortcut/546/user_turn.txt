@@ -1,0 +1,1 @@
+ <USER> pickup a potato; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

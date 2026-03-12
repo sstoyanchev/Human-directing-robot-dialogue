@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Find(remotecontrol_0)\",\n    \"Pick_up(remotecontrol_0)\",\n    \"Place(remotecontrol_0, sofa_0)\",\n    \"Find(remotecontrol_1)\",\n    \"Pick_up(remotecontrol_1)\",\n    \"Place(remotecontrol_1, sofa_0)\"\n  ],\n  \"explanation\": \"Locate each remote control and place them on the sofa (assumed two remotes).\"\n}"

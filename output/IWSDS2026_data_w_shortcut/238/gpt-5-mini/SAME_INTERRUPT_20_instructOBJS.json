@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_0)\"],\"explanation\":\"User asked to go to the coffee machine. No coffee machine ID in discussed_objects, so I will Go_to(coffeemachine_0) and replace the previous motion step.\"}"

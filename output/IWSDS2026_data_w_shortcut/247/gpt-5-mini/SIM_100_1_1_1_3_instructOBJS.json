@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"Place(mug_0, coffeemachine_0)\"],\"explanation\":\"Coffeemachine_0 is already toggled on; mug_0 is on the sink. To continue the coffee plan, pick up the mug and place it on the coffee machine for brewing.\"}"

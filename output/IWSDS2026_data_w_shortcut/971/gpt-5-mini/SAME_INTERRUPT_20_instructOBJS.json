@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(toaster_1)\"],\"explanation\":\"User asked to find a toaster. No toaster ID is in discussed_objects, so I create a new object toaster_1 and will find it.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(faucet_0)\",\"Pick_up(cloth_0)\",\"Place(cloth_0,countertop_0)\",\"Pick_up(cloth_1)\",\"Place(cloth_1,countertop_0)\",\"Pick_up(cloth_2)\",\"Place(cloth_2,countertop_0)\"],\"explanation\":\"Faucet_0 is on, so turn it off, then remove the three cloths from sinkbasin_0. User gave no placement, so I will place them on countertop_0.\"}"

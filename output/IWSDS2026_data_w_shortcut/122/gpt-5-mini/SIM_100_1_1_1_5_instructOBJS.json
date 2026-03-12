@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(plate_1)\",\"Place(plate_1,countertop_0)\"],\"explanation\":\"plate_0 on countertop_0 is dirty; get another plate from the diningtable and bring it to countertop_0 (use new id plate_1).\"}"

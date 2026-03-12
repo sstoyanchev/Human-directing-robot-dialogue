@@ -1,0 +1,1 @@
+ <USER> pick up the knife; STATE: {"discussed_objects": ["knife_0  is inside a Fridge ; "], "old_plan": [{"command": "Find(knife_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

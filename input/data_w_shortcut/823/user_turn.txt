@@ -1,0 +1,1 @@
+ <USER> place another cloth in the sink; STATE: {"discussed_objects": ["cloth_0 is Dirty,   is on top of a sinkbasin_0 ; ", "sinkbasin_0  , has inside Cloth; "], "old_plan": [{"command": "Place(cloth_0, sinkbasin_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

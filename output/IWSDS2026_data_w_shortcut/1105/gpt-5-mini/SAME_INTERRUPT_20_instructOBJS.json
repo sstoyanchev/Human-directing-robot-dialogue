@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, countertop_0)\"],\"explanation\":\"'It' refers to the currently held mug (mug_0); place it on the countertop (countertop_0).\"}"

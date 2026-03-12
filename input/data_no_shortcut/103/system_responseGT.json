@@ -1,0 +1,1 @@
+{"explanation": "place the pot I am holding on the stove burner instead of the countertop", "intent": "Command", "plan": ["Place(pot_1, stoveburner_0)"]}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bottle_1)\",\"CONTINUE_NA\"],\"explanation\":\"Pick up a different bottle (bottle_1) instead of bottle_0 (cabinet open failed) and continue the old plan's not-attempted steps.\"}"

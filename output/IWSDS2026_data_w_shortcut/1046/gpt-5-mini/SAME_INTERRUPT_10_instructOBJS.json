@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bottle_0)\"],\"explanation\":\"User canceled cabinet-related steps in the old plan and asked to just find the bottle; bottle_0 is a discussed object, so replace the old Go_to/Open with a single Find(bottle_0).\"}"

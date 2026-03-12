@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_1)\",\"Place(pot_1,sinkbasin_0)\",\"Toggle_on(faucet_0)\"],\"explanation\":\"replace failed Pick_up(cup_0) with Pick_up(pot_1) and continue the remaining not-attempted steps (Place to sinkbasin_0, Toggle_on faucet_0).\"}"

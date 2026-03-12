@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(mug_1, coffeemachine_2)\",\n    \"Toggle_on(coffeemachine_2)\"\n  ],\n  \"explanation\": \"You said 'it' meaning mug_1 (I'm holding it). A coffeemachine was not in discussed_objects, so I created coffeemachine_2 and will place the mug on it then turn it on.\"\n}"

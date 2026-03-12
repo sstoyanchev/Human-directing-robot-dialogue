@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(newspaper_0, coffeetable_0)\"],\"explanation\":\"User requested placing the picked-up newspaper onto the coffee table. newspaper_0 is held; old plan failed due to wrong target, so place newspaper_0 on coffeetable_0.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_1)\",\"Place(pot_1, sinkbasin_0)\",\"Toggle_on(faucet_0)\"],\"explanation\":\"Pick up a pot (pot_1) instead of the cup that failed, then place it in the sinkbasin and toggle on the faucet to continue the old plan.\"}"

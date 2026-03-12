@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"User requested turning right. Current old_plan shows Go_to(countertop_0) was successful (robot is at countertop), so perform a RotateRight motion.\"}"

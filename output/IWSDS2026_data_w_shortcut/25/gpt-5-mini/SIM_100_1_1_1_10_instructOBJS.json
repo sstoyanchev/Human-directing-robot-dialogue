@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0,diningtable_1)\",\"Pick_up(bowl_0)\",\"Place(bowl_0,diningtable_1)\"],\"explanation\":\"Replace the failed Place(knife_0,countertop_0) with Place(knife_0,diningtable_1) and then perform the remaining not-attempted steps; knife_0 is currently held.\"}"

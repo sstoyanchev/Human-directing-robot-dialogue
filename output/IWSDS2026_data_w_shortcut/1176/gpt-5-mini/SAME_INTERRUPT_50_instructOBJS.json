@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_0)\",\"Slice(bread_0)\",\"Pick_up(breadsliced_1)\",\"Place(breadsliced_1,toaster_0)\",\"Toggle_on(toaster_0)\"],\"explanation\":\"User requested not to toggle off the toaster, so I removed Toggle_off(toaster_0) from the old plan.\"}"

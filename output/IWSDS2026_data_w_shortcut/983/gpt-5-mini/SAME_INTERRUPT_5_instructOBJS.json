@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(breadsliced_1, countertop_2)\"],\"explanation\":\"User asked to put the slice of bread on the countertop. I am holding breadsliced_1, so I will place it on a countertop. No countertop ID is in the state, so I created countertop_2.\"}"

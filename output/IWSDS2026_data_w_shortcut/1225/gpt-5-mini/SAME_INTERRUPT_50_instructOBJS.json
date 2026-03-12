@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\"],\"explanation\":\"User requested one more forward step. Previous MoveAhead was successful and I am holding cloth_0, so I'll move ahead once more.\"}"

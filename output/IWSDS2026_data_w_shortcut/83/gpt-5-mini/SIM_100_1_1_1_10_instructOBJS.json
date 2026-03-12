@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_0)\",\"Place(pot_0,sinkbasin_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pour(pot_0,sinkbasin_0)\",\"Pick_up(pot_0)\",\"Place(pot_0,countertop_0)\"],\"explanation\":\"Fetch pot_0, place in sinkbasin_0, run water to wash, empty it, then return pot_0 to countertop_0.\"}"

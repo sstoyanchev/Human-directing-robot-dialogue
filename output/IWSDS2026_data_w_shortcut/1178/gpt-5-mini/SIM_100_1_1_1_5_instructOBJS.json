@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bread_0)\",\"CONTINUE_FAILED\"],\"explanation\":\"Prepend going to bread_0, then continue the old plan from the failed Slice(bread_0) (knife_0 is already held).\"}"

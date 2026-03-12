@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(breadsliced_1,toaster_0)\"],\"explanation\":\"old_plan shows Pick_up(breadsliced_1) was successful and holding = breadsliced_1; user asked to put it into the toaster (toaster_0), so Place(breadsliced_1,toaster_0).\"}"

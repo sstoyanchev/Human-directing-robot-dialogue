@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bottle_0)\"],\"explanation\":\"cabinet_0 has been reached (old plan successful) and bottle_0 is inside cabinet_0, so next action is to go to bottle_0.\"}"

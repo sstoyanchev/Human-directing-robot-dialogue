@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(watch_0, armchair_1)\"],\"explanation\":\"User asked to put the held watch onto an armchair. The robot is holding watch_0, so place it on a new armchair receptacle armchair_1 (suffix 1 unused).\" }"

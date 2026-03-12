@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(countertop_0)\"],\"explanation\":\"User requested navigation to the countertop; no specific discussed countertop exists, so navigate to countertop_0.\"}"

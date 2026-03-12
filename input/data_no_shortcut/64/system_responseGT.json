@@ -1,0 +1,1 @@
+{"explanation": "cabinet_0 is already open; open another cabinet", "intent": "Command", "plan": ["Open(cabinet_1)"]}

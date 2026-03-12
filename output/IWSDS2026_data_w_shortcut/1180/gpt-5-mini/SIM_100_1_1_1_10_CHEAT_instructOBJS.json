@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bread_0)\"],\"explanation\":\"User corrects that I'm not at the bread despite the old plan; navigate to bread_0.\"}"

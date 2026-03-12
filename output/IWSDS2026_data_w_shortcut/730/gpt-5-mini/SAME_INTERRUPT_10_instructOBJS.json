@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0, drawer_1)\"],\"explanation\":\"User asked to put the held knife away. knife_0 is currently PickedUp, so plan is to place it into a (new) drawer receptacle drawer_1.\"}"

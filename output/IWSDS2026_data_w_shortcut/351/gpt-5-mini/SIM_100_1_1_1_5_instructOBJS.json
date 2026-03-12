@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(potato_1)\"],\"explanation\":\"Ignore previous plan; go to the potato inside the cabinet (potato_1).\"}"

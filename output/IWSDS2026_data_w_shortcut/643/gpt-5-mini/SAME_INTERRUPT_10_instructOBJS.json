@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\",\"CONTINUE_FAILED\"],\"explanation\":\"Move closer (MoveAhead) to reach the peppershaker and then continue execution starting from the failed Pick_up(peppershaker_0) step.\"}"

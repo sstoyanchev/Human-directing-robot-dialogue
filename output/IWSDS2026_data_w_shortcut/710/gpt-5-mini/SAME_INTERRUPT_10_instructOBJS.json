@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(potato_0)\",\"Find(potato_1)\",\"Pick_up(potato_0)\",\"Place(potato_0,cabinet_0)\",\"Pick_up(potato_1)\",\"Place(potato_1,cabinet_0)\"],\"explanation\":\"User asked to place all potatoes in the cabinet. No discussed objects listed, so plan finds two potatoes, then picks up and places each into cabinet_0.\"}"

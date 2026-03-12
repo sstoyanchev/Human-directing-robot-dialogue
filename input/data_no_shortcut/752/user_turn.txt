@@ -1,0 +1,1 @@
+ <USER> looks like the knife is in the fridge, open the fridge first; STATE: {"discussed_objects": ["knife_0  is inside a Fridge ; "], "old_plan": [{"command": "Pick_up(knife_0)", "status": "SubgoalStatus.FAILED"}], "holding": ""}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Close(cabinet_2)\",\"Open(cabinet_0)\"],\"explanation\":\"You asked to close and open another cabinet. The old plan already closed cabinet_1 and opened cabinet_2; cabinet_2 is currently open, so I will close cabinet_2 and open cabinet_0 (a different cabinet listed).\"}"

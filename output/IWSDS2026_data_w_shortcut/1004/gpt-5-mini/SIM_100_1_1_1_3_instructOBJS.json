@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\"],\"explanation\":\"toaster_0 is currently Toggled (on) per the state, so turn it off with Toggle_off(toaster_0).\"}"

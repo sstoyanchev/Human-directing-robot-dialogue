@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(pot_1, stoveburner_2)\",\"Toggle_on(stoveburner_2)\"],\"explanation\":\"You're asking to use the stove. I'm holding pot_1, so I'll place pot_1 on a stove burner (stoveburner_2) and turn it on.\"}"

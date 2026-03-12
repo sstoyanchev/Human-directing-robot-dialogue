@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(spraybottle_0)\",\"Place(spraybottle_0, countertop_0)\",\"Pick_up(peppershaker_0)\",\"Place(peppershaker_0, countertop_0)\",\"CONTINUE_NA\"],\"explanation\":\"Remove SprayBottle and PepperShaker from sinkbasin to countertop, then continue the pending steps in the old plan (toggle faucet, pick up mug, place mug on countertop).\"}"

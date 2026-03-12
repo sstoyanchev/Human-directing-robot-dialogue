@@ -1,0 +1,1 @@
+ <USER> try another knife; STATE: {"discussed_objects": ["tomato_0  is on top of a DiningTable ; ", "knife_0  is inside a Microwave ; "], "old_plan": [{"command": "Pick_up(knife_0)", "status": "SubgoalStatus.FAILED"}, {"command": "Slice(tomato_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": ""}

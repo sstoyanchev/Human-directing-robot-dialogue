@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0,plate_0)\",\"Pick_up(bread_1)\",\"Place(bread_1,plate_0)\",\"Pick_up(knife_0)\",\"Slice(bread_1)\"],\"explanation\":\"I am holding knife_0 so I first place it down to free my hands, pick up the bread (new object bread_1), put the bread on plate_0 (a receptacle), pick up the knife again, then slice the bread.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0,countertop_0)\",\"Pick_up(cloth_1)\"],\"explanation\":\"Place the currently held cloth_0 on countertop_0, then pick up another cloth on the countertop. I use cloth_1 as the ID for the other cloth present on the countertop.\"}"

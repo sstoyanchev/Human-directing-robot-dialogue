@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(coffeemachine_0)\",\"Place(mug_0, coffeemachine_0)\"],\"explanation\":\"User asks to take the (held) mug_0 to the coffeemachine. Old plan failed due to wrong object id (cofeemachine_0); correct target is coffeemachine_0, so move to it and place the mug.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Close(fridge_0)\"],\"explanation\":\"User asked to close the fridge. fridge_0 is Open in the state; my old plan finished and I'm currently holding knife_0, but I can close fridge_0 while holding it, so I will Close(fridge_0).\"}"

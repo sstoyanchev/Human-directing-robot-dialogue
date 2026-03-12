@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Close(fridge_0)\",\"Find(tomato_1)\"],\"explanation\":\"fridge_0 is open and I am holding knife_0; close the fridge first, then search for a tomato (tomato not in discussed_objects so I reference tomato_1).\"}"

@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(apple_0, diningtable_5)\",\n    \"Pick_up(knife_0)\",\n    \"Slice(apple_0)\"\n  ],\n  \"explanation\": \"Replace placing apple_0 on countertop_0 with placing it on a table (diningtable_5), then pick up knife_0 and slice apple_0 per the remaining steps of the old plan.\"\n}"

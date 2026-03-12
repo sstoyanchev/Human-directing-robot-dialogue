@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(tomato_1)\",\"Go_to(tomato_1)\"],\"explanation\":\"tomato_0 was already reached (old_plan successful); user asked for a new tomato, so locate another tomato (tomato_1) and go to it.\"}"

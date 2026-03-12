@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(saltshaker_0)\"],\"explanation\":\"The state shows a SaltShaker on countertop_0, and I'm not holding anything, so I will pick up saltshaker_0.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"User requested the robot turn right; execute a rotate-right motion. Old plan (Find(bathtub_1)) failed and is being superseded by this command.\"}"

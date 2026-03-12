@@ -1,0 +1,1 @@
+{"explanation": "replace cup_0 with pot_0 in the plan", "intent": "Command", "plan": ["Pick_up(pot_0)", "Place(pot_0, sinkbasin_0)", "Toggle_on(faucet_0)"]}

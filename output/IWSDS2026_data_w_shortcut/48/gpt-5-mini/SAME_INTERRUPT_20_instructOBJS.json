@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(cabinet_0)\",\"Open(cabinet_0)\",\"Place(potato_0,cabinet_0)\"],\"explanation\":\"holding potato_0; user asked to go to the cabinet, open it, and place the potato inside, so go to cabinet_0, open it, then place potato_0 (old Place was not attempted).\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cloth_0)\",\"Place(cloth_0,bathtub_0)\",\"Pick_up(cloth_1)\",\"Place(cloth_1,bathtub_0)\",\"Pick_up(cloth_2)\",\"Place(cloth_2,bathtub_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\"],\"explanation\":\"Put all clothes into the bathtub and run the water to clean them.\"}"

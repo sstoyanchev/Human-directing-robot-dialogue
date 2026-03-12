@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_0)\",\"Slice(bread_0)\",\"Place(knife_0,diningtable_0)\",\"Pick_up(breadsliced_1)\"],\"explanation\":\"No bread slice exists yet. I will pick up the knife (knife_0), slice the bread on the dining table (bread_0 \u2192 breadsliced_1), set the knife down on the diningtable_0, then pick up the resulting slice (breadsliced_1).\"}"

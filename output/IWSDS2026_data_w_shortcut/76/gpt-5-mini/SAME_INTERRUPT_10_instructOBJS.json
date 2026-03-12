@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(potato_1)\"],\"explanation\":\"potato_0 was just placed (old plan successful); user requested another potato, so locate the existing potato_1 from discussed_objects.\"}"

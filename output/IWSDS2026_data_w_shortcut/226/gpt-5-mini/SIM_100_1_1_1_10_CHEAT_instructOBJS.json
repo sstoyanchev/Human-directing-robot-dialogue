@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Slice(apple_0)\"],\"explanation\":\"Holding knife_1 and apple_0 is on diningtable_0, so the user\u2019s 'it' refers to apple_0 \u2014 perform Slice(apple_0).\"}"

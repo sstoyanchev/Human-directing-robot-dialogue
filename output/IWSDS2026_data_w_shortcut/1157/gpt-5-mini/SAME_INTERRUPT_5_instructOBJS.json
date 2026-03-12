@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Toggle_off(toaster_0)\",\n    \"Pick_up(breadsliced_0)\",\n    \"Place(breadsliced_0, plate_0)\"\n  ],\n  \"explanation\": \"User requested toaster turned off first; insert Toggle_off(toaster_0) before continuing the remaining not-attempted steps from the old plan (pick up the sliced bread and place it on the plate).\"\n}"

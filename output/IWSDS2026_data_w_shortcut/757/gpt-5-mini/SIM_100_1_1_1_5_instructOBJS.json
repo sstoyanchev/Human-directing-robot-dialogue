@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(stool_0)\"],\"explanation\":\"User requested to go to the stool. The stool is present in the state (tomato_0 is on top of it). Execute Go_to(stool_0) as a new command, not continuing the old plan.\"}"

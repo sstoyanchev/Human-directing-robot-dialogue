@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(breadsliced_1)\"],\"explanation\":\"Old plan attempted Pick_up(breadsliced_0). User clarified they want the other slice located on countertop_0 (breadsliced_1), so replace the pick-up with Pick_up(breadsliced_1).\"}"

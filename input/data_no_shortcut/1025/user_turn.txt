@@ -1,0 +1,1 @@
+ <USER> put down the mug; STATE: {"discussed_objects": ["countertop_0  , has on top Spatula, DishSponge, Apple, DishSponge, Bread, SaltShaker; ", "sink_0  ; ", "mug_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Place(mug_0, sink_0)", "status": "SubgoalStatus.FAILED"}], "holding": "mug_0"}

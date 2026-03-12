@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Pick_up(apple_1)\"\n  ],\n  \"explanation\": \"User asked to pick up the apple. The sinkbasin_0 is listed as containing an apple but no apple id is present in discussed_objects, so I created apple_1 and will pick it up.\"\n}"

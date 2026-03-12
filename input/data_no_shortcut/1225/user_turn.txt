@@ -1,0 +1,1 @@
+ <USER> take another step forward; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; ", "bathtub_0  is on top of a Floor ; "], "old_plan": [{"command": "Motion(MoveAhead)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "cloth_0"}

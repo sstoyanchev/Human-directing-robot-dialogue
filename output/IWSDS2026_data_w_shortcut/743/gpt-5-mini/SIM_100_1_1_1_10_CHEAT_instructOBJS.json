@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(pot_0, countertop_0)\"\n  ],\n  \"explanation\": \"User asked to put the pot away on a countertop. pot_0 is currently PickedUp/held, so place pot_0 on countertop_0 and abandon the old plan (do not toggle the faucet).\"\n}"

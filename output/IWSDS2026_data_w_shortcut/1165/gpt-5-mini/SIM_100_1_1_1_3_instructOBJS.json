@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(breadsliced_0,toaster_0)\",\"Toggle_on(toaster_0)\"],\"explanation\":\"User says toaster is already off, so skip the Toggle_off step in the old plan. I'm holding breadsliced_0 (per state) so I will place it in toaster_0 then toggle the toaster on.\"}"

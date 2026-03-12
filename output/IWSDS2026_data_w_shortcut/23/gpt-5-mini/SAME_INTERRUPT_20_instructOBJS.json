@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_1)\",\"Place(knife_1,countertop_1)\",\"Pick_up(bowl_1)\",\"Place(bowl_1,countertop_1)\"],\"explanation\":\"fridge_0 is already open (old_plan successful); I'll pick up the knife and bowl from the fridge and place both on the countertop (using countertop_1).\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(tomato_0)\"],\"explanation\":\"User said 'it' \u2014 the discussed object matching that reference is tomato_0, so go to tomato_0. The old plan targeted tomato_1 which is not in discussed_objects, so it is ignored.\"}"

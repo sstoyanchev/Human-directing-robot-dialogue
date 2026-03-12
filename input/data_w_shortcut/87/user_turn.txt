@@ -1,0 +1,1 @@
+ <USER> pit it down on countertop; STATE: {"discussed_objects": ["pot_0 is Dirty,  is PickedUp,   ; ", "sinkbasin_0  , has inside Mug, Apple, CounterTop, PepperShaker; "], "old_plan": [{"command": "Pour(pot_0, sinkbasin_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "pot_0"}

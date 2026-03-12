@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cloth_0)\",\"Place(cloth_0, sinkbasin_0)\",\"Toggle_on(faucet_0)\",\"Toggle_off(faucet_0)\",\"Pick_up(cloth_0)\",\"Place(cloth_0, towelholder_0)\"],\"explanation\":\"Interpret as washing the cloth: pick up cloth, rinse in sink (toggle faucet), then place on towel holder to dry.\"}"

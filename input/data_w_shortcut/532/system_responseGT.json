@@ -1,0 +1,1 @@
+{"explanation": "", "intent": "Command", "plan": ["Toggle_on(faucet_0)", "Pick_up(mug_0)", "Pour(mug_0, sinkbasin_1)", "Place(mug_0, countertop_0)"]}

@@ -1,0 +1,1 @@
+ <USER> pour it in the sink; STATE: {"discussed_objects": ["bottle_0 is FilledWithLiquid,   is inside a Cabinet ; ", "bottle_1 is FilledWithLiquid,  is PickedUp,   ; ", "bottle_2 is FilledWithLiquid,   is on top of a Pot and on top of a CounterTop ; "], "old_plan": [{"command": "Pick_up(bottle_1)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "bottle_1"}

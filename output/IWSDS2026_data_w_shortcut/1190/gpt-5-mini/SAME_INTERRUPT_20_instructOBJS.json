@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveRight)\"],\"explanation\":\"User requested to step right, so perform Motion(MoveRight). Current holding (knife_0) and previous motion (RotateLeft) do not prevent this action.\"}"

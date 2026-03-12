@@ -1,0 +1,9 @@
+Example 364  <USER> take it to armchair; STATE: {"discussed_objects": ["watch_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(watch_0, armchair_0)"]}
+
+Example 360  <USER> put on armchair; STATE: {"discussed_objects": ["watch_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(watch_0, armchair_0)"]}
+
+Example 68  <USER> lets open another one; STATE: {"discussed_objects": ["potato_0 is PickedUp,   ; ", "cabinet_0 is Open,   is on top of a Floor ; ", "potato_1  is inside a Cabinet ; ", "cabinet_1 is Open,   is on top of a Floor , has inside Bowl; ", "cabinet_2 is Open,   is on top of a Floor , has inside Lettuce; "], "old_plan": [{"command": "Open(cabinet_2)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "potato_0"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Open(cabinet_3)"]}
+
+Example 347  <USER> lets get another potato; STATE: {"discussed_objects": ["potato_0  is on top of a Floor ; ", "cabinet_0 is Open,   is on top of a Floor ; "], "old_plan": [{"command": "Open(cabinet_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Place(potato_0, cabinet_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Pick_up(potato_1)"]}
+
+Example 368  <USER> and put on the same place; STATE: {"discussed_objects": ["watch_0  is on top of a armchair_0 ; ", "armchair_0  is on top of a Floor , has on top Watch; ", "watch_1 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(watch_1)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "watch_1"} <ASSISTANT>{"explanation": "", "intent": "Command", "plan": ["Place(watch_1, armchair_0)"]}

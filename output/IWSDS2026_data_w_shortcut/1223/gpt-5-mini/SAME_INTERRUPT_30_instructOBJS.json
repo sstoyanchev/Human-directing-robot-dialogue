@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveAhead)\"],\"explanation\":\"User asked to move forward, which maps to Motion(MoveAhead). I will execute the forward movement while still holding cloth_0.\"}"

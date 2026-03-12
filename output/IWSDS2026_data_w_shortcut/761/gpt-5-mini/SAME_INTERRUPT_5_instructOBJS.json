@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Place(tomato_0,countertop_1)\"\n  ],\n  \"explanation\": \"User asked to place 'it' \u2014 referring to the currently held tomato_0 \u2014 onto a countertop. No countertop is listed in the state, so I created countertop_1 and will place tomato_0 on it.\"\n}"

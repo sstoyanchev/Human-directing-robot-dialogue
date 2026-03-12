@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0,coffeemachine_0)\"],\"explanation\":\"The mug_0 is currently held and the previous Place step failed (typo). I'll place mug_0 on coffeemachine_0.\"}"

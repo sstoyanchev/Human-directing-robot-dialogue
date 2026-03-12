@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(mug_0)\",\"Place(mug_0,coffeemachine_0)\"],\"explanation\":\"User asked to get a mug and put it in the coffee machine \u2014 replace the old multi-step plan with picking up a mug and placing it in coffeemachine_0.\"}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bathtub_0)\"],\"explanation\":\"User said 'tub' which maps to bathtub_0 in discussed_objects; previous motion step completed, so proceed to go to bathtub_0.\"}"

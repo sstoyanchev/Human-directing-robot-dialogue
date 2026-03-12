@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(potato_1)\",\"Place(potato_1, cabinet_0)\"],\"explanation\":\"User asked for another potato \u2192 use new potato_1. cabinet_0 is open in state, so pick up potato_1 then place it into cabinet_0.\"}"

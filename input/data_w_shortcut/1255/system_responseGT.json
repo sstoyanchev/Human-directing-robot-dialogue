@@ -1,0 +1,1 @@
+{"explanation": "", "intent": "Command", "plan": ["Pick_up(cloth_0)", "Place(cloth_0, sinkbasin_0)", "Pick_up(cloth_1)", "Place(cloth_1, sinkbasin_0)"]}

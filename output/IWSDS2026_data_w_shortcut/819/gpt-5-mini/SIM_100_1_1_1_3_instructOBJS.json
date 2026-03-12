@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(cloth_0, bathtubbasin_0)\",\"CONTINUE_FAILED\"],\"explanation\":\"cloth_0 is currently picked up and the prior Place(cloth_0, bathtubbasin_0) failed \u2014 retry placing it in the bathtub basin and then continue the old plan from the failed step.\"}"

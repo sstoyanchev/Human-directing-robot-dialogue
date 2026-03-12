@@ -1,0 +1,1 @@
+ <USER> put the apple on the counter top; STATE: {"discussed_objects": ["pot_0 is Dirty,   is on top of a CounterTop ; ", "sink_0  ; ", "sinkbasin_0  , has inside Mug, CounterTop, PepperShaker; ", "faucet_0  is on top of a CounterTop ; ", "apple_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(apple_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "apple_0"}

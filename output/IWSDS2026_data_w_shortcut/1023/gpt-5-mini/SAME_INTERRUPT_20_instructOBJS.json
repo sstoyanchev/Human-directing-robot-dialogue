@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0,sink_0)\"],\"explanation\":\"mug_0 is currently PickedUp (holding). Previous Pour(mug_0, sink_0) succeeded; user requests to put the mug into the sink, so place the held mug_0 into sink_0.\"}"

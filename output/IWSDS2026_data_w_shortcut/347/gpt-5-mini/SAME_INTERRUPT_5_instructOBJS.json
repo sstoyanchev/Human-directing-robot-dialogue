@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(potato_1)\"],\"explanation\":\"User requested another potato. potato_0 exists; create a new potato_1 and pick it up. previous plan finished and nothing is held.\"}"

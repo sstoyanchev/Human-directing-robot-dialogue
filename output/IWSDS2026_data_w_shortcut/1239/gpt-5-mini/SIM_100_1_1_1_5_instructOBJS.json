@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bathtub_1)\"],\"explanation\":\"User asked to find another bathtub. bathtub_0 is already in discussed_objects, so I will search for a different bathtub (bathtub_1). Old plan finished and I'm not holding anything.\"}"

@@ -1,0 +1,1 @@
+ <USER> no, keep holding the cloth while looking for the bathtub; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Place(cloth_0, countertop_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}, {"command": "Find(bathtub_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": "cloth_0"}

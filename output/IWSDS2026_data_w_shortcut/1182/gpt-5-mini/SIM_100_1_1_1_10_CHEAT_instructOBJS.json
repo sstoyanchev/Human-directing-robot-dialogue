@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"User requested a right turn \u2192 perform one RotateRight. Old plan (Go_to(bread_0)) is SUCCESSFUL; currently holding knife_0.\"}"

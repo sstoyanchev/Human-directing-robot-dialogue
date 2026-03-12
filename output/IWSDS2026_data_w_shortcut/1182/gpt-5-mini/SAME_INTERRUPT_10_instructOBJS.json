@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(RotateRight)\"],\"explanation\":\"User said 'turn right' \u2014 interpret as a RotateRight motion. No object referenced; continue holding knife_0.\"}"

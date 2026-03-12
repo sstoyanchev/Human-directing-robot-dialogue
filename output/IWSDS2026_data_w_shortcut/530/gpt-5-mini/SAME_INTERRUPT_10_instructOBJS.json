@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, sink_1)\",\"CONTINUE_FAILED\"],\"explanation\":\"The Place(mug_0, sink_0) step failed and the user asked to put the held mug in another sink. I'll place mug_0 into a different sink (sink_1) and then continue the remaining steps of the old plan.\"}"

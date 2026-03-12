@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(mug_0,sinkbasin_1)\",\"Place(mug_0,sinkbasin_1)\"],\"explanation\":\"You said the mug is dirty. Old plan shows Pick_up(mug_0) succeeded and I'm holding mug_0, so I'll first pour the mug into a sinkbasin (created as sinkbasin_1) to empty it, then place the mug in the sinkbasin for cleaning.\"}"

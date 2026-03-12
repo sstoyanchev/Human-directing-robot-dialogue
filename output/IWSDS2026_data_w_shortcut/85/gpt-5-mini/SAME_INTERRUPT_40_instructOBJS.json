@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pour(pot_0,sinkbasin_0)\"],\"explanation\":\"pot_0 is currently held and the place step failed; pour the pot's contents into sinkbasin_0 as requested.\"}"

@@ -1,0 +1,1 @@
+ <USER> slice the bread, toast one slice and put it on a plate; STATE: {"discussed_objects": [], "old_plan": [], "holding": ""}

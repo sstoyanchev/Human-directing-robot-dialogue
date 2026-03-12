@@ -1,0 +1,1 @@
+{"explanation": "the user refers to a pot that is different from the one I just handled", "intent": "Command", "plan": ["Pick_up(pot_2)"]}

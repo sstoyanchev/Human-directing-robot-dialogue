@@ -1,0 +1,1 @@
+ <USER> first make sure you find the tub; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; "], "old_plan": [{"command": "Place(cloth_0, bathtubbasin_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": "cloth_0"}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_off(toaster_0)\",\"Pick_up(breadsliced_0)\",\"Place(breadsliced_0,plate_1)\"],\"explanation\":\"User asked to turn off (the toaster, which old_plan turned on) and present 'it' (the bread slice breadsliced_0) on a plate. No plate ID existed in state, so I created plate_1 as the receptacle.\"}"

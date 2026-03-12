@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(pot_0)\"],\"explanation\":\"User asked for another pot \u2014 pot_1 is already on stoveburner_1, so I will pick up pot_0 from the countertop.\"}"

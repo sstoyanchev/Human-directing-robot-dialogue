@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(countertop_0)\",\n    \"Pick_up(mug_1)\"\n  ],\n  \"explanation\": \"mug_0 is inside a cabinet and dirty; user requested another mug. I will go to the countertop (which has a mug) and pick up that mug (assigned mug_1).\"\n}"

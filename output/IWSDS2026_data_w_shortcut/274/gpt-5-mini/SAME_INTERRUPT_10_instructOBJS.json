@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(potato_1)\",\"Pick_up(potato_1)\",\"Place(potato_1, cabinet_0)\"],\"explanation\":\"The previous plan placed potato_0 into cabinet_0. User requests another potato into the same cabinet. There is no other potato id in discussed_objects, so create potato_1, locate it, pick it up, and place it in cabinet_0 (which is already open).\"}"

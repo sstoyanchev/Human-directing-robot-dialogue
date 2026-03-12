@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(pot_1)\",\"Pick_up(pot_1)\"],\"explanation\":\"User asked to pick up another pot. pot_0 is in the state already, so I create a new pot_1 and will find it then pick it up.\"}"

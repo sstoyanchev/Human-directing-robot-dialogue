@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Toggle_on(sink_0)\"],\"explanation\":\"User asked to toggle on the sink. No sink ID in discussed_objects, so I create sink_0 and will Toggle_on(sink_0). Previous plan finished and robot is not holding anything.\"}"

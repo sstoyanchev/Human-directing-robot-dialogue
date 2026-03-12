@@ -1,0 +1,1 @@
+ <USER> wash it first; STATE: {"discussed_objects": ["apple_0 is PickedUp,   ; "], "old_plan": [{"command": "Pick_up(apple_0)", "status": "SubgoalStatus.SUCCESSFUL"}, {"command": "Place(apple_0, fridge_0)", "status": "SubgoalStatus.NOT_ATTEMPTED"}], "holding": "apple_0"}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(knife_0, countertop_0)\",\"Close(fridge_0)\"],\"explanation\":\"Old plan shows fridge_0 is open and I am holding knife_0. Place the held knife on countertop_0 first, then close fridge_0.\"}"

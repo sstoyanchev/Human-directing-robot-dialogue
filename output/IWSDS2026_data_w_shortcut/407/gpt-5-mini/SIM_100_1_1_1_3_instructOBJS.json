@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(tomato_1)\",\"Go_to(tomato_1)\"],\"explanation\":\"User asked to try another tomato \u2192 create new object tomato_1 (not in discussed_objects). Previous Go_to(tomato_0) succeeded; robot is holding knife_0, so just search for and go to tomato_1.\"}"

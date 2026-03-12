@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(cabinet_0)\",\"Open(cabinet_0)\",\"Go_to(bottle_0)\"],\"explanation\":\"bottle_0 is inside cabinet_0 per state; I'll go to the cabinet, open it, then go to the bottle. (previous subgoal Motion(RotateLeft) was successful)\"}"

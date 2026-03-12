@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Motion(MoveLeft)\",\"CONTINUE_FAILED\"],\"explanation\":\"Move left and continue the old plan starting with the failed step (Pick_up(cup_1)).\"}"

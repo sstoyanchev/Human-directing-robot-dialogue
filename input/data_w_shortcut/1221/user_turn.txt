@@ -1,0 +1,1 @@
+ <USER> place the cloth into the tub basin; STATE: {"discussed_objects": ["cloth_0 is Dirty,  is PickedUp,   ; ", "bathtub_0  is on top of a Floor ; "], "old_plan": [{"command": "Find(bathtub_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": "cloth_0"}

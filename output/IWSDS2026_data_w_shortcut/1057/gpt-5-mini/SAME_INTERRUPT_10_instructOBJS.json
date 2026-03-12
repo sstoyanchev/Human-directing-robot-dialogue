@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_0)\"],\"explanation\":\"Found the knife (Find(knife_0) succeeded) and I'm not holding anything, so next action is to pick up knife_0.\"}"

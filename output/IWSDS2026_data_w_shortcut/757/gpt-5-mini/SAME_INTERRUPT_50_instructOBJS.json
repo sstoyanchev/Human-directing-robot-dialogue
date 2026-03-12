@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(stool_1)\",\"CONTINUE_FAILED\"],\"explanation\":\"Move to the stool (new id stool_1) so I can retry the failed Pick_up(tomato_0) and continue the old plan.\"}"

@@ -1,0 +1,1 @@
+"{\n  \"intent\": \"Command\",\n  \"plan\": [\n    \"Go_to(sink_1)\"\n  ],\n  \"explanation\": \"User asked to go to the sink. No sink in discussed_objects, so I created sink_1. Old plan finished (Motion(RotateRight) SUCCESSFUL) and nothing is held, so I will go to sink_1.\"\n}"

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0, sink_0)\"],\"explanation\":\"Old plan failed referencing sink_1 (nonexistent). I am holding mug_0 and the sink in state is sink_0, so place mug_0 into sink_0.\"}"

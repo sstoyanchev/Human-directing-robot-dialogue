@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(bottle_1)\",\"Pour(bottle_1, mug_2)\",\"Place(bottle_1, countertop_0)\"],\"explanation\":\"The countertop has a filled bottle (bottle_1) we can use to fill the mug. The discussed mug had no ID, so I created mug_2 and will pick up the bottle, pour into mug_2, then place the bottle back on the countertop.\"}"

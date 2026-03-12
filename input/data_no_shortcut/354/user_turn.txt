@@ -1,0 +1,1 @@
+ <USER> now open the cabinet; STATE: {"discussed_objects": ["potato_0  is on top of a Floor ; ", "cabinet_0 is Open,   is on top of a Floor ; ", "potato_1  is inside a Cabinet ; "], "old_plan": [{"command": "Go_to(potato_1)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

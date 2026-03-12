@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(bowl_1)\",\"Place(tomatosliced_0,bowl_1)\"],\"explanation\":\"Old plan would place tomatosliced_0 on the countertop then go to bowl_1. User corrected to take the tomato slice with you to the bowl, so keep holding tomatosliced_0, go to bowl_1, then place it in bowl_1.\"}"

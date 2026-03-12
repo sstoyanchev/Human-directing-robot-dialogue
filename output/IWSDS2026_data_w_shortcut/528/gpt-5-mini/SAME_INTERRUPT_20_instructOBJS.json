@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(mug_0,sink_0)\",\"Toggle_on(faucet_1)\",\"Pick_up(mug_0)\",\"Place(mug_0,countertop_1)\",\"Toggle_off(faucet_1)\"],\"explanation\":\"mug_0 is currently held; I'll place it in sink_0, run the faucet (created faucet_1), then pick the mug up and place it on a countertop (created countertop_1) and turn off the faucet.\"}"

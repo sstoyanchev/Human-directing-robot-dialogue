@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(remotecontrol_0)\",\"Pick_up(remotecontrol_0)\",\"Place(remotecontrol_0, sofa_0)\"],\"explanation\":\"Locate a remote control, pick it up, and place it on the sofa. Repeat these steps for each additional remote control.\"}"

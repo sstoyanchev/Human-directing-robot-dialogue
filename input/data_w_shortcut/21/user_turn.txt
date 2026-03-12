@@ -1,0 +1,1 @@
+ <USER> its in the fridge; STATE: {"discussed_objects": ["apple_0  is inside a Fridge ; "], "old_plan": [{"command": "Pick_up(apple_0)", "status": "SubgoalStatus.FAILED"}], "holding": ""}

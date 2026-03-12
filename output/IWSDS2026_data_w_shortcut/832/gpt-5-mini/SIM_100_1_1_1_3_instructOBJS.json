@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(potato_0)\",\"Find(potato_1)\",\"Find(potato_2)\"],\"explanation\":\"Search the environment for all potatoes; enumerate multiple Find actions since count is unknown.\"}"

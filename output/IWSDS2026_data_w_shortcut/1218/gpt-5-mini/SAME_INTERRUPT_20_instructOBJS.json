@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(bathtubbasin_0)\",\"Place(cloth_0, bathtubbasin_0)\"],\"explanation\":\"User asked to find the tub first. Old plan was to place cloth_0 into bathtubbasin_0 and I am holding cloth_0, so I will Find the bathtubbasin_0 then Place(cloth_0, bathtubbasin_0).\"}"

@@ -1,0 +1,1 @@
+{"explanation": "the user refers to the mug I am holding. I will place it in the coffee machine", "intent": "Command", "plan": ["Place(mug_1,coffeemachine_0)", "Toggle_on(coffeemachine_0)"]}

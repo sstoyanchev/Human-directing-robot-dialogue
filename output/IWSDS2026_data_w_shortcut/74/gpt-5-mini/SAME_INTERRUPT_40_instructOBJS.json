@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Place(potato_0,cabinet_4)\"],\"explanation\":\"cabinet_4 already contains another potato, so place potato_0 into cabinet_4 and remove the subsequent Pick_up(potato_1) step from the old plan.\"}"

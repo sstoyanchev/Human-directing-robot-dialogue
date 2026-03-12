@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Go_to(stool_1)\",\"CONTINUE_FAILED\"],\"explanation\":\"Go to the stool (stool_1) where tomato_0 is located, then continue the old plan from the failed Pick_up(tomato_0).\"}"

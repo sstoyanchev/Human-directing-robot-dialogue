@@ -1,0 +1,1 @@
+ <USER> lets make some coffee; STATE: {"discussed_objects": ["coffeemachine_0 is Toggled,   is on top of a CounterTop ; "], "old_plan": [{"command": "Go_to(coffeemachine_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

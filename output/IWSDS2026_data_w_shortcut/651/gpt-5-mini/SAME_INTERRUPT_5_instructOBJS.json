@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Find(coffeemachine_0)\",\"Find(mug_0)\",\"Pick_up(mug_0)\",\"Place(mug_0, coffeemachine_0)\",\"Toggle_on(coffeemachine_0)\"],\"explanation\":\"No objects discussed yet\u2014I will locate the coffee machine and a mug, place the mug under the machine, and turn the machine on to brew coffee.\"}"

@@ -1,0 +1,1 @@
+ <USER> lets get the cloths and wash them; STATE: {"discussed_objects": ["cloth_0 is Dirty,   is on top of a CounterTop ; "], "old_plan": [{"command": "Find(cloth_0)", "status": "SubgoalStatus.SUCCESSFUL"}], "holding": ""}

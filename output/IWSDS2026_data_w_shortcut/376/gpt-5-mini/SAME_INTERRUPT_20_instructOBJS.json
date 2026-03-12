@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(knife_1)\",\"Slice(tomato_0)\"],\"explanation\":\"previous Pick_up(knife_0) failed \u2014 try Pick_up(knife_1) and then perform the not-attempted Slice(tomato_0).\"}"

@@ -1,0 +1,1 @@
+{"explanation": "drop the current plan and place the mug into the sinkbasin", "intent": "Command", "plan": ["Pick_up(mug_0)", "Place(mug_0, sinkbasin_0)"]}

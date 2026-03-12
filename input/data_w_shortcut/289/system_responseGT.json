@@ -1,0 +1,1 @@
+{"explanation": "the bread is inside the toaster. I will turn the toaster on and off", "intent": "Command", "plan": ["Toggle_on(toaster_0)", "Toggle_off(toaster_0)", "Pick_up(breadslice_0)", "Place(breadslice_0,plate_0)"]}

@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Pick_up(cloth_0)\",\"Place(cloth_0,sink_2)\"],\"explanation\":\"cloth_0 is on countertop_0 so I will pick up cloth_0 and place it into the sink (sink not in state so I refer to it as sink_2).\"}"

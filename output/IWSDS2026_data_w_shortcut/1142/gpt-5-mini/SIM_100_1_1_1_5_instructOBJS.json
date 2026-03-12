@@ -1,0 +1,1 @@
+"{\"intent\":\"Command\",\"plan\":[\"Open(cabinet_0)\",\"Pick_up(potato_0)\",\"Place(potato_0,cabinet_0)\",\"Pick_up(potato_1)\",\"Place(potato_1,cabinet_0)\",\"Close(cabinet_0)\"],\"explanation\":\"Open the cabinet, place each potato into it (using two potato objects as 'all potatoes'), then close the cabinet.\"}"
