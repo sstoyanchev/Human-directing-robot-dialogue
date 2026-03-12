@@ -1,11 +1,11 @@
-# Human-directing-robot dialogue
+## [Context-Aware Language Understanding in Human-Robot Dialogue with LLMs](https://aclanthology.org/2026.iwsds-1.27/)
 
 This repository contains a dataset of human-robot interactions recorded using interactive [AI2THOR virtual environment](https://ai2thor.allenai.org/) 
 with the home scenes from [TEACH dataset](https://arxiv.org/pdf/2110.00534). The users interacted with the virtual robot using text chat and the interpretation of the user directives was manually corrected. ~20% of user utterances in the dataset are isued while the robot is perofming a task, presenting a challenge of interpreting interruptions and corrections.  LLM translates the user's natural language utterance with its context into a corresponding sequence of API calls. The paper presents evaluation results using Qwen3-4B and Gpt-5-mini. The scripts for replicating the experiments or running  with the other models are included.
 
 If you are interested in collecting data using this interface, we would be happy to share the source code of the interactive interface and collaborate future research. Please [get in touch](svetlana.stoyanchev@toshiba.eu).
 
-## [Context-Aware Language Understanding in Human-Robot Dialogue with LLMs](https://aclanthology.org/2026.iwsds-1.27/)
+
 
 
 ```bibtex
