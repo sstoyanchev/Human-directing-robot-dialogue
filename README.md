@@ -100,6 +100,13 @@ Pre-generated few-shot example files:
 
 Same as *data_w_shortcut* except system_responseGT.json contains full plan without CONTINUE_FAILED and CONTINUE_NA shortcuts
 
+#### data_no_shortcut/
+Instructions for the LLM. 
+- instruction_INITIAL.txt
+- instruction_OBJ.txt
+
+Instruction type (INITIAL/OBJ) are parameters to the script. Create a new instruction instruction_NEW.txt for another experiment.
+
 ### output/
 
 - data_w_shortcut/   - empty folders where output will be generated when you run th experiment(same name as input/)
